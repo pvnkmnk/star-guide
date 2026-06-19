@@ -4,6 +4,9 @@
 
 **Live wiki:** → [pvnkmnk.github.io/github-stars](https://pvnkmnk.github.io/github-stars/)
 
+[![Deploy](https://github.com/pvnkmnk/github-stars/actions/workflows/deploy-gh-pages.yml/badge.svg)](https://github.com/pvnkmnk/github-stars/actions/workflows/deploy-gh-pages.yml)
+[![Weekly Refresh](https://github.com/pvnkmnk/github-stars/actions/workflows/update-stars.yml/badge.svg)](https://github.com/pvnkmnk/github-stars/actions/workflows/update-stars.yml)
+
 ---
 
 ## 📂 File Guide
