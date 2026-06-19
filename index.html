@@ -1244,5 +1244,13 @@ document.getElementById('theme-toggle').addEventListener('click',()=>{
   localStorage.setItem('theme', next);
 });
 </script>
+<script>
+// Service worker registration for offline support
+if('serviceWorker' in navigator){
+  navigator.serviceWorker.register('/github-stars/sw.js',{scope:'/github-stars/'})
+    .then(reg => console.log('SW registered:', reg.scope))
+    .catch(() => {});
+}
+</script>
 </body>
 </html>
