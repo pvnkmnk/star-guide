@@ -1,0 +1,43 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Prepare deploy directory
+        run: |
+          mkdir -p _deploy
+          cp index.html _deploy/
+          cp -r stars/ _deploy/
+          touch _deploy/.nojekyll
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_deploy
+          publish_branch: gh-pages
+          force_orphan: true
+          commit_message: 'deploy: ${{ github.event.head_commit.message }}'
+
+      - name: Notify success
+        run: |
+          echo "::notice::Deployed to gh-pages — live at https://pvnkmnk.github.io/github-stars/"
+
+      - name: Notify failure
+        if: failure()
+        run: |
+          echo "::error::Deploy failed! Check logs: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
