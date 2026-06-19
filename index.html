@@ -1,0 +1,954 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>pvnkmnk ★ STAR-GUIDE</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&family=Nothing+You+Could+Do&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg-deep: #06060e;
+  --bg-surface: #0d0d1a;
+  --bg-card: #12122a;
+  --neon-cyan: #00f0ff;
+  --neon-magenta: #ff00aa;
+  --neon-green: #39ff14;
+  --neon-yellow: #ffdd00;
+  --text-bright: #e8e8f0;
+  --text-body: #b0b0cc;
+  --text-dim: #6a6a88;
+  --border-glow: #1a1a3a;
+  --radius: 6px;
+  --scanline-opacity: 0.03;
+}
+
+/* ─── Light Theme ─── */
+[data-theme="light"] {
+  --bg-deep: #f8f8fc;
+  --bg-surface: #ffffff;
+  --bg-card: #f0f0f6;
+  --neon-cyan: #2563eb;
+  --neon-magenta: #a21caf;
+  --neon-green: #059669;
+  --neon-yellow: #d97706;
+  --text-bright: #111827;
+  --text-body: #374151;
+  --text-dim: #6b7280;
+  --border-glow: #d1d5db;
+  --scanline-opacity: 0;
+}
+[data-theme="light"] body::after{display:none}
+[data-theme="light"] body::before{display:none}
+[data-theme="light"] h1{text-shadow:none}
+[data-theme="light"] h2{text-shadow:none}
+[data-theme="light"] header .subtitle{text-shadow:none}
+[data-theme="light"] .hero-repos h3{text-shadow:none}
+[data-theme="light"] .tool-table .repo:hover{text-shadow:none}
+[data-theme="light"] .tool-table tr:hover td{background:rgba(37,99,235,0.04)}
+[data-theme="light"] .cat-header:hover{background:rgba(37,99,235,0.04)}
+[data-theme="light"] .search-input:focus{box-shadow:0 0 0 2px rgba(37,99,235,0.15)}
+[data-theme="light"] .hero-card:hover{box-shadow:0 2px 12px rgba(0,0,0,0.08);transform:translateY(-2px)}
+[data-theme="light"] .category.expanded{border-color:var(--neon-cyan)}
+[data-theme="light"] .nav-pill:hover,[data-theme="light"] .nav-pill.active{box-shadow:0 0 0 2px rgba(37,99,235,0.15)}
+[data-theme="light"] .sort-btn.active{box-shadow:0 0 0 1px var(--neon-green)}
+[data-theme="light"] .lang-select:focus{box-shadow:0 0 0 2px rgba(5,150,105,0.15)}
+[data-theme="light"] .lang-clear:hover{box-shadow:0 0 0 1px var(--neon-magenta)}
+[data-theme="light"] header{box-shadow:0 1px 3px rgba(0,0,0,0.06)}
+[data-theme="light"] footer a:hover{text-shadow:none}
+[data-theme="light"] .loading{color:var(--neon-cyan);animation:none}
+[data-theme="light"] .loading .bar::after{background:var(--neon-cyan)}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;font-size:16px}
+body{
+  background:var(--bg-deep);
+  color:var(--text-body);
+  font-family:'Share Tech Mono',monospace;
+  line-height:1.6;
+  min-height:100vh;
+  overflow-x:hidden;
+}
+body::after{
+  content:'';
+  position:fixed;
+  inset:0;
+  background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,240,255,var(--scanline-opacity)) 2px,rgba(0,240,255,var(--scanline-opacity)) 4px);
+  pointer-events:none;
+  z-index:9999;
+}
+body::before{
+  content:'';
+  position:fixed;
+  inset:0;
+  background:radial-gradient(ellipse at 50% 0%,rgba(255,0,170,0.06) 0%,transparent 60%),
+             radial-gradient(ellipse at 80% 100%,rgba(0,240,255,0.04) 0%,transparent 50%);
+  pointer-events:none;
+  z-index:0;
+}
+
+/* ─── Typography ─── */
+h1,h2,h3{font-family:'Orbitron',sans-serif;text-wrap:balance}
+h1{
+  font-size:clamp(2rem,5vw,5rem);
+  font-weight:900;
+  letter-spacing:-0.02em;
+  color:var(--text-bright);
+  text-shadow:0 0 40px var(--neon-cyan),0 0 80px var(--neon-cyan),0 0 120px rgba(0,240,255,0.3);
+  line-height:1.1;
+}
+h2{
+  font-size:clamp(1.3rem,3vw,2rem);
+  font-weight:700;
+  letter-spacing:0.04em;
+  color:var(--neon-cyan);
+  text-shadow:0 0 20px rgba(0,240,255,0.4);
+}
+h3{
+  font-size:clamp(0.95rem,2vw,1.2rem);
+  font-weight:700;
+  letter-spacing:0.06em;
+  color:var(--text-bright);
+}
+
+/* ─── Theme Toggle ─── */
+.theme-toggle{
+  position:absolute;
+  top:1rem;
+  right:1.5rem;
+  background:var(--bg-card);
+  border:1px solid var(--border-glow);
+  border-radius:20px;
+  padding:0.35rem 0.7rem;
+  color:var(--neon-yellow);
+  font-family:'Share Tech Mono',monospace;
+  font-size:0.72rem;
+  cursor:pointer;
+  transition:all 0.2s;
+  z-index:2;
+  display:flex;
+  align-items:center;
+  gap:0.35rem;
+}
+.theme-toggle:hover{
+  border-color:var(--neon-yellow);
+  box-shadow:0 0 12px rgba(255,221,0,0.2);
+}
+[data-theme="dark"] .theme-toggle .light-icon{display:none}
+[data-theme="light"] .theme-toggle .dark-icon{display:none}
+[data-theme="light"] .theme-toggle{color:var(--neon-cyan)}
+[data-theme="light"] .theme-toggle:hover{border-color:var(--neon-cyan);box-shadow:0 0 0 2px rgba(37,99,235,0.15)}
+
+/* ─── Layout ─── */
+.container{max-width:1200px;margin:0 auto;padding:0 1.5rem;position:relative;z-index:1}
+header{
+  padding:3rem 1.5rem 2rem;
+  text-align:center;
+  position:relative;
+  z-index:1;
+  border-bottom:1px solid var(--border-glow);
+  box-shadow:0 1px 30px rgba(0,240,255,0.08);
+}
+header .subtitle{
+  color:var(--neon-magenta);
+  font-family:'Nothing You Could Do',cursive;
+  font-size:1.3rem;
+  margin-top:0.5rem;
+  text-shadow:0 0 15px rgba(255,0,170,0.5);
+}
+header .stats{
+  display:flex;
+  justify-content:center;
+  gap:1.5rem;
+  flex-wrap:wrap;
+  margin-top:1.5rem;
+  font-size:0.9rem;
+}
+header .stats span{
+  background:var(--bg-card);
+  border:1px solid var(--border-glow);
+  padding:0.4rem 1rem;
+  border-radius:var(--radius);
+  color:var(--neon-cyan);
+}
+
+/* ─── Hero Top Repos ─── */
+.hero-repos{
+  padding:2.5rem 1.5rem 1.5rem;
+  position:relative;
+  z-index:1;
+}
+.hero-repos h3{
+  text-align:center;
+  color:var(--neon-yellow);
+  text-shadow:0 0 25px rgba(255,221,0,0.4);
+  margin-bottom:1rem;
+  font-size:1rem;
+  letter-spacing:0.1em;
+}
+.hero-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+  gap:0.75rem;
+  max-width:1200px;
+  margin:0 auto;
+}
+.hero-card{
+  background:var(--bg-card);
+  border:1px solid var(--border-glow);
+  border-radius:var(--radius);
+  padding:0.9rem 1rem;
+  cursor:pointer;
+  transition:all 0.2s ease;
+  text-decoration:none;
+  color:inherit;
+  display:flex;
+  flex-direction:column;
+  gap:0.2rem;
+  position:relative;
+  overflow:hidden;
+}
+.hero-card:hover{
+  border-color:var(--neon-magenta);
+  box-shadow:0 0 20px rgba(255,0,170,0.2),inset 0 0 20px rgba(255,0,170,0.04);
+  transform:translateY(-2px);
+}
+.hero-card .repo-name{
+  color:var(--text-bright);
+  font-size:0.95rem;
+  font-weight:700;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+.hero-card .repo-stars{
+  color:var(--neon-yellow);
+  font-size:0.8rem;
+}
+.hero-card .repo-cat{
+  font-size:0.7rem;
+  color:var(--text-dim);
+}
+
+/* ─── Search ─── */
+.search-wrap{
+  padding:1.5rem;
+  position:relative;
+  z-index:1;
+  max-width:700px;
+  margin:0 auto;
+}
+.search-input{
+  width:100%;
+  background:var(--bg-surface);
+  border:1px solid var(--border-glow);
+  border-radius:var(--radius);
+  padding:0.75rem 1rem;
+  color:var(--text-bright);
+  font-family:'Share Tech Mono',monospace;
+  font-size:0.95rem;
+  transition:all 0.2s;
+}
+.search-input:focus{
+  outline:none;
+  border-color:var(--neon-cyan);
+  box-shadow:0 0 15px rgba(0,240,255,0.2),inset 0 0 10px rgba(0,240,255,0.04);
+}
+.search-input::placeholder{color:var(--text-dim)}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.search-results{
+  font-size:0.8rem;
+  color:var(--neon-magenta);
+  margin-top:0.4rem;
+  text-align:center;
+  min-height:1.2em;
+}
+.filter-bar{
+  display:flex;
+  gap:0.6rem;
+  align-items:center;
+  justify-content:center;
+  margin-top:0.6rem;
+  flex-wrap:wrap;
+}
+.lang-select{
+  background:var(--bg-card);
+  border:1px solid var(--border-glow);
+  border-radius:var(--radius);
+  padding:0.35rem 0.7rem;
+  color:var(--text-body);
+  font-family:'Share Tech Mono',monospace;
+  font-size:0.78rem;
+  cursor:pointer;
+  transition:all 0.15s;
+  max-width:200px;
+}
+.lang-select:focus{
+  outline:none;
+  border-color:var(--neon-green);
+  box-shadow:0 0 12px rgba(57,255,20,0.15);
+}
+.lang-select option{background:var(--bg-card);color:var(--text-body)}
+.lang-clear{
+  background:none;
+  border:1px solid var(--border-glow);
+  border-radius:var(--radius);
+  padding:0.35rem 0.6rem;
+  color:var(--neon-magenta);
+  font-family:'Share Tech Mono',monospace;
+  font-size:0.72rem;
+  cursor:pointer;
+  transition:all 0.15s;
+}
+.lang-clear:hover{border-color:var(--neon-magenta);box-shadow:0 0 8px rgba(255,0,170,0.15)}
+
+/* ─── Sort Controls ─── */
+.sort-controls{
+  display:flex;
+  gap:3px;
+  margin-left:0.4rem;
+}
+.sort-btn{
+  background:var(--bg-card);
+  border:1px solid var(--border-glow);
+  border-radius:4px;
+  padding:0.18rem 0.4rem;
+  color:var(--text-dim);
+  font-family:'Share Tech Mono',monospace;
+  font-size:0.62rem;
+  cursor:pointer;
+  transition:all 0.12s;
+  white-space:nowrap;
+}
+.sort-btn:hover{border-color:var(--neon-green);color:var(--text-body)}
+.sort-btn.active{
+  border-color:var(--neon-green);
+  color:var(--neon-green);
+  box-shadow:0 0 8px rgba(57,255,20,0.2);
+}
+
+/* ─── Navigation Pills ─── */
+.nav-pills{
+  display:flex;
+  flex-wrap:wrap;
+  gap:0.5rem;
+  padding:1rem 1.5rem;
+  max-width:1200px;
+  margin:0 auto;
+  position:relative;
+  z-index:1;
+  justify-content:center;
+}
+.nav-pill{
+  background:var(--bg-card);
+  border:1px solid var(--border-glow);
+  border-radius:20px;
+  padding:0.35rem 0.85rem;
+  font-size:0.78rem;
+  color:var(--text-body);
+  cursor:pointer;
+  transition:all 0.15s;
+  font-family:'Share Tech Mono',monospace;
+  white-space:nowrap;
+}
+.nav-pill:hover,.nav-pill.active{
+  border-color:var(--neon-cyan);
+  color:var(--neon-cyan);
+  box-shadow:0 0 12px rgba(0,240,255,0.15);
+}
+.nav-pill .count{color:var(--text-dim);font-size:0.7rem}
+
+/* ─── Category Sections ─── */
+main{
+  max-width:1200px;
+  margin:0 auto;
+  padding:0 1.5rem 4rem;
+  position:relative;
+  z-index:1;
+}
+.category{
+  margin-bottom:1.5rem;
+  border:1px solid var(--border-glow);
+  border-radius:var(--radius);
+  background:var(--bg-surface);
+  overflow:hidden;
+  transition:border-color 0.2s;
+}
+.category.expanded{border-color:rgba(0,240,255,0.2)}
+.cat-header{
+  display:flex;
+  align-items:center;
+  gap:0.6rem;
+  padding:0.9rem 1.2rem;
+  cursor:pointer;
+  user-select:none;
+  transition:background 0.15s;
+}
+.cat-header:hover{background:rgba(0,240,255,0.03)}
+.cat-header .emoji{font-size:1.5rem}
+.cat-header .name{
+  font-family:'Orbitron',sans-serif;
+  font-weight:700;
+  font-size:0.95rem;
+  color:var(--text-bright);
+  letter-spacing:0.04em;
+}
+.cat-header .count{
+  margin-left:auto;
+  font-size:0.8rem;
+  color:var(--text-dim);
+  background:var(--bg-card);
+  padding:0.2rem 0.6rem;
+  border-radius:10px;
+}
+.cat-header .arrow{
+  font-size:0.75rem;
+  color:var(--text-dim);
+  transition:transform 0.25s;
+}
+.category.expanded .cat-header .arrow{transform:rotate(180deg)}
+.cat-body{display:none;overflow-x:auto}
+.category.expanded .cat-body{display:block}
+
+/* ─── Tool Table ─── */
+.tool-table{
+  width:100%;
+  border-collapse:collapse;
+  font-size:0.82rem;
+}
+.tool-table thead{
+  position:sticky;
+  top:0;
+  z-index:2;
+}
+.tool-table th{
+  background:var(--bg-card);
+  padding:0.55rem 0.7rem;
+  text-align:left;
+  font-family:'Orbitron',sans-serif;
+  font-size:0.65rem;
+  letter-spacing:0.08em;
+  color:var(--neon-cyan);
+  border-bottom:1px solid var(--border-glow);
+}
+.tool-table td{
+  padding:0.45rem 0.7rem;
+  border-bottom:1px solid rgba(26,26,58,0.4);
+  vertical-align:middle;
+}
+.tool-table tr:hover td{background:rgba(0,240,255,0.03)}
+.tool-table .repo{
+  color:var(--text-bright);
+  text-decoration:none;
+  font-weight:700;
+  transition:color 0.15s;
+}
+.tool-table .repo:hover{
+  color:var(--neon-magenta);
+  text-shadow:0 0 10px rgba(255,0,170,0.3);
+}
+.tool-table .stars{
+  color:var(--neon-yellow);
+  text-align:right;
+  white-space:nowrap;
+  font-size:0.78rem;
+}
+.tool-table .lang{
+  color:var(--text-dim);
+  font-size:0.72rem;
+  text-align:center;
+  white-space:nowrap;
+}
+.tool-table .desc{
+  color:var(--text-body);
+  font-size:0.78rem;
+  max-width:400px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+}
+.tool-table .desc:hover{
+  white-space:normal;
+  overflow:visible;
+}
+
+/* ─── Punk Distress Elements ─── */
+.punk-tear{
+  position:relative;
+}
+.punk-tear::before{
+  content:'// ';
+  color:var(--neon-magenta);
+  opacity:0.5;
+  font-family:'Nothing You Could Do',cursive;
+  font-size:0.7rem;
+}
+.glitch-text{
+  animation:glitch 3s infinite steps(1);
+}
+@keyframes glitch{
+  0%,93%,96%,100%{transform:translate(0)}
+  94%{transform:translate(-3px,1px)}
+  95%{transform:translate(3px,-1px)}
+  97%{transform:translate(-2px,0)}
+  98%{transform:translate(2px,-1px)}
+}
+.neon-flicker{
+  animation:flicker 4s infinite alternate;
+}
+@keyframes flicker{
+  0%,19%,21%,23%,25%,54%,56%,100%{opacity:1}
+  20%,24%,55%{opacity:0.6}
+}
+
+/* ─── Footer ─── */
+footer{
+  text-align:center;
+  padding:2rem 1.5rem 3rem;
+  position:relative;
+  z-index:1;
+  border-top:1px solid var(--border-glow);
+  font-size:0.75rem;
+  color:var(--text-dim);
+}
+footer a{color:var(--neon-cyan);text-decoration:none}
+footer a:hover{text-shadow:0 0 10px rgba(0,240,255,0.5)}
+
+/* ─── Loading ─── */
+.loading{
+  text-align:center;
+  padding:4rem 1rem;
+  color:var(--neon-cyan);
+  font-family:'Orbitron',sans-serif;
+  font-size:1.1rem;
+  letter-spacing:0.1em;
+  animation:flicker 1.5s infinite;
+}
+.loading .bar{
+  display:inline-block;
+  width:200px;
+  height:2px;
+  background:var(--border-glow);
+  margin-top:1rem;
+  position:relative;
+  overflow:hidden;
+}
+.loading .bar::after{
+  content:'';
+  position:absolute;
+  inset:0;
+  background:var(--neon-cyan);
+  animation:load 1.8s ease-in-out infinite;
+  width:30%;
+}
+@keyframes load{0%{transform:translateX(-100%)}100%{transform:translateX(400%)}}
+
+/* ─── Responsive ─── */
+@media(max-width:768px){
+  h1{font-size:1.8rem}
+  header{padding:2rem 1rem 1.5rem}
+  .hero-grid{grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
+  .tool-table{font-size:0.72rem}
+  .tool-table th,.tool-table td{padding:0.35rem 0.4rem}
+  .tool-table .desc{max-width:180px}
+  .nav-pill{padding:0.3rem 0.6rem;font-size:0.7rem}
+  .cat-header{padding:0.7rem 0.9rem}
+}
+@media(max-width:480px){
+  .container{padding:0 0.75rem}
+  .hero-grid{grid-template-columns:1fr 1fr}
+  .tool-table .desc{max-width:120px}
+  .cat-header .name{font-size:0.8rem}
+}
+
+/* ─── Reduced Motion ─── */
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:0.01ms !important;animation-iteration-count:1 !important;transition-duration:0.01ms !important}
+}
+</style>
+</head>
+<body>
+<header>
+  <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme" title="Toggle dark/light mode">
+    <span class="dark-icon">◉</span><span class="light-icon">◎</span> theme
+  </button>
+  <div class="container">
+    <h1 class="glitch-text">STAR<span style="color:var(--neon-magenta)">//</span>GUIDE</h1>
+    <p class="subtitle">curated chaos from the digital underground</p>
+    <div class="stats" id="header-stats">
+      <span>⬤ 1,033 stars</span>
+      <span>⬤ 18 categories</span>
+      <span>⬤ 1,014 curated</span>
+    </div>
+  </div>
+</header>
+
+<div class="hero-repos" id="hero"><div class="loading neon-flicker">SYNCHRONIZING<span class="bar"></span></div></div>
+<div class="search-wrap">
+  <label for="search" class="sr-only">Search tools</label>
+  <input type="text" class="search-input" id="search" aria-label="Search tools by name, language, or description" placeholder="> search tools, languages, descriptions..." autocomplete="off">
+  <div class="filter-bar">
+    <select class="lang-select" id="lang-filter" aria-label="Filter by language"><option value="">all languages</option></select>
+    <button class="lang-clear" id="lang-clear" hidden>× clear</button>
+  </div>
+  <div class="search-results" id="search-info"></div>
+</div>
+<div class="nav-pills" id="nav-pills"></div>
+<main id="main-content"><div class="loading neon-flicker">LOADING DATA<span class="bar"></span></div></main>
+<footer>
+  <div class="container">
+    <p class="punk-tear">compiled from 1,033 starred repos using <a href="https://github.com/prabirshrestha/gh-stars" target="_blank">gh-stars</a></p>
+    <p style="margin-top:0.4rem"><a href="https://github.com/pvnkmnk/github-stars" target="_blank">github.com/pvnkmnk/github-stars</a> ★ auto-updated weekly</p>
+  </div>
+</footer>
+
+<script>
+// ─── Data layer ───
+const CATEGORY_META = {
+  '📡':{name:'Homelab Infrastructure',desc:'Servers, self-hosting, dashboards, networking, and home lab management'},
+  '🤖':{name:'Agentic Dev Tools',desc:'AI coding agents, frameworks, MCP tools, memory, and developer tooling'},
+  '🎵':{name:'Self-Hosted Media',desc:'Music, video, photo servers, streaming, and media management'},
+  '🐳':{name:'Docker & Container',desc:'Docker tools, container orchestration, and container-native development'},
+  '🧠':{name:'AI / LLM Tools',desc:'LLM runtimes, vector databases, RAG frameworks, and AI infrastructure'},
+  '🗄️':{name:'Databases & Storage',desc:'Databases, data platforms, storage engines, and DB tooling'},
+  '🔒':{name:'Security & Auth',desc:'Security tools, auth servers, VPN, vulnerability scanning, and agent security'},
+  '⚡':{name:'Automation & Workflows',desc:'Workflow automation, scheduling, and process orchestration'},
+  '💻':{name:'Dev Tools & Languages',desc:'Learning resources, frameworks, testing, API tools, static site generators'},
+  '⌨️':{name:'Terminal, CLI & Shell',desc:'Terminal emulators, shell tools, editors, file managers, and CLI productivity'},
+  '📝':{name:'Knowledge & PKM',desc:'Obsidian ecosystem, note-taking apps, AI-first knowledge tools, and personal wikis'},
+  '🌐':{name:'Web & Frontend',desc:'Web frameworks, design systems, browser tools, and frontend infrastructure'},
+  '💬':{name:'Chat & Messaging',desc:'Chat platforms, messaging bots, communication tools'},
+  '📄':{name:'Docs & Blog',desc:'Documentation generators, static sites, and content publishing'},
+  '📱':{name:'Mobile',desc:'Android and iOS tools, apps, and mobile development'},
+  '🪟':{name:'Windows',desc:'Windows customization, utilities, and desktop enhancement'},
+  '📦':{name:'Low Signal',desc:'Weak category matches — low-confidence automated placements'},
+  '❓':{name:'Unique & Niche',desc:'No keyword match — one-of-a-kind repos, manually reviewed'},
+};
+
+const EMOJI_ORDER = ['📡','🤖','🎵','🐳','🧠','🗄️','🔒','⚡','💻','⌨️','📝','🌐','💬','📄','📱','🪟','📦','❓'];
+
+let allTools = [];
+let categories = {};
+
+function fmtStars(n){
+  if(n>=1000000) return (n/1000000).toFixed(1)+'M';
+  if(n>=1000) return (n/1000).toFixed(1)+'k';
+  return String(n);
+}
+
+async function loadData(){
+  try{
+    const resp = await fetch('stars/AGENT-GUIDE.md');
+    if(!resp.ok) throw new Error('HTTP '+resp.status);
+    const text = await resp.text();
+    parseAGENT(text);
+  }catch(e){
+    document.getElementById('hero').innerHTML = '';
+    document.getElementById('main-content').innerHTML =
+      '<div class="loading" style="color:var(--neon-magenta)">SIGNAL LOST — '+e.message+'</div>';
+  }
+}
+
+function parseAGENT(text){
+  const lines = text.split('\n');
+  categories = {};
+  allTools = [];
+
+  for(const line of lines){
+    if(!line || line.startsWith('#')) continue;
+    const parts = line.split('|');
+    if(parts.length < 5) continue;
+    const emoji = parts[0].trim();
+    const stars = parseInt(parts[1],10) || 0;
+    const fullName = parts[2].trim();
+    const lang = parts[3].trim();
+    const desc = parts.slice(4).join('|').trim();
+
+    if(!emoji || !fullName) continue;
+
+    const tool = {emoji,stars,fullName,lang,desc,repoName:fullName.split('/')[1]};
+    allTools.push(tool);
+    if(!categories[emoji]) categories[emoji] = [];
+    categories[emoji].push(tool);
+  }
+
+  // Sort each category by stars desc
+  for(const e of Object.keys(categories)){
+    categories[e].sort((a,b)=>b.stars-a.stars);
+  }
+
+  // Collect unique languages
+  const langSet = new Set();
+  for(const t of allTools){
+    if(t.lang && t.lang!=='-') langSet.add(t.lang);
+  }
+  window.allLanguages = [...langSet].sort((a,b)=>a.localeCompare(b));
+
+  renderAll();
+}
+
+// Per-category sort state: 'stars' (default) or 'name'
+let sortState = {};
+let langFilter = '';
+
+function renderAll(){
+  renderHero();
+  renderNav();
+  renderCategories();
+  setupLangFilter();
+  setupSearch();
+}
+
+function renderHero(){
+  // Top 8 by stars across all categories
+  const top = [...allTools].sort((a,b)=>b.stars-a.stars).slice(0,8);
+  const hero = document.getElementById('hero');
+  hero.innerHTML = '<h3>⬡ TOP SIGNALS</h3><div class="hero-grid">'+
+    top.map(t=>`<a class="hero-card" href="https://github.com/${t.fullName}" target="_blank">
+      <span class="repo-name">${t.emoji} ${t.repoName}</span>
+      <span class="repo-stars">★ ${fmtStars(t.stars)}</span>
+      <span class="repo-cat">${CATEGORY_META[t.emoji]?.name||''}</span>
+    </a>`).join('')+
+    '</div>';
+}
+
+function renderNav(){
+  const nav = document.getElementById('nav-pills');
+  nav.innerHTML = EMOJI_ORDER.filter(e=>categories[e]&&categories[e].length>0).map(e=>{
+    const c = categories[e];
+    const total = c.reduce((s,t)=>s+t.stars,0);
+    return `<button class="nav-pill" data-emoji="${e}" title="${CATEGORY_META[e]?.name||''} — ${fmtStars(total)} total ★">
+      ${e} ${CATEGORY_META[e]?.name.split(' ')[0]||e} <span class="count">${c.length}</span>
+    </button>`;
+  }).join('');
+
+  nav.querySelectorAll('.nav-pill').forEach(btn=>{
+    btn.addEventListener('click',()=>{
+      const emoji = btn.dataset.emoji;
+      const el = document.getElementById('cat-'+encodeEmoji(emoji));
+      if(el){
+        el.scrollIntoView({behavior:'smooth',block:'start'});
+        if(!el.classList.contains('expanded')){
+          el.querySelector('.cat-header').click();
+        }
+      }
+    });
+  });
+}
+
+function renderCategories(){
+  const main = document.getElementById('main-content');
+  main.innerHTML = EMOJI_ORDER.filter(e=>categories[e]&&categories[e].length>0).map(e=>{
+    const tools = categories[e];
+    const meta = CATEGORY_META[e]||{name:e,desc:''};
+    const totalStars = tools.reduce((s,t)=>s+t.stars,0);
+    return `<div class="category" id="cat-${encodeEmoji(e)}">
+      <div class="cat-header" role="button" tabindex="0" aria-expanded="false" data-emoji="${e}">
+        <span class="emoji">${e}</span>
+        <span class="name">${meta.name}</span>
+        <span class="count">${tools.length} tools ★ ${fmtStars(totalStars)}</span>
+        <span class="sort-controls">
+          <button class="sort-btn ${(sortState[e]||'stars')==='stars'?'active':''}" data-emoji="${e}" data-sort="stars" aria-label="Sort by stars">★</button>
+          <button class="sort-btn ${sortState[e]==='name'?'active':''}" data-emoji="${e}" data-sort="name" aria-label="Sort by name">A-Z</button>
+        </span>
+        <span class="arrow">▼</span>
+      </div>
+      <div class="cat-body">
+        <table class="tool-table">
+          <thead><tr><th>REPO</th><th>★</th><th>LANG</th><th>DESCRIPTION</th></tr></thead>
+          <tbody>
+            ${tools.map(t=>`<tr>
+              <td><a class="repo" href="https://github.com/${t.fullName}" target="_blank">${t.repoName}</a></td>
+              <td class="stars">${fmtStars(t.stars)}</td>
+              <td class="lang">${t.lang&&t.lang!=='-'?t.lang:'—'}</td>
+              <td class="desc" title="${escHtml(t.desc)}">${escHtml(t.desc)}</td>
+            </tr>`).join('')}
+          </tbody>
+        </table>
+      </div>
+    </div>`;
+  }).join('');
+
+  // Toggle expand (click + keyboard)
+  function toggleCat(header){
+    const cat = header.closest('.category');
+    const expanded = !cat.classList.contains('expanded');
+    cat.classList.toggle('expanded');
+    header.setAttribute('aria-expanded', String(expanded));
+  }
+  main.querySelectorAll('.cat-header').forEach(h=>{
+    h.addEventListener('click',()=>toggleCat(h));
+    h.addEventListener('keydown',e=>{
+      if(e.key==='Enter'||e.key===' '){e.preventDefault();toggleCat(h);}
+    });
+  });
+
+  // Sort button handlers
+  main.querySelectorAll('.sort-btn').forEach(btn=>{
+    btn.addEventListener('click',e=>{
+      e.stopPropagation();
+      const emoji = btn.dataset.emoji;
+      const sort = btn.dataset.sort;
+      sortState[emoji] = sort;
+      // Update active state for this category's buttons
+      const cat = btn.closest('.category');
+      cat.querySelectorAll('.sort-btn').forEach(b=>b.classList.toggle('active',b.dataset.sort===sort));
+      // Re-sort and re-render that category's table
+      reRenderCategory(emoji, cat);
+    });
+  });
+
+  // Expand first category by default
+  const first = main.querySelector('.category');
+  if(first){
+    first.classList.add('expanded');
+    const firstHeader = first.querySelector('.cat-header');
+    if(firstHeader) firstHeader.setAttribute('aria-expanded','true');
+  }
+}
+
+function reRenderCategory(emoji, catEl){
+  const tools = [...categories[emoji]];
+  const sort = sortState[emoji] || 'stars';
+  if(sort==='stars') tools.sort((a,b)=>b.stars-a.stars);
+  else tools.sort((a,b)=>a.repoName.toLowerCase().localeCompare(b.repoName.toLowerCase()));
+  const tbody = catEl.querySelector('tbody');
+  tbody.innerHTML = tools.map(t=>`<tr>
+    <td><a class="repo" href="https://github.com/${t.fullName}" target="_blank">${t.repoName}</a></td>
+    <td class="stars">${fmtStars(t.stars)}</td>
+    <td class="lang">${t.lang&&t.lang!=='-'?t.lang:'—'}</td>
+    <td class="desc" title="${escHtml(t.desc)}">${escHtml(t.desc)}</td>
+  </tr>`).join('');
+  // Re-apply any active filters
+  applyFilters();
+}
+
+function setupLangFilter(){
+  const select = document.getElementById('lang-filter');
+  const clearBtn = document.getElementById('lang-clear');
+  // Populate options
+  select.innerHTML = '<option value="">all languages ('+allLanguages.length+')</option>'+
+    window.allLanguages.map(l=>`<option value="${escHtml(l)}">${l}</option>`).join('');
+
+  select.addEventListener('change',()=>{
+    langFilter = select.value;
+    clearBtn.hidden = !langFilter;
+    applyFilters();
+    window.updateSearchInfo();
+  });
+  clearBtn.addEventListener('click',()=>{
+    select.value = '';
+    langFilter = '';
+    clearBtn.hidden = true;
+    applyFilters();
+    window.updateSearchInfo();
+  });
+}
+
+function applyFilters(){
+  const q = (document.getElementById('search').value||'').toLowerCase().trim();
+  let totalVisible = 0;
+
+  document.querySelectorAll('.category').forEach(cat=>{
+    const rows = cat.querySelectorAll('tbody tr');
+    let catVisible = 0;
+    rows.forEach(row=>{
+      let show = true;
+      if(q){
+        const text = row.textContent.toLowerCase();
+        if(!text.includes(q)) show = false;
+      }
+      if(show && langFilter){
+        const langCell = row.querySelector('.lang');
+        const lang = langCell ? langCell.textContent.trim() : '';
+        if(lang !== langFilter) show = false;
+      }
+      row.style.display = show ? '' : 'none';
+      if(show) catVisible++;
+    });
+    if((q || langFilter) && catVisible===0){
+      cat.style.display = 'none';
+    }else{
+      cat.style.display = '';
+      totalVisible += catVisible;
+    }
+  });
+
+  window._filterVisible = totalVisible;
+}
+
+function setupSearch(){
+  const input = document.getElementById('search');
+  const info = document.getElementById('search-info');
+  let visible = 0;
+
+  input.addEventListener('input',()=>{
+    const q = input.value.toLowerCase().trim();
+    applyFilters();
+    updateSearchInfo();
+
+    if(q){
+      // Auto-expand matching categories when searching
+      document.querySelectorAll('.category').forEach(c=>{
+        if(c.style.display!=='none' && !c.classList.contains('expanded')){
+          c.classList.add('expanded');
+        }
+      });
+    }else if(!langFilter){
+      // Re-collapse all except first when both search and filter cleared
+      document.querySelectorAll('.category').forEach((c,i)=>{
+        c.classList.toggle('expanded', i===0);
+      });
+    }
+  });
+
+  function updateSearchInfo(){
+    const q = input.value.toLowerCase().trim();
+    const v = window._filterVisible || 0;
+    if(q && langFilter){
+      info.textContent = `// ${v} matches for "${input.value}" in ${langFilter}`;
+    }else if(q){
+      info.textContent = `// found ${v} matches for "${input.value}"`;
+    }else if(langFilter){
+      info.textContent = `// ${v} repos in ${langFilter}`;
+    }else{
+      info.textContent = '';
+    }
+  }
+  window.updateSearchInfo = updateSearchInfo;
+}
+
+function encodeEmoji(e){
+  return [...e].map(c=>c.codePointAt(0).toString(16)).join('-');
+}
+function escHtml(s){
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ─── Boot ───
+(function(){
+  const saved = localStorage.getItem('theme');
+  if(saved === 'light' || (!saved && window.matchMedia('(prefers-color-scheme: light)').matches)){
+    document.documentElement.setAttribute('data-theme','light');
+  }
+})();
+loadData();
+
+// Keyboard shortcut: / to focus search
+document.addEventListener('keydown',e=>{
+  if(e.key==='/' && document.activeElement!==document.getElementById('search')){
+    e.preventDefault();
+    document.getElementById('search').focus();
+  }
+});
+
+// Theme toggle
+document.getElementById('theme-toggle').addEventListener('click',()=>{
+  const html = document.documentElement;
+  const next = html.getAttribute('data-theme')==='dark'?'light':'dark';
+  html.setAttribute('data-theme', next);
+  localStorage.setItem('theme', next);
+});
+</script>
+</body>
+</html>
