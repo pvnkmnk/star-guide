@@ -129,6 +129,7 @@
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 46,427 | Python | AI pair programming in your terminal | |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 49,755 | Rust | Open source extensible AI agent — install, execute, edit, test | ⭐ [Pick](#-agentic-dev-top-10) |
 
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 28,570 | TypeScript | Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ mo | 🆕 |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 33,909 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. | 🆕 |
 | [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | 49,326 | JavaScript | Breakthrough Method for Agile Ai Driven Development | 🆕 |
 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 55,494 | TypeScript | Spec-driven development (SDD) for AI coding assistants. | 🆕 |
