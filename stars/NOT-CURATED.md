@@ -60,3 +60,12 @@
 ## 🆕 New Stars — 2026-07-05 02:50 UTC
 
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — ⭐77,709 (Python) AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL sch
+
+## 🆕 New Stars — 2026-07-12 02:31 UTC
+
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — ⭐27,862 (-) A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex
+- [tobi/qmd](https://github.com/tobi/qmd) — ⭐27,735 (TypeScript) mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while b
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) — ⭐21,111 (TypeScript) The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor C
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) — ⭐18,825 (TypeScript) Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   
+- [huggingface/ml-intern](https://github.com/huggingface/ml-intern) — ⭐10,626 (Python) 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+- [dmgrok/agent-plugins](https://github.com/dmgrok/agent-plugins) — ⭐17 (Python) Intelligent skill discovery for AI agents. Find quality-validated skills that match your project with smart recommendati
