@@ -763,7 +763,7 @@ def fetch_stars():
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="Weekly star refresh pipeline")
-    parser.add_argument("--no-fetch", action="store_true", help="Skip gh-stars fetch")
+    parser.add_argument("--no-fetch", action="store_true", help="Skip star fetch")
     parser.add_argument("--fetch-only", action="store_true", help="Only fetch, no regeneration")
     parser.add_argument("--suggest-only", action="store_true",
                         help="Only generate categorization suggestions from new repos (no file regeneration)")

@@ -166,4 +166,4 @@
 
 ---
 
-*From [pvnkmnk's stars](https://github.com/pvnkmnk) via [gh-stars](https://github.com/prabirshrestha/gh-stars)*
+*From [pvnkmnk's stars](https://github.com/pvnkmnk) via [github-stars pipeline](https://github.com/pvnkmnk/github-stars)*

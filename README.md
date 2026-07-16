@@ -56,10 +56,10 @@
 
 ```bash
 # 1. Fetch latest stars into SQLite (~/.cache/gh-stars/stars.db)
-gh-stars fetch pvnkmnk
+python3 scripts/update_stars.py --fetch-only
 
 # 2. Run the full curation pipeline
-python3 scripts/update_stars.py
+python3 scripts/update_stars.py --no-fetch --auto-curate
 
 # 3. Commit & push updated guides
 git add stars/ && git commit -m "chore: weekly star refresh" && git push
@@ -67,7 +67,7 @@ git add stars/ && git commit -m "chore: weekly star refresh" && git push
 
 ### What the pipeline does
 
-1. **Fetches** latest stars via [`gh-stars`](https://github.com/prabirshrestha/gh-stars) into a local SQLite database
+1. **Fetches** latest stars via `gh api --paginate` into a local SQLite database
 2. **Detects** new repos not yet in STAR-GUIDE.md or NOT-CURATED.md
 3. **Auto-categorizes** using keyword scoring against 16 curated categories (optional: `--auto-curate N`)
 4. **Appends** remaining uncategorized repos to NOT-CURATED.md with category suggestions
@@ -78,7 +78,7 @@ git add stars/ && git commit -m "chore: weekly star refresh" && git push
 
 | Flag | Purpose |
 |------|---------|
-| `--no-fetch` | Skip `gh-stars fetch` (use cached DB) |
+| `--no-fetch` | Skip star fetch (use cached DB) |
 | `--fetch-only` | Only fetch, no regeneration |
 | `--suggest-only` | Only generate categorization suggestions, no file changes |
 | `--auto-curate N` | Auto-insert repos scoring ≥ N with clear category match into STAR-GUIDE (default: 8) |
