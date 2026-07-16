@@ -28,6 +28,17 @@ jobs:
         with:
           node-version: "20"
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install pytest
+        run: pip install pytest
+
+      - name: Run scoring tests
+        run: python -m pytest tests/ -v --tb=short
+
       - name: Install Playwright + Chromium
         run: |
           npm init -y > /dev/null 2>&1
