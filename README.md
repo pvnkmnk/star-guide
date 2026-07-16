@@ -96,11 +96,14 @@ Two GitHub Actions workflows power the repo:
 Comprehensive Playwright test covering all features end-to-end — 50+ checks across 11 feature areas.
 
 ```bash
+# Install dependencies (one-time)
+npm install
+
 # Run against the live CDN (default)
-node tests/e2e-regression.js
+npm run test:e2e
 
 # Run against a local dev server
-BASE_URL=http://localhost:8080 node tests/e2e-regression.js
+BASE_URL=http://localhost:8080 npm run test:e2e
 ```
 
 ### Coverage
@@ -119,7 +122,7 @@ BASE_URL=http://localhost:8080 node tests/e2e-regression.js
 | 10 | Mobile (480px) | Rank badges hidden, hero grid adapts, 0 JS errors |
 | 11 | PWA / SW | SW registered, scope correct, manifest fetchable, theme_color, standalone, maskable icon, apple-touch-icon fetchable |
 
-**Requires:** `playwright` (`npm install playwright`)
+**Requires:** Node.js + npm (`npm install` to install all dev dependencies)
 
 ---
 
