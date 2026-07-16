@@ -7,3 +7,7 @@ node_modules/
 
 # Stuck empty dir with colon in name (NTFS artifact)
 J:ReposGHSTARS/
+
+# Agent skills (personal tooling)
+.agents/
+skills-lock.json
