@@ -39,11 +39,11 @@ jobs:
       - name: Run scoring tests
         run: python -m pytest tests/ -v --tb=short
 
-      - name: Install Playwright + Chromium
-        run: |
-          npm init -y > /dev/null 2>&1
-          npm install playwright > /dev/null 2>&1
-          npx playwright install chromium --with-deps > /dev/null 2>&1
+      - name: Install Node dependencies
+        run: npm install
+
+      - name: Install Playwright Chromium
+        run: npx playwright install chromium --with-deps
 
       - name: Wait for CDN propagation
         run: |
@@ -59,7 +59,7 @@ jobs:
           done
 
       - name: Run E2E regression suite
-        run: node tests/e2e-regression.js
+        run: npm run test:e2e
 
       - name: Upload screenshots on failure
         if: failure()
