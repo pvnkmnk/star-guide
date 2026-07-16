@@ -284,6 +284,7 @@
 | [clangen/musikcube](https://github.com/clangen/musikcube) | 4,784 | C++ | Cross-platform terminal-based music player & server | ⭐ [Pick](#-media-top-10) |
 | [dweymouth/supersonic](https://github.com/dweymouth/supersonic) | 2,210 | Go | Lightweight cross-platform desktop client for music servers | |
 
+| [anandprtp/Antra](https://github.com/anandprtp/Antra) | 1,275 | Python | A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer li | 🆕 |
 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 125,396 | TypeScript | Collection of publicly available IPTV channels from all over the world | 🆕 |
 | [WB2024/Navidrome-SmartPlaylist-Generator-nsp](https://github.com/WB2024/Navidrome-SmartPlaylist-Generator-nsp) | 62 | Python | A fully guided Python CLI tool for creating Navidrome .nsp smart playlist files — featuring nearly 300 presets, 100+ fie | 🆕 |
 | [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) | 19,739 | Python | Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. | 🆕 |
@@ -729,6 +730,8 @@
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | ~95k | — | SaaS, PaaS, IaaS free tiers for devs/devops |
 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | ~85k | JavaScript | 24-lesson web development curriculum |
 
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 72,763 | TypeScript | The open-source CapCut alternative | 🆕 |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | 87,060 | Rust | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sit | 🆕 |
 | [BrunkenClaas/lx](https://github.com/BrunkenClaas/lx) | 20 | Rust | AI-native equivalents of the Unix tools you know — 72 small, composable, local-first LLM CLIs. One static Rust binary ea | 🆕 |
 | [nubjs/nub](https://github.com/nubjs/nub) | 2,924 | Rust | The fast all-in-one Node.js toolkit | 🆕 |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 56,898 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongSh | 🆕 |
