@@ -127,6 +127,7 @@
 🤖|35135|microsoft/playwright-mcp|TypeScript|Playwright MCP server
 🤖|1875|mudler/LocalAGI|Go|LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds.  Local AI that works on consumer-grade hardware (CPU and GPU).
 🤖|17263|muratcankoylan/Agent-Skills-for-Context-Engineering|Python|A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+🤖|548|nicobailon/surf-cli|TypeScript|The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested.
 🤖|255506|obra/superpowers|Shell|An agentic skills framework & software development methodology that works.
 🤖|1070|octos-org/octos|Rust|Octos - Agentic Operating Systems
 🤖|7346|omnigent-ai/omnigent|Python|Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.

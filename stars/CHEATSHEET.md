@@ -136,6 +136,7 @@
   🤖    676 sipyourdrink-ltd/bernstein                           Python Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex,
   🤖    675 Railly/agentfiles                                    TypeScript Browse, create, and edit AI agent files across Claude Code, Cursor, Codex, and 1
   🤖    605 open-gitagent/gitagent                               TypeScript A universal git-native AI agent framework. Your agent lives inside a git repo — 
+  🤖    548 nicobailon/surf-cli                                  TypeScript The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tes
   🤖    504 MeisnerDan/mission-control                           TypeScript Open-source task management for the agentic era. The command center for solo ent
   🤖    500 qodo-ai/open-aware                                   -      Aware - Deep Code Research Agent for Complex Codebase & Knowledge that “Act As Y
   🤖    446 josstei/maestro-orchestrate                          JavaScript Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen 
@@ -1053,4 +1054,4 @@
   ❓      1 aiur-adept/witchs_oath                               GDScript a digital card game
 
 ---
-1027 tools · 18 categories · from 1068 stars · pvnkmnk · 2026-07-16
+1028 tools · 18 categories · from 1068 stars · pvnkmnk · 2026-07-16
