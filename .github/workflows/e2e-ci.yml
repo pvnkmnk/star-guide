@@ -49,7 +49,7 @@ jobs:
         run: |
           echo "Waiting for GitHub Pages CDN to pick up the new deployment..."
           for i in $(seq 1 12); do
-            STATUS=$(curl -sI "https://pvnkmnk.github.io/github-stars/?t=$(date +%s)" 2>&1 | head -1 | grep -c "200")
+            STATUS=$(curl -sI "https://pvnkmnk.github.io/star-guide/?t=$(date +%s)" 2>&1 | head -1 | grep -c "200")
             if [ "$STATUS" -eq 1 ]; then
               echo "CDN ready after $((i * 5))s"
               break

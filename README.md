@@ -1,11 +1,11 @@
-# ⭐ github-stars
+# ⭐ star-guide
 
 > A curated, annotated guide to [pvnkmnk](https://github.com/pvnkmnk)'s 1,033 GitHub stars — 18 categories, 1,014 curated tools, 6 deep-dives. Auto-updated weekly.
 
-**Live wiki:** → [pvnkmnk.github.io/github-stars](https://pvnkmnk.github.io/github-stars/)
+**Live wiki:** → [pvnkmnk.github.io/star-guide](https://pvnkmnk.github.io/star-guide/)
 
-[![Deploy](https://github.com/pvnkmnk/github-stars/actions/workflows/deploy-gh-pages.yml/badge.svg)](https://github.com/pvnkmnk/github-stars/actions/workflows/deploy-gh-pages.yml)
-[![Weekly Refresh](https://github.com/pvnkmnk/github-stars/actions/workflows/update-stars.yml/badge.svg)](https://github.com/pvnkmnk/github-stars/actions/workflows/update-stars.yml)
+[![Deploy](https://github.com/pvnkmnk/star-guide/actions/workflows/deploy-gh-pages.yml/badge.svg)](https://github.com/pvnkmnk/star-guide/actions/workflows/deploy-gh-pages.yml)
+[![Weekly Refresh](https://github.com/pvnkmnk/star-guide/actions/workflows/update-stars.yml/badge.svg)](https://github.com/pvnkmnk/star-guide/actions/workflows/update-stars.yml)
 
 ---
 
@@ -20,8 +20,8 @@
 | **[DEEP-DIVE.md](stars/DEEP-DIVE.md)** | Specialized topic analysis (proxy, monitoring, backup, secrets, CI/CD, security) | Markdown tables |
 | **[GAP-ANALYSIS.md](stars/GAP-ANALYSIS.md)** | Category coverage audit — what's missing from my stars | Narrative markdown |
 | **[NOT-CURATED.md](stars/NOT-CURATED.md)** | Inbox for new un-categorized stars — reviewed and curated weekly | Simple link list |
-| **[github-stars-pvnkmnk.csv](stars/github-stars-pvnkmnk.csv)** | Raw CSV export of all 1,033 stars | CSV |
-| **[github-stars-pvnkmnk.txt](stars/github-stars-pvnkmnk.txt)** | Formatted text export of all stars | Human-readable text |
+| **[star-guide-pvnkmnk.csv](stars/star-guide-pvnkmnk.csv)** | Raw CSV export of all 1,033 stars | CSV |
+| **[star-guide-pvnkmnk.txt](stars/star-guide-pvnkmnk.txt)** | Formatted text export of all stars | Human-readable text |
 
 ---
 
@@ -55,7 +55,7 @@
 ### Weekly workflow
 
 ```bash
-# 1. Fetch latest stars into SQLite (~/.cache/github-stars/stars.db)
+# 1. Fetch latest stars into SQLite (~/.cache/star-guide/stars.db)
 python3 scripts/update_stars.py --fetch-only
 
 # 2. Run the full curation pipeline

@@ -43,7 +43,7 @@ jobs:
 
       - name: Notify success
         run: |
-          echo "::notice::Deployed to gh-pages — live at https://pvnkmnk.github.io/github-stars/"
+          echo "::notice::Deployed to gh-pages — live at https://pvnkmnk.github.io/star-guide/"
 
       - name: Notify failure
         if: failure()

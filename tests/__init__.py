@@ -1,1 +1,1 @@
-# Test suite for github-stars scoring pipeline
+# Test suite for star-guide scoring pipeline

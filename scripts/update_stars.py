@@ -33,7 +33,7 @@ from pathlib import Path
 # ─── Configuration ────────────────────────────────────────────────
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 STARS_DIR = PROJECT_ROOT / "stars"
-CACHE_DB = Path.home() / ".cache" / "github-stars" / "stars.db"
+CACHE_DB = Path.home() / ".cache" / "star-guide" / "stars.db"
 GITHUB_USER = "pvnkmnk"
 
 # Emoji mapping for STAR-GUIDE sections (header keyword → emoji)
@@ -659,7 +659,7 @@ def export_raw_files(conn):
         return 0
     
     # CSV
-    csv_path = STARS_DIR / f"github-stars-{GITHUB_USER}.csv"
+    csv_path = STARS_DIR / f"star-guide-{GITHUB_USER}.csv"
     with open(csv_path, 'w', encoding='utf-8') as f:
         f.write("full_name,stars,language,description,html_url,created_at,updated_at\n")
         for r in rows:
@@ -668,7 +668,7 @@ def export_raw_files(conn):
     print(f"  → Exported {csv_path}")
     
     # TXT
-    txt_path = STARS_DIR / f"github-stars-{GITHUB_USER}.txt"
+    txt_path = STARS_DIR / f"star-guide-{GITHUB_USER}.txt"
     with open(txt_path, 'w', encoding='utf-8') as f:
         date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
         f.write(f"GitHub Stars for {GITHUB_USER} — {date_str}\n")

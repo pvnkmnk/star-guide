@@ -12,7 +12,7 @@
 
 const { chromium } = require("playwright");
 
-const BASE = process.env.BASE_URL || "https://pvnkmnk.github.io/github-stars";
+const BASE = process.env.BASE_URL || "https://pvnkmnk.github.io/star-guide";
 const URL  = `${BASE}/?t=${Date.now()}`;  let passed = 0, failed = 0;
 const failMsgs = [];
 const allErrors = [];
@@ -374,17 +374,17 @@ async function run() {
       const reg = await navigator.serviceWorker.getRegistration();
       if (reg) return { scope: reg.scope, active: !!reg.active };
       // Try scope-based lookup
-      const scoped = await navigator.serviceWorker.getRegistration("/github-stars/");
+      const scoped = await navigator.serviceWorker.getRegistration("/star-guide/");
       return scoped ? { scope: scoped.scope, active: !!scoped.active } : null;
     });
     check("Service worker registered", !!swReg, "no registration after 2s wait");
     if (swReg) {
-      check("SW scope contains /github-stars/", swReg.scope?.includes("/github-stars/"), swReg.scope);
+      check("SW scope contains /star-guide/", swReg.scope?.includes("/star-guide/"), swReg.scope);
       check("SW has active worker", swReg.active, "not active");
     }
   } else {
     check("Service worker registered", false, "API unsupported");
-    check("SW scope contains /github-stars/", false, "API unsupported");
+    check("SW scope contains /star-guide/", false, "API unsupported");
     check("SW has active worker", false, "API unsupported");
   }
 
