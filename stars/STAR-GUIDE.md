@@ -129,6 +129,8 @@
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 46,427 | Python | AI pair programming in your terminal | |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 49,755 | Rust | Open source extensible AI agent — install, execute, edit, test | ⭐ [Pick](#-agentic-dev-top-10) |
 
+| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 42,916 | Python | Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antig | 🆕 |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 28,570 | TypeScript | Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ mo | 🆕 |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 33,909 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. | 🆕 |
 | [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | 49,326 | JavaScript | Breakthrough Method for Agile Ai Driven Development | 🆕 |
 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 55,494 | TypeScript | Spec-driven development (SDD) for AI coding assistants. | 🆕 |
@@ -484,6 +486,9 @@
 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 72,279 | Python | Unified efficient fine-tuning of 100+ LLMs & VLMs | ⭐ [Pick](#-aillm-top-10) |
 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 28,237 | Rust | Find what LLM runs on your hardware — hundreds of models & providers | |
 
+| [Emmimal/context-graph-benchmark](https://github.com/Emmimal/context-graph-benchmark) | 27 | Python | A pure-Python structured memory benchmark for multi-agent LLM systems — context graph vs vector RAG vs raw history dump, | 🆕 |
+| [Osmantic/ODS](https://github.com/Osmantic/ODS) | 2,933 | Shell | Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image gen | 🆕 |
+| [Light-Heart-Labs/ODS](https://github.com/Light-Heart-Labs/ODS) | 2,510 | Shell | Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image gen | 🆕 |
 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 32,590 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. | 🆕 |
 | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | 35,349 | TypeScript | Vane is an AI-powered answering engine. | 🆕 |
 | [facebookresearch/faiss](https://github.com/facebookresearch/faiss) | 40,327 | C++ | A library for efficient similarity search and clustering of dense vectors. | 🆕 |
@@ -777,6 +782,7 @@
 |------|-----|------|-------------|
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ~58k | Rust | GPU-accelerated cross-platform terminal emulator |
 
+| [zokrezyl/yetty](https://github.com/zokrezyl/yetty) | 57 | C | GPU terminal with rich inline figures for CLI tools, AI agents, plots, documents, and remote UI. | 🆕 |
 | [chubin/cheat.sh](https://github.com/chubin/cheat.sh) | 41,466 | Python | the only cheat sheet you need | 🆕 |
 | [gemini-cli-extensions/jules](https://github.com/gemini-cli-extensions/jules) | 403 | JavaScript | A Gemini CLI extension that allows you to use the Gemini CLI to orchestrate the Jules asynchronous agent to perform codi | 🆕 |
 | [greg-asher/codex-obsidian](https://github.com/greg-asher/codex-obsidian) | 11 | - | Codex plugin for local Obsidian workflows through the official desktop CLI. | 🆕 |
@@ -969,6 +975,7 @@
 | [mui/mui-x](https://github.com/mui/mui-x) | 5,740 | TypeScript | Build complex data-rich apps with advanced React components |
 | [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) | 1,942 | TypeScript | Extract any website's design system into tokens in seconds |
 
+| [N-Zik-Group/N-Zik](https://github.com/N-Zik-Group/N-Zik) | 129 | Kotlin | A multilingual YouTube Music frontend for Android, focused on performance, UI/UX refinements, feature expansion, and lon | 🆕 |
 | [umami-software/umami](https://github.com/umami-software/umami) | 37,219 | TypeScript | Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Ampl | 🆕 |
 | [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) | 1,531 | TypeScript | Captures your web app's complete development timeline - server logs, browser events, console messages, network requests, | 🆕 |
 | [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) | 4,733 | Kotlin | An F-Droid client with modern UI and an arsenal of extra features. | 🆕 |
@@ -1151,6 +1158,7 @@
 | [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) | 2,747 | C# | Organize the Windows taskbar through groups |
 | [lukeyou05/tacky-borders](https://github.com/lukeyou05/tacky-borders) | 504 | Rust | Customizable borders for Windows 11/10 |
 
+| [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) | 19,779 | C++ | A lightweight utility that makes the Windows taskbar translucent/transparent. | 🆕 |
 | [jiripolasek/ErrorsAndCodesExtension](https://github.com/jiripolasek/ErrorsAndCodesExtension) | 5 | C# | Quickly access details about error codes and messages from PowerToys Command Palette. Supports NTSTATUS and HRESULT erro | 🆕 |
 | [ThioJoe/Resources-From-Videos](https://github.com/ThioJoe/Resources-From-Videos) | 63 | PowerShell | Stuff I've shown or mentioned in videos, from scripts to random code snippets | 🆕 |
 | [johansan/pixel-perfect-image](https://github.com/johansan/pixel-perfect-image) | 85 | TypeScript | Pixel perfect 100% image resizing, copy to clipboard, show image in Finder/Explorer, edit image in external editor, and  | 🆕 |
