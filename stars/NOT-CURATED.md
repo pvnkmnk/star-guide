@@ -84,3 +84,9 @@
 - [oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) — ⭐588 (Python) Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown
 - [Shrey113/App-Scrcpy](https://github.com/Shrey113/App-Scrcpy) — ⭐97 (HTML) A scrcpy-inspired Android screen, audio, and control streaming client for Windows — built without ADB, using pure WebSoc
 - [vgreg/faceoff](https://github.com/vgreg/faceoff) — ⭐71 (Python) Terminal tool to watch hockey games
+
+## 🆕 New Stars — 2026-07-16 07:22 UTC
+
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — ⭐9,457 (CSS) Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- [nicoverbruggen/phpmon](https://github.com/nicoverbruggen/phpmon) — ⭐3,219 (Swift) Easily install and configure your development environment with PHP. Serve sites with Laravel Valet, switch PHP versions,
+- [miraclx/freyr-js](https://github.com/miraclx/freyr-js) — ⭐2,304 (JavaScript) A tool for downloading songs from music streaming services like Spotify and Apple Music.
