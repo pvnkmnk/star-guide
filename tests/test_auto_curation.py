@@ -486,6 +486,32 @@ class TestNotCuratedPath:
         assert "user/curated" not in result
         assert "user/still-not" in result
         assert modified is True
+    def test_curated_repos_not_in_nc_file_leaves_it_untouched(self, tmp_path):
+        """Auto-curated repos whose names are NOT in NOT-CURATED -> file unchanged."""
+        from update_stars import auto_curate_repos
+        sg = tmp_path / "STAR-GUIDE.md"
+        nc = tmp_path / "NOT-CURATED.md"
+        original_nc = (
+            "# Not Curated\n\n"
+            "- [user/unrelated](https://github.com/user/unrelated) — Not in this batch\n"
+        )
+        nc.write_text(original_nc, encoding="utf-8")
+        sg.write_text(
+            "# Part I: The Catalog\n\n"
+            "## 🤖 Agentic Dev Tools\n\n"
+            "| Repository | Stars | Language | Description | Status |\n"
+            "|------------|-------|----------|-------------|--------|\n"
+            "| [existing/repo](https://github.com/existing/repo) | 1,000 | Python | Existing | ✅ |\n\n",
+            encoding="utf-8",
+        )
+        repos = [(5000, "user/new-curated", "Agentic:9,Dev:5", "Clear win but not in NC")]
+        with patch("update_stars.suggest_categories", side_effect=_mock_suggest):
+            curated, remaining, modified = auto_curate_repos(
+                repos, str(sg), threshold=7, not_curated_path=str(nc), dry_run=False
+            )
+        assert len(curated) == 1
+        assert modified is True
+        assert nc.read_text(encoding="utf-8") == original_nc
 
 class TestEdgeCases:
     """Edge cases: empty repos, score=0 with no second below threshold, no matching categories."""
