@@ -55,7 +55,7 @@
 ### Weekly workflow
 
 ```bash
-# 1. Fetch latest stars into SQLite (~/.cache/gh-stars/stars.db)
+# 1. Fetch latest stars into SQLite (~/.cache/github-stars/stars.db)
 python3 scripts/update_stars.py --fetch-only
 
 # 2. Run the full curation pipeline

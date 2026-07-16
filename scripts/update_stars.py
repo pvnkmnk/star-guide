@@ -33,7 +33,7 @@ from pathlib import Path
 # ─── Configuration ────────────────────────────────────────────────
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 STARS_DIR = PROJECT_ROOT / "stars"
-CACHE_DB = Path.home() / ".cache" / "gh-stars" / "stars.db"
+CACHE_DB = Path.home() / ".cache" / "github-stars" / "stars.db"
 GITHUB_USER = "pvnkmnk"
 
 # Emoji mapping for STAR-GUIDE sections (header keyword → emoji)
