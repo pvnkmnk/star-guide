@@ -113,6 +113,49 @@ class TestParseStarGuideSections:
         sections = parse_star_guide_sections(str(f))
         assert sections == []
 
+    def test_part_ii_boundary_truncates_content(self, tmp_path):
+        """Line 486: Part II headers found -> part2_start = min(part2_start, idx)."""
+        from update_stars import parse_star_guide_sections
+        f = tmp_path / "STAR-GUIDE.md"
+        f.write_text(
+            "# Part I: The Catalog\n\n"
+            "## 🤖 Agentic Dev Tools\n\n"
+            "| [user/tool1](https://github.com/user/tool1) | 1,000 | Go | ... |\n\n"
+            "# Part II: Top Picks\n\n"
+            "## 🤖 Agentic Dev Top 10\n\n"
+            "| [user/part2-repo](https://github.com/user/part2-repo) | 100 | Rust | ... |\n",
+            encoding="utf-8",
+        )
+        sections = parse_star_guide_sections(str(f))
+        # Only Part I section (🤖 Agentic Dev Tools) is parsed
+        # Part II content (🤖 Agentic Dev Top 10) is excluded
+        assert len(sections) == 1
+        repos_in_section = sections[0][2]
+        assert "user/tool1" in repos_in_section
+        # Part II repo should NOT appear in any parsed section
+        assert "user/part2-repo" not in repos_in_section
+
+    def test_unknown_section_header_skipped(self, tmp_path):
+        """Line 509: section header with no matching emoji -> continue (skip)."""
+        from update_stars import parse_star_guide_sections
+        f = tmp_path / "STAR-GUIDE.md"
+        f.write_text(
+            "# Part I: The Catalog\n\n"
+            "## 🤖 Agentic Dev Tools\n\n"
+            "| [user/tool1](https://github.com/user/tool1) | 1,000 | Go | ... |\n\n"
+            "## 🦄 Some Unknown Category\n\n"
+            "| [user/mystery](https://github.com/user/mystery) | 500 | Rust | ... |\n\n",
+            encoding="utf-8",
+        )
+        sections = parse_star_guide_sections(str(f))
+        # Only 🤖 Agentic Dev Tools is recognized (emoji mapped)
+        # 🦄 Some Unknown Category has no emoji match -> skipped
+        assert len(sections) == 1
+        assert sections[0][0] == "🤖"
+        assert "user/tool1" in sections[0][2]
+        # The unknown section's repo should not appear
+        assert "user/mystery" not in sections[0][2]
+
 
 class TestRegenerateAgentGuide:
     """regenerate_agent_guide: generate AGENT-GUIDE.md from sections + DB."""

@@ -233,3 +233,39 @@ class TestPhraseMatchingExtended:
             phrases=["reverse proxy"], stars=60_000
         )
         assert result == 8  # 5 (phrase) + 3 (60k/20k star bonus)
+
+
+class TestWeakKeywordNameBonus:
+    """Line 132: weak keyword exact token match in repo name gives +1 bonus."""
+
+    def test_weak_keyword_in_name_adds_bonus(self):
+        """Weak keyword 'plugin' found as exact token in name 'plugin' -> +1 + 1 name bonus."""
+        score = score_repo_for_category(
+            "user/plugin", "Python", "A tool for things",
+            strong_keywords=[], weak_keywords=["plugin"],
+            phrases=None, stars=0,
+        )
+        # 'plugin' IS a token in name_part='plugin' (tokenize doesn't split hyphens,
+        # but 'plugin' as a standalone name IS its own token)
+        # Weak exact token match: +1, and in name: +1 = 2 — covers line 132
+        assert score == 2
+
+    def test_weak_keyword_not_in_name_no_bonus(self):
+        """Weak keyword in desc but NOT in name -> no name bonus."""
+        score = score_repo_for_category(
+            "user/something", "Python", "A dashboard for servers",
+            strong_keywords=[], weak_keywords=["dashboard"],
+            phrases=None, stars=0,
+        )
+        # 'dashboard' in desc only -> +1, no name bonus
+        assert score == 1
+
+    def test_weak_keyword_plural_in_name_adds_bonus(self):
+        """Weak keyword 'server' matches 'servers' in name via plural stemming -> +1 + 1."""
+        score = score_repo_for_category(
+            "user/servers", "Python", "A tool",
+            strong_keywords=[], weak_keywords=["server"],
+            phrases=None, stars=0,
+        )
+        # 'server' -> 'servers' = kw+s in name_tokens -> +1 + 1 = 2
+        assert score == 2
