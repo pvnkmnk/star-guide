@@ -130,6 +130,8 @@
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 46,427 | Python | AI pair programming in your terminal | |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 49,755 | Rust | Open source extensible AI agent — install, execute, edit, test | ⭐ [Pick](#-agentic-dev-top-10) |
 
+| [jsgrrchg/NeverWrite](https://github.com/jsgrrchg/NeverWrite) | 729 | TypeScript | Your ultimate agentic markdown workspace | 🆕 |
+| [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) | 4,294 | Python | Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to  | 🆕 |
 | [derekbar90/opencode-conductor](https://github.com/derekbar90/opencode-conductor) | 118 | TypeScript | OpenCode conductor — agent orchestration for coding workflows | 🆕 |
 | [SimonSchubert/Kai](https://github.com/SimonSchubert/Kai) | 1,061 | Kotlin | OpenClaw alternative in your pocket — AI chatbot for Android/iOS | 🆕 |
 | [dmgrok/agent-plugins](https://github.com/dmgrok/agent-plugins) | 18 | Python | Intelligent skill discovery for AI agents. Find quality-validated skills that match your project with smart recommendati | 🆕 |
@@ -298,6 +300,7 @@
 | [clangen/musikcube](https://github.com/clangen/musikcube) | 4,784 | C++ | Cross-platform terminal-based music player & server | ⭐ [Pick](#-media-top-10) |
 | [dweymouth/supersonic](https://github.com/dweymouth/supersonic) | 2,210 | Go | Lightweight cross-platform desktop client for music servers | |
 
+| [miraclx/freyr-js](https://github.com/miraclx/freyr-js) | 2,302 | JavaScript | A tool for downloading songs from music streaming services like Spotify and Apple Music. | 🆕 |
 | [tsirysndr/rockboxd](https://github.com/tsirysndr/rockboxd) | 279 | C | A modern, network-enabled music player platform built on Rockbox technology https://www.rockbox.org | 🆕 |
 | [anandprtp/Antra](https://github.com/anandprtp/Antra) | 1,275 | Python | A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer li | 🆕 |
 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 125,396 | TypeScript | Collection of publicly available IPTV channels from all over the world | 🆕 |
@@ -504,6 +507,7 @@
 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 72,279 | Python | Unified efficient fine-tuning of 100+ LLMs & VLMs | ⭐ [Pick](#-aillm-top-10) |
 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 28,237 | Rust | Find what LLM runs on your hardware — hundreds of models & providers | |
 
+| [qualcomm/GenieX](https://github.com/qualcomm/GenieX) | 8,227 | Rust | Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code | 🆕 |
 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 10,657 | Python | Open-source ML engineer that reads papers, trains models, and ships ML models | 🆕 |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 59,386 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% | 🆕 |
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 53,729 | Python | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails | 🆕 |
@@ -748,6 +752,8 @@
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | ~95k | — | SaaS, PaaS, IaaS free tiers for devs/devops |
 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | ~85k | JavaScript | 24-lesson web development curriculum |
 
+| [fyaic/Understory-Obsidian-Plugin](https://github.com/fyaic/Understory-Obsidian-Plugin) | 2 | JavaScript | A connection-sustain plugin: find connections and conflicts, update them over time | 🆕 |
+| [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) | 721 | TypeScript | Infrastructure as Effects | 🆕 |
 | [vitejs/vite](https://github.com/vitejs/vite) | 75,400 | TypeScript | Next generation frontend tooling. Instant server start, lightning fast HMR. | 🆕 |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 215,562 | Python | The agent that grows with you | 🆕 |
 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 72,763 | TypeScript | The open-source CapCut alternative | 🆕 |
@@ -1009,6 +1015,7 @@
 | [mui/mui-x](https://github.com/mui/mui-x) | 5,740 | TypeScript | Build complex data-rich apps with advanced React components |
 | [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) | 1,942 | TypeScript | Extract any website's design system into tokens in seconds |
 
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 10,820 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | 🆕 |
 | [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 73,219 | MDX | 🗂 The essential checklist for modern web development, for humans and AI agents | 🆕 |
 | [N-Zik-Group/N-Zik](https://github.com/N-Zik-Group/N-Zik) | 129 | Kotlin | A multilingual YouTube Music frontend for Android, focused on performance, UI/UX refinements, feature expansion, and lon | 🆕 |
 | [umami-software/umami](https://github.com/umami-software/umami) | 37,219 | TypeScript | Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Ampl | 🆕 |

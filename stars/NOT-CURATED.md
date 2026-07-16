@@ -61,3 +61,8 @@
 
 ## 🆕 New Stars — 2026-07-16 08:50 UTC
 
+
+## 🆕 New Stars — 2026-07-16 23:32 UTC
+
+- [nicoverbruggen/phpmon](https://github.com/nicoverbruggen/phpmon) — ⭐3,218 (Swift) Easily install and configure your development environment with PHP. Serve sites with Laravel Valet, switch PHP versions,
+- [est4ever/AcouLM](https://github.com/est4ever/AcouLM) — ⭐12 (C++) Local AI accelerator
