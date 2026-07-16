@@ -446,8 +446,8 @@ def get_all_stars(conn):
     """Return all stars as dict[full_name] = {stars, language, description}."""
     rows = conn.execute(
         "SELECT full_name, stars, "
-        "COALESCE(language,'-') as language, "
-        "COALESCE(description,'') as description "
+        "language, "
+        "description "
         "FROM repos WHERE username=? ORDER BY stars DESC",
         (GITHUB_USER,)
     ).fetchall()
@@ -647,8 +647,8 @@ def export_raw_files(conn):
     """Export stars to CSV and TXT."""
     rows = conn.execute(
         "SELECT full_name, stars, "
-        "COALESCE(language,'-') as language, "
-        "COALESCE(description,'') as description, "
+        "language, "
+        "description, "
         "html_url, created_at, updated_at "
         "FROM repos WHERE username=? ORDER BY stars DESC",
         (GITHUB_USER,)
