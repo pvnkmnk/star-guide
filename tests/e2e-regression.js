@@ -40,7 +40,7 @@ async function run() {
   console.log(`  Target: ${BASE}`);
   console.log("");
 
-  const browser = await chromium.launch({ headless: true });
+  const browser = await chromium.launch({ headless: true, args: ["--force-device-scale-factor=2"] });
 
   // ──────────────────────────────────────────────
   // 1. DESKTOP PAGE LOAD
