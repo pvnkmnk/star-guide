@@ -18,6 +18,12 @@ EMOJI = {
 
 
 def _mock_suggest(repos):
+    """Mock suggest_categories that repurposes the 'lang' parameter for score encoding.
+
+    Each repo's 'lang' field contains comma-separated "Category:score" pairs
+    (e.g. "Agentic:9,Dev:5") so tests can concisely specify multi-category
+    scoring without constructing full category_scores tuples.
+    """
     results = []
     for stars, full_name, lang, desc in repos:
         cat_scores = []
