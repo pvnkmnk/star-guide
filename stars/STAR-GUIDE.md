@@ -657,6 +657,7 @@
 | [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 27,767 | Go | Find secrets before you commit them | 🔧 [Secrets](#-secrets-management) |
 | [gemini-cli-extensions/security](https://github.com/gemini-cli-extensions/security) | 787 | TypeScript | Vulnerability scanning extension for Gemini CLI | |
 
+| [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) | 8,440 | Go | The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications wit | 🆕 |
 | [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) | 14,663 | Go | A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. | 🆕 |
 | [hashgraph-online/hol-guard-plugin](https://github.com/hashgraph-online/hol-guard-plugin) | 2 | Shell | Codex plugin for HOL Guard AI security and ai-plugin-scanner workflows | 🆕 |
 | [dmgrok/agent_skills_directory](https://github.com/dmgrok/agent_skills_directory) | 18 | Python | Intelligent skill discovery for AI agents. Find quality-validated skills that match your project with smart recommendati | 🆕 |
