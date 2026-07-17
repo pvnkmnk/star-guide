@@ -1,4 +1,5 @@
 // STAR//GUIDE service worker — offline cache for key assets
+// ⚠️ Bump with index.html ?v=N on every data-changing deploy (they must stay in sync)
 const CACHE = "starguide-v2";
 
 // Pre-cache lightweight static assets on install

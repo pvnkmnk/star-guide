@@ -376,6 +376,7 @@ function fmtStars(n){
 
 async function loadData(){
   try{
+    <!-- ⚠️ Bump with sw.js CACHE version on every data-changing deploy (they must stay in sync) -->
     const resp = await fetch('stars/AGENT-GUIDE.md?v=2');
     if(!resp.ok) throw new Error('HTTP '+resp.status);
     const text = await resp.text();
