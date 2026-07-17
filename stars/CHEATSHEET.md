@@ -4,12 +4,12 @@
 > Categories: 📡Homelab 🤖Agentic 🎵Media 🐳Docker 🧠AI/LLM 🗄️DB 🔒Security ⚡Auto 💻Dev ⌨️CLI 📝PKM 🌐Web 💬Chat 📄Docs 📱Mobile 🪟Windows 📦LowSignal ❓Unique
 
 ## 📡 Homelab Infrastructure
-  📡 81,016 ruvnet/RuView                                        Rust   π RuView turns commodity WiFi signals into real-time spatial intelligence, vital
+  📡 81,017 ruvnet/RuView                                        Rust   π RuView turns commodity WiFi signals into real-time spatial intelligence, vital
   📡 58,793 coollabsio/coolify                                   PHP    An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
-  📡 43,160 paperless-ngx/paperless-ngx                          Python A community-supported supercharged document management system: scan, index and a
+  📡 43,161 paperless-ngx/paperless-ngx                          Python A community-supported supercharged document management system: scan, index and a
   📡 41,789 juanfont/headscale                                   Go     An open source, self-hosted implementation of the Tailscale control server
-  📡 35,790 glanceapp/glance                                     Go     A self-hosted dashboard that puts all your feeds in one place
-  📡 35,711 Dokploy/dokploy                                      TypeScript Open Source Alternative to Vercel, Netlify and Heroku.
+  📡 35,791 glanceapp/glance                                     Go     A self-hosted dashboard that puts all your feeds in one place
+  📡 35,712 Dokploy/dokploy                                      TypeScript Open Source Alternative to Vercel, Netlify and Heroku.
   📡 32,044 dokku/dokku                                          Shell  A docker-powered PaaS that helps you build and manage the lifecycle of applicati
   📡 31,557 gethomepage/homepage                                 JavaScript A highly customizable homepage (or startpage / application dashboard) with Docke
   📡 18,979 linkwarden/linkwarden                                TypeScript ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, an
@@ -46,53 +46,53 @@
   📡      3 fullzer4/EchoVault                                   Rust   🎧🪶 Ultra-light self-hosted music server - single-Pod deploy, fast, secure, liste
 
 ## 🤖 Agentic Dev Tools
-  🤖 256,615 obra/superpowers                                     Shell  An agentic skills framework & software development methodology that works.
+  🤖 256,621 obra/superpowers                                     Shell  An agentic skills framework & software development methodology that works.
   🤖 230,656 affaan-m/ECC                                         JavaScript The agent harness performance optimization system. Skills, instincts, memory, se
-  🤖 186,919 anomalyco/opencode                                   TypeScript The open source coding agent.
+  🤖 186,922 anomalyco/opencode                                   TypeScript The open source coding agent.
   🤖 185,588 Significant-Gravitas/AutoGPT                         Python AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our
-  🤖 162,114 anthropics/skills                                    Python Public repository for Agent Skills
+  🤖 162,118 anthropics/skills                                    Python Public repository for Agent Skills
   🤖 149,175 langgenius/dify                                      TypeScript Production-ready platform for agentic workflow development.
-  🤖 142,007 langchain-ai/langchain                               Python The agent engineering platform.
+  🤖 142,008 langchain-ai/langchain                               Python The agent engineering platform.
   🤖 138,112 anthropics/claude-code                               Python Claude Code is an agentic coding tool that lives in your terminal, understands y
   🤖 102,631 VoltAgent/awesome-design-md                          -      A collection of DESIGN.md files analysis by popular brand design systems. Drop o
-  🤖 90,176 Graphify-Labs/graphify                               Python AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
-  🤖 87,633 thedotmack/claude-mem                                JavaScript Persistent Context Across Sessions for Every Agent –  Captures everything your a
-  🤖 85,189 DietrichGebert/ponytail                              JavaScript Makes your AI agent think like the laziest senior dev in the room. The best code
+  🤖 90,184 Graphify-Labs/graphify                               Python AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
+  🤖 87,634 thedotmack/claude-mem                                JavaScript Persistent Context Across Sessions for Every Agent –  Captures everything your a
+  🤖 85,192 DietrichGebert/ponytail                              JavaScript Makes your AI agent think like the laziest senior dev in the room. The best code
   🤖 80,426 lobehub/lobehub                                      TypeScript 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operati
   🤖 77,291 bytedance/deer-flow                                  Python An open-source long-horizon SuperAgent harness that researches, codes, and creat
-  🤖 72,136 earendil-works/pi                                    TypeScript AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+  🤖 72,140 earendil-works/pi                                    TypeScript AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
   🤖 66,027 code-yeongyu/oh-my-openagent                         TypeScript omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness 
-  🤖 64,863 ruvnet/ruflo                                         TypeScript 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordi
-  🤖 63,300 warpdotdev/warp                                      Rust   Warp is an agentic development environment, born out of the terminal.
-  🤖 61,382 Fission-AI/OpenSpec                                  TypeScript Spec-driven development (SDD) for AI coding assistants.
-  🤖 61,074 mem0ai/mem0                                          TypeScript Universal memory layer for AI Agents
-  🤖 60,622 colbymchenry/codegraph                               TypeScript Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
+  🤖 64,866 ruvnet/ruflo                                         TypeScript 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordi
+  🤖 63,301 warpdotdev/warp                                      Rust   Warp is an agentic development environment, born out of the terminal.
+  🤖 61,383 Fission-AI/OpenSpec                                  TypeScript Spec-driven development (SDD) for AI coding assistants.
+  🤖 61,075 mem0ai/mem0                                          TypeScript Universal memory layer for AI Agents
+  🤖 60,625 colbymchenry/codegraph                               TypeScript Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
   🤖 57,481 FoundationAgents/OpenManus                           Python No fortress, purely open ground.  OpenManus is Coming.
   🤖 57,430 MemPalace/mempalace                                  Python The best-benchmarked open-source AI memory system. And it's free.
   🤖 55,700 crewAIInc/crewAI                                     Python Framework for orchestrating role-playing, autonomous AI agents. By fostering col
   🤖 52,525 mvanhorn/last30days-skill                            Python AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
   🤖 51,238 aaif-goose/goose                                     Rust   an open source, extensible AI agent that goes beyond code suggestions - install,
   🤖 50,734 bmad-code-org/BMAD-METHOD                            JavaScript Breakthrough Method for Agile Ai Driven Development
-  🤖 50,254 hesreallyhim/awesome-claude-code                     Python A hand-picked collection of the finest of resources for the most awesome of agen
+  🤖 50,256 hesreallyhim/awesome-claude-code                     Python A hand-picked collection of the finest of resources for the most awesome of agen
   🤖 47,464 Aider-AI/aider                                       Python aider is AI pair programming in your terminal
   🤖 47,100 ChromeDevTools/chrome-devtools-mcp                   TypeScript Chrome DevTools for coding agents
-  🤖 45,501 HKUDS/CLI-Anything                                   Python "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything
+  🤖 45,502 HKUDS/CLI-Anything                                   Python "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything
   🤖 43,494 sickn33/agentic-awesome-skills                       Python Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Cod
   🤖 42,394 kepano/obsidian-skills                               -      Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
-  🤖 41,208 agno-agi/agno                                        Python Build, run, and manage agent platforms.
+  🤖 41,209 agno-agi/agno                                        Python Build, run, and manage agent platforms.
   🤖 40,868 danny-avila/LibreChat                                TypeScript Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, 
-  🤖 40,394 coreyhaines31/marketingskills                        JavaScript Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
+  🤖 40,397 coreyhaines31/marketingskills                        JavaScript Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
   🤖 36,280 reworkd/AgentGPT                                     TypeScript 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
   🤖 36,121 CopilotKit/CopilotKit                                TypeScript The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an
   🤖 35,836 khoj-ai/khoj                                         Python Your AI second brain. Self-hostable. Get answers from the web or your docs. Buil
   🤖 35,209 microsoft/playwright-mcp                             TypeScript Playwright MCP server
-  🤖 32,412 DeusData/codebase-memory-mcp                         C      High-performance code intelligence MCP server. Indexes codebases into a persiste
+  🤖 32,416 DeusData/codebase-memory-mcp                         C      High-performance code intelligence MCP server. Indexes codebases into a persiste
   🤖 32,076 Yeachan-Heo/oh-my-codex                              TypeScript OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so
   🤖 30,327 iOfficeAI/AionUi                                     TypeScript Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code
   🤖 29,267 ComposioHQ/composio                                  TypeScript Composio powers 1000+ toolkits, tool search, context management, authentication,
   🤖 29,124 simstudioai/sim                                      TypeScript Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer 
   🤖 28,410 huggingface/smolagents                               Python 🤗 smolagents: a barebones library for agents that think in code.
-  🤖 28,295 VoltAgent/awesome-agent-skills                       -      A curated collection of 1000+ agent skills from official dev teams and the commu
+  🤖 28,296 VoltAgent/awesome-agent-skills                       -      A curated collection of 1000+ agent skills from official dev teams and the commu
   🤖 27,421 BloopAI/vibe-kanban                                  Rust   Get 10X more out of Claude Code, Codex or any coding agent
   🤖 26,834 jackwener/OpenCLI                                    JavaScript Make Any Website into CLI & Use your logged-in browser by AI agent. 
   🤖 26,636 Fosowl/agenticSeek                                   Python Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent 
@@ -101,12 +101,12 @@
   🤖 26,381 langchain-ai/deepagents                              Python The batteries-included agent harness.
   🤖 26,333 Kilo-Org/kilocode                                    TypeScript Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate fa
   🤖 26,013 openai/symphony                                      Elixir Symphony turns project work into isolated, autonomous implementation runs, allow
-  🤖 25,456 OthmanAdi/planning-with-files                        Python Persistent file-based planning for AI coding agents and long-running agentic tas
+  🤖 25,457 OthmanAdi/planning-with-files                        Python Persistent file-based planning for AI coding agents and long-running agentic tas
   🤖 25,394 gastownhall/beads                                    Go     Beads - A memory upgrade for your coding agent
-  🤖 23,879 openai/skills                                        Python Skills Catalog for Codex
-  🤖 23,513 MadsLorentzen/ai-job-search                          TypeScript The job search that runs on your machine. AI job application framework built on 
+  🤖 23,880 openai/skills                                        Python Skills Catalog for Codex
+  🤖 23,515 MadsLorentzen/ai-job-search                          TypeScript The job search that runs on your machine. AI job application framework built on 
   🤖 22,703 slopus/happy                                         TypeScript Mobile and Web client for Codex and Claude Code, with realtime voice, encryption
-  🤖 22,475 decolua/9router                                      JavaScript Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An
+  🤖 22,477 decolua/9router                                      JavaScript Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An
   🤖 21,185 coze-dev/coze-studio                                 TypeScript An AI agent development platform with all-in-one visual tools, simplifying agent
   🤖 20,645 google/adk-python                                    Python An open-source, code-first Python toolkit for building, evaluating, and deployin
   🤖 19,046 mksglu/context-mode                                  TypeScript Context window optimization for AI coding agents. Sandboxes tool output (98% red
@@ -118,8 +118,8 @@
   🤖 12,288 browseros-ai/BrowserOS                               TypeScript 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Come
   🤖 12,181 XiaomiMiMo/MiMo-Code                                 TypeScript MiMo Code: Where Models and Agents Co-Evolve
   🤖 12,029 simular-ai/Agent-S                                   Python Agent S: an open agentic framework that uses computers like a human
-  🤖 11,943 Nutlope/hallmark                                     CSS    Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-  🤖 11,196 EverMind-AI/EverOS                                   Python One portable memory layer for every AI agent: local-first, Markdown-native, user
+  🤖 11,950 Nutlope/hallmark                                     CSS    Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+  🤖 11,197 EverMind-AI/EverOS                                   Python One portable memory layer for every AI agent: local-first, Markdown-native, user
   🤖  8,978 awesome-opencode/awesome-opencode                    JavaScript A curated list of awesome plugins, themes, agents, projects, and resources for h
   🤖  7,423 omnigent-ai/omnigent                                 Python Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
   🤖  6,566 openchamber/openchamber                              TypeScript Desktop and web interface for OpenCode AI agent
@@ -127,7 +127,7 @@
   🤖  4,303 54yyyu/zotero-mcp                                    Python Zotero MCP: Connects your Zotero research library with Claude and other AI assis
   🤖  3,733 Opencode-DCP/opencode-dynamic-context-pruning        TypeScript Dynamic context pruning plugin for OpenCode - intelligently manages conversation
   🤖  3,573 gotalab/cc-sdd                                       TypeScript Turn approved specs into long-running autonomous implementation. A minimal, adap
-  🤖  3,279 SeemSeam/claude_codex_bridge                         Python Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, 
+  🤖  3,280 SeemSeam/claude_codex_bridge                         Python Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, 
   🤖  2,845 bethington/ghidra-mcp                                Java   Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugi
   🤖  2,833 agent-of-empires/agent-of-empires                    Rust   Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy acc
   🤖  2,090 stepfun-ai/Step-3.5-Flash                            C++    Fast, Sharp & Reliable Agentic Intelligence
@@ -174,13 +174,13 @@
   🤖      4 colinmollenhour/occtl                                TypeScript Empower your AI to more effectively launch and steer OpenCode from the CLI.
 
 ## 🎵 Self-Hosted Media
-  🎵 178,525 yt-dlp/yt-dlp                                        Python A feature-rich command-line audio/video downloader
-  🎵 133,166 iptv-org/iptv                                        TypeScript Collection of publicly available IPTV channels from all over the world
-  🎵 107,975 immich-app/immich                                    TypeScript High performance self-hosted photo and video management solution.
+  🎵 178,527 yt-dlp/yt-dlp                                        Python A feature-rich command-line audio/video downloader
+  🎵 133,168 iptv-org/iptv                                        TypeScript Collection of publicly available IPTV channels from all over the world
+  🎵 107,977 immich-app/immich                                    TypeScript High performance self-hosted photo and video management solution.
   🎵 54,364 jellyfin/jellyfin                                    C#     The Free Software Media System - Server Backend & API
-  🎵 47,620 KRTirtho/spotube                                     Dart   🎧 Open source music streaming app! Available for both desktop & mobile!
-  🎵 42,148 mifi/lossless-cut                                    TypeScript The swiss army knife of lossless video/audio editing
-  🎵 39,319 LizardByte/Sunshine                                  C++    Self-hosted game stream host for Moonlight.
+  🎵 47,621 KRTirtho/spotube                                     Dart   🎧 Open source music streaming app! Available for both desktop & mobile!
+  🎵 42,147 mifi/lossless-cut                                    TypeScript The swiss army knife of lossless video/audio editing
+  🎵 39,320 LizardByte/Sunshine                                  C++    Self-hosted game stream host for Moonlight.
   🎵 32,740 pear-devs/pear-desktop                               TypeScript Pear 🍐 is extension for music player
   🎵 22,357 navidrome/navidrome                                  Go     🎧 Your Personal Streaming Service 
   🎵 20,218 chidiwilliams/buzz                                   Python Buzz transcribes and translates audio offline on your personal computer. Powered
@@ -193,7 +193,7 @@
   🎵  6,551 simulot/immich-go                                    Go     An alternative to the immich-CLI command that doesn't depend on nodejs installat
   🎵  6,023 namidaco/namida                                      Dart   A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in
   🎵  5,873 xhongc/music-tag-web                                 Python 音乐标签编辑器，可编辑本地音乐文件的元数据, 音乐刮削。（Editable local music file metadata.）
-  🎵  5,650 PixelPlayerHQ/PixelPlayer                            Kotlin privacy-first Android music player built with Material 3 Expressive. Play offlin
+  🎵  5,651 PixelPlayerHQ/PixelPlayer                            Kotlin privacy-first Android music player built with Material 3 Expressive. Play offlin
   🎵  5,249 OuterTune/OuterTune                                  Kotlin A Material 3 Music Player for Android with local file & YouTube Music support. F
   🎵  5,197 spotiflacapp/SpotiFLAC-Mobile                        Dart   Mobile music utility built with Flutter and Go. High-quality audio management fo
   🎵  5,018 metabrainz/picard                                    Python Picard is a cross-platform music tagger powered by the MusicBrainz database
@@ -209,7 +209,7 @@
   🎵  2,248 dweymouth/supersonic                                 Go     A lightweight and full-featured cross-platform desktop client for self-hosted mu
   🎵  2,084 alangrainger/immich-public-proxy                     TypeScript Share your Immich photos and albums in a safe way without exposing your Immich i
   🎵  2,069 fooyin/fooyin                                        C++    A customisable music player
-  🎵  2,059 Nezreka/SoulSync                                     Python Intelligent Music & Video Automation Platform
+  🎵  2,060 Nezreka/SoulSync                                     Python Intelligent Music & Video Automation Platform
   🎵  2,025 jayfunc/BetterLyrics                                 C#     An elegant and deeply customizable lyrics visualizer & versatile music player, b
   🎵  2,021 swingmx/swingmusic                                   Python  Swing Music is a beautiful, self-hosted music player for your local audio files
   🎵  1,801 geekau/mediastack                                    Shell  The ultimate Docker Compose files and configs to build your desired media stack,
@@ -217,7 +217,7 @@
   🎵  1,745 Jellify-Music/App                                    TypeScript A cross-platform, free and open source music player for Jellyfin, powered by Rea
   🎵  1,694 iam4x/bobarr                                         TypeScript 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and runni
   🎵  1,382 debridmediamanager/debrid-media-manager              TypeScript Curate an inifinite media library
-  🎵  1,288 anandprtp/Antra                                      Python A desktop music library builder that turns Spotify, Youtube Music Apple Music, A
+  🎵  1,289 anandprtp/Antra                                      Python A desktop music library builder that turns Spotify, Youtube Music Apple Music, A
   🎵  1,217 navilg/media-stack                                   -      A self-hosted stack for media management and streaming, with AI-powered movie an
   🎵  1,176 lklynet/aurral                                       JavaScript The best in open-source music discovery.
   🎵  1,166 Chevron7Locked/kima-hub                              TypeScript Kima Hub is built for music lovers who want the convenience of streaming service
@@ -341,20 +341,20 @@
   🧠 85,718 PaddlePaddle/PaddleOCR                               Python Turn any PDF or image document into structured data for your AI. A powerful, lig
   🧠 73,348 hiyouga/LlamaFactory                                 Python Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
   🧠 59,675 headroomlabs-ai/headroom                             Python Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20
-  🧠 59,283 upstash/context7                                     TypeScript Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-  🧠 57,340 zylon-ai/private-gpt                                 Python Complete API layer for private AI applications on local models: RAG, skills, too
-  🧠 56,599 appwrite/appwrite                                    TypeScript Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Incl
+  🧠 59,284 upstash/context7                                     TypeScript Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+  🧠 57,339 zylon-ai/private-gpt                                 Python Complete API layer for private AI applications on local models: RAG, skills, too
+  🧠 56,600 appwrite/appwrite                                    TypeScript Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Incl
   🧠 56,362 karpathy/nanochat                                    Python The best ChatGPT that $100 can buy.
   🧠 53,882 BerriAI/litellm                                      Python Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native
-  🧠 51,814 ggml-org/whisper.cpp                                 C++    Port of OpenAI's Whisper model in C/C++
+  🧠 51,815 ggml-org/whisper.cpp                                 C++    Port of OpenAI's Whisper model in C/C++
   🧠 50,130 microsoft/VibeVoice                                  Python Open-Source Frontier Voice AI
   🧠 48,078 roboflow/supervision                                 Python We write your reusable computer vision tools. 💜
   🧠 47,602 mudler/LocalAI                                       Go     LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image
   🧠 40,527 facebookresearch/faiss                               C++    A library for efficient similarity search and clustering of dense vectors.
   🧠 40,307 pingcap/tidb                                         Go     TiDB is built for agentic workloads that grow unpredictably, with ACID guarantee
-  🧠 39,746 microsoft/BitNet                                     C++    Official inference framework for 1-bit LLMs
-  🧠 37,768 HKUDS/LightRAG                                       Python [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-  🧠 35,685 ItzCrazyKns/Vane                                     TypeScript Vane is an AI-powered answering engine.
+  🧠 39,747 microsoft/BitNet                                     C++    Official inference framework for 1-bit LLMs
+  🧠 37,769 HKUDS/LightRAG                                       Python [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+  🧠 35,686 ItzCrazyKns/Vane                                     TypeScript Vane is an AI-powered answering engine.
   🧠 34,981 tinyhumansai/openhuman                               Rust   Your Personal AI super intelligence. A brain that builds a local-first memory of
   🧠 34,081 VectifyAI/PageIndex                                  Python 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
   🧠 33,356 qdrant/qdrant                                        Rust   Qdrant - High-performance, massive-scale Vector Database and Vector Search Engin
@@ -366,7 +366,7 @@
   🧠 22,255 HKUDS/RAG-Anything                                   Python "RAG-Anything: All-in-One RAG Framework"
   🧠 20,684 huggingface/candle                                   Rust   Minimalist ML framework for Rust
   🧠 19,373 dzhng/deep-research                                  TypeScript An AI-powered research assistant that performs iterative, deep research on any t
-  🧠 16,296 tashfeenahmed/freellmapi                             TypeScript OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B toke
+  🧠 16,297 tashfeenahmed/freellmapi                             TypeScript OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B toke
   🧠 16,047 browser-use/browser-harness                          Python Browser Harness | Self-healing harness that enables LLMs to complete any task.
   🧠 15,082 n8n-io/self-hosted-ai-starter-kit                    -      The Self-hosted AI Starter Kit is an open-source template that quickly sets up a
   🧠 13,474 nanobrowser/nanobrowser                              TypeScript Open-Source Chrome extension for AI-powered web automation. Run multi-agent work
@@ -380,10 +380,10 @@
   🧠  6,169 Sylinko/Everywhere                                   C#     On-screen aware AI assistant for your desktop. Uses current app context, multipl
   🧠  5,821 clusterzx/paperless-ai                               JavaScript An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deeps
   🧠  4,613 OpenWhispr/openwhispr                                JavaScript Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model
-  🧠  3,182 Osmantic/ODS                                         Shell  Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voic
+  🧠  3,184 Osmantic/ODS                                         Shell  Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voic
   🧠  3,143 av/harbor                                            Python Stop configuring your AI stack. Start using it. One command brings a complete pr
   🧠  2,660 gamosoft/NoteDiscovery                               JavaScript Your Self-Hosted Knowledge Base
-  🧠  2,635 Mesh-LLM/mesh-llm                                    Rust   Distributed AI/LLM for the people. Share compute privately or publicly to power 
+  🧠  2,637 Mesh-LLM/mesh-llm                                    Rust   Distributed AI/LLM for the people. Share compute privately or publicly to power 
   🧠  2,541 icereed/paperless-gpt                                Go     Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization 
   🧠  2,169 vava-nessa/free-coding-models                        HTML   Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ provid
   🧠  1,958 forloopcodes/contextplus                             TypeScript Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server des
@@ -412,10 +412,10 @@
   🧠      1 aditya452007/Ai-Agents                               Jupyter Notebook This repository showcases a variety of AI agent implementations, ranging from ch
 
 ## 🗄️ Databases & Storage
-  🗄️ 106,485 supabase/supabase                                    TypeScript The Postgres development platform. Supabase gives you a dedicated Postgres datab
+  🗄️ 106,484 supabase/supabase                                    TypeScript The Postgres development platform. Supabase gives you a dedicated Postgres datab
   🗄️ 64,080 nocodb/nocodb                                        TypeScript 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
   🗄️ 59,813 pocketbase/pocketbase                                Go     Open Source realtime backend in 1 file
-  🗄️ 56,599 appwrite/appwrite                                    TypeScript Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Incl
+  🗄️ 56,600 appwrite/appwrite                                    TypeScript Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Incl
   🗄️ 51,044 dbeaver/dbeaver                                      Java   Free universal database tool and SQL client
   🗄️ 45,260 milvus-io/milvus                                     Go     Milvus is a high-performance, cloud-native vector database built for scalable ve
   🗄️ 33,356 qdrant/qdrant                                        Rust   Qdrant - High-performance, massive-scale Vector Database and Vector Search Engin
@@ -438,7 +438,7 @@
   🗄️     49 openwit-oss/openwit                                  Rust   Open-source observability database for Metrics, Logs and Traces. Alternative of 
 
 ## 🔒 Security & Authentication
-  🔒 71,018 NationalSecurityAgency/ghidra                        Java   Ghidra is a software reverse engineering (SRE) framework
+  🔒 71,017 NationalSecurityAgency/ghidra                        Java   Ghidra is a software reverse engineering (SRE) framework
   🔒 33,994 tailscale/tailscale                                  Go     The easiest, most secure way to use WireGuard and 2FA.
   🔒 28,183 gitleaks/gitleaks                                    Go     Find secrets with Gitleaks 🔑
   🔒 27,364 netbirdio/netbird                                    Go     Connect your devices into a secure WireGuard®-based overlay network with SSO, MF
@@ -459,17 +459,17 @@
   🔒      3 hashgraph-online/hol-guard-plugin                    Shell  Codex plugin for HOL Guard AI security and ai-plugin-scanner workflows
 
 ## ⚡ Automation & Workflows
-  ⚡ 196,843 n8n-io/n8n                                           TypeScript Fair-code workflow automation platform with native AI capabilities. Combine visu
+  ⚡ 196,845 n8n-io/n8n                                           TypeScript Fair-code workflow automation platform with native AI capabilities. Combine visu
   ⚡ 70,703 OpenBB-finance/OpenBB                                Python Open Data Platform for analysts, quants and AI agents.
   ⚡ 55,726 Zie619/n8n-workflows                                 Python all of the workflows of n8n i could find (also from the site itself)
   ⚡ 54,343 maybe-finance/maybe                                  Ruby   The personal finance app for everyone
-  ⚡ 28,583 Fincept-Corporation/FinceptTerminal                  C++    FinceptTerminal is a modern finance application offering advanced market analyti
+  ⚡ 28,584 Fincept-Corporation/FinceptTerminal                  C++    FinceptTerminal is a modern finance application offering advanced market analyti
   ⚡ 16,967 microsoft/IoT-For-Beginners                          Jupyter Notebook 12 Weeks, 24 Lessons, IoT for All!
   ⚡ 15,082 n8n-io/self-hosted-ai-starter-kit                    -      The Self-hosted AI Starter Kit is an open-source template that quickly sets up a
   ⚡ 12,775 darktable-org/darktable                              C      darktable is an open source photography workflow application and raw developer
   ⚡  9,432 pinchtab/pinchtab                                    Go     High-performance browser automation bridge and multi-instance orchestrator with 
   ⚡  8,430 lastmile-ai/mcp-agent                                Python Build effective agents using Model Context Protocol and simple workflow patterns
-  ⚡  4,930 dtyq/magic                                           TypeScript Magicrew. The first open-source all-in-one AI productivity platform (Generalist 
+  ⚡  4,929 dtyq/magic                                           TypeScript Magicrew. The first open-source all-in-one AI productivity platform (Generalist 
   ⚡  3,732 DaKheera47/job-ops                                   TypeScript job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to tra
   ⚡  2,524 firecrawl/open-agent-builder                         TypeScript 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web
   ⚡  1,277 openworkflowdev/openworkflow                         TypeScript Open-source TypeScript framework for building durable, resumable workflows. Supp
@@ -484,37 +484,37 @@
   ⚡     16 takeshy/obsidian-llm-hub                             TypeScript  Obsidian plugin for AI chat, workflow automation, and semantic search — support
 
 ## 💻 Dev Tools & Languages
-  💻 527,249 codecrafters-io/build-your-own-x                     Markdown Master programming by recreating your favorite technologies from scratch.
-  💻 451,968 freeCodeCamp/freeCodeCamp                            TypeScript freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
-  💻 450,983 public-apis/public-apis                              Python A collective list of free APIs
-  💻 392,336 EbookFoundation/free-programming-books               Python :books: Freely available programming books
+  💻 527,254 codecrafters-io/build-your-own-x                     Markdown Master programming by recreating your favorite technologies from scratch.
+  💻 451,969 freeCodeCamp/freeCodeCamp                            TypeScript freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,
+  💻 450,987 public-apis/public-apis                              Python A collective list of free APIs
+  💻 392,337 EbookFoundation/free-programming-books               Python :books: Freely available programming books
   💻 222,819 TheAlgorithms/Python                                 Python All Algorithms implemented in Python
-  💻 216,433 NousResearch/hermes-agent                            Python The agent that grows with you
-  💻 152,393 firecrawl/firecrawl                                  TypeScript The API to search, scrape, and interact with the web at scale. 🔥
-  💻 129,629 ripienaar/free-for-dev                               HTML   A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
+  💻 216,437 NousResearch/hermes-agent                            Python The agent that grows with you
+  💻 152,397 firecrawl/firecrawl                                  TypeScript The API to search, scrape, and interact with the web at scale. 🔥
+  💻 129,630 ripienaar/free-for-dev                               HTML   A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
   💻 100,111 mtdvio/every-programmer-should-know                  -      A collection of (mostly) technical things every software developer should know a
   💻 96,033 microsoft/Web-Dev-For-Beginners                      JavaScript 24 Lessons, 12 Weeks, Get Started as a Web Developer
-  💻 95,959 tailwindlabs/tailwindcss                             TypeScript A utility-first CSS framework for rapid UI development.
+  💻 95,960 tailwindlabs/tailwindcss                             TypeScript A utility-first CSS framework for rapid UI development.
   💻 94,791 oven-sh/bun                                          Rust   Incredibly fast JavaScript runtime, bundler, test runner, and package manager – 
-  💻 93,034 microsoft/playwright                                 TypeScript Playwright is a framework for Web Testing and Automation. It allows testing Chro
+  💻 93,035 microsoft/playwright                                 TypeScript Playwright is a framework for Web Testing and Automation. It allows testing Chro
   💻 89,007 gohugoio/hugo                                        Go     The world’s fastest framework for building websites.
-  💻 87,149 zed-industries/zed                                   Rust   Code at the speed of thought – Zed is a high-performance, multiplayer code edito
+  💻 87,150 zed-industries/zed                                   Rust   Code at the speed of thought – Zed is a high-performance, multiplayer code edito
   💻 79,823 hoppscotch/hoppscotch                                TypeScript Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem
   💻 76,287 sdmg15/Best-websites-a-programmer-should-visit       -      :link: Some useful websites for programmers.
-  💻 74,784 OpenCut-app/OpenCut                                  TypeScript The open-source CapCut alternative
+  💻 74,789 OpenCut-app/OpenCut                                  TypeScript The open-source CapCut alternative
   💻 74,732 openai/openai-cookbook                               Jupyter Notebook Examples and guides for using the OpenAI API
   💻 66,493 leonardomso/33-js-concepts                           JavaScript 📜 33 JavaScript concepts every developer should know.
-  💻 61,101 withastro/astro                                      TypeScript The web framework for content-driven websites. ⭐️ Star to support our work!
-  💻 57,472 Panniantong/Agent-Reach                              Python Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
+  💻 61,102 withastro/astro                                      TypeScript The web framework for content-driven websites. ⭐️ Star to support our work!
+  💻 57,476 Panniantong/Agent-Reach                              Python Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
   💻 50,148 nlohmann/json                                        C++    JSON for Modern C++
   💻 41,725 psf/black                                            Python The uncompromising Python code formatter
-  💻 28,531 CloakHQ/CloakBrowser                                 Python Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
+  💻 28,532 CloakHQ/CloakBrowser                                 Python Stealth Chromium that passes every bot detection test. Drop-in Playwright replac
   💻 28,445 supermemoryai/supermemory                            TypeScript Memory and context engine + app that is extremely fast, scalable, and can be run
   💻 19,308 modelscope/FunASR                                    Python Open-source speech recognition toolkit for training, inference, streaming ASR, V
   💻 15,165 coderamp-labs/gitingest                              Python Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract o
   💻  8,761 mps-youtube/yewtube                                  Python yewtube, forked from mps-youtube , is a Terminal based YouTube player and downlo
   💻  6,252 genkit-ai/genkit                                     TypeScript Open-source framework for building AI-powered apps in JavaScript, Go, and Python
-  💻  4,589 darrenhinde/OpenAgentsControl                        TypeScript AI agent framework for plan-first development workflows with approval-based exec
+  💻  4,590 darrenhinde/OpenAgentsControl                        TypeScript AI agent framework for plan-first development workflows with approval-based exec
   💻  4,582 TencentCloudADP/youtu-agent                          Python A simple yet powerful agent framework that delivers with open-source models
   💻  3,695 remorses/playwriter                                  HTML   Chrome extension & CLI to let agents control your browser. Runs Playwright snipp
   💻  2,944 nubjs/nub                                            Rust   The fast all-in-one Node.js toolkit
@@ -555,12 +555,12 @@
   ⌨️ 15,165 coderamp-labs/gitingest                              Python Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract o
   ⌨️ 11,578 Vinzent03/obsidian-git                               TypeScript Integrate Git version control with automatic commit-and-sync and other advanced 
   ⌨️  7,838 zsh-users/zsh-completions                            Shell  Additional completion definitions for Zsh.
-  ⌨️  7,755 CodebuffAI/codebuff                                  TypeScript Generate code from the terminal!
+  ⌨️  7,756 CodebuffAI/codebuff                                  TypeScript Generate code from the terminal!
   ⌨️  7,542 ekzhang/sshx                                         Rust   Fast, collaborative live terminal sharing over the web
   ⌨️  7,467 nvim-neorg/neorg                                     Lua    Modernity meets insane extensibility. The future of organizing your life in Neov
   ⌨️  6,045 hyperupcall/autoenv                                  Shell  Directory-based environments.
   ⌨️  5,690 steipete/agent-rules                                 Shell  Rules and Knowledge to work better with agents such as Claude Code or Cursor
-  ⌨️  4,696 mistralai/mistral-vibe                               Python Minimal CLI coding agent by Mistral
+  ⌨️  4,697 mistralai/mistral-vibe                               Python Minimal CLI coding agent by Mistral
   ⌨️  4,354 jdhao/nvim-config                                    Lua    A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, 
   ⌨️  3,679 nickjvandyke/opencode.nvim                           Lua    Neovim 🤝 OpenCode for familiar flow.
   ⌨️  3,620 gemini-cli-extensions/conductor                      Python A plugin for AI coding agents (Antigravity, Claude Code) enabling Spec-Driven De
@@ -611,7 +611,7 @@
   📝 42,394 kepano/obsidian-skills                               -      Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
   📝 37,104 anthropics/prompt-eng-interactive-tutorial           Jupyter Notebook Anthropic's Interactive Prompt Engineering Tutorial
   📝 35,674 lfnovo/open-notebook                                 TypeScript An Open Source implementation of Notebook LM with more flexibility and features
-  📝 34,326 Crosstalk-Solutions/project-nomad                    TypeScript Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
+  📝 34,327 Crosstalk-Solutions/project-nomad                    TypeScript Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
   📝 27,112 squidfunk/mkdocs-material                            Python Documentation that simply works
   📝 22,824 anthropics/knowledge-work-plugins                    Python Open source repository of plugins primarily intended for knowledge workers to us
   📝 18,716 refactoringhq/tolaria                                TypeScript Desktop app to manage markdown knowledge bases
@@ -690,22 +690,22 @@
   📝      2 Prashanth-BC/mcp-connector-for-obsidian              TypeScript Unified connector exposing Obsidian vault tools & plugin APIs  over MCP.
 
 ## 🌐 Web & Frontend
-  🌐 107,004 nextlevelbuilder/ui-ux-pro-max-skill                 Python An AI SKILL that provide design intelligence for building professional UI/UX mul
+  🌐 107,006 nextlevelbuilder/ui-ux-pro-max-skill                 Python An AI SKILL that provide design intelligence for building professional UI/UX mul
   🌐 102,631 VoltAgent/awesome-design-md                          -      A collection of DESIGN.md files analysis by popular brand design systems. Drop o
-  🌐 79,307 nexu-io/open-design                                  TypeScript 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your
+  🌐 79,310 nexu-io/open-design                                  TypeScript 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your
   🌐 73,232 thedaviddias/Front-End-Checklist                     MDX    🗂 The essential checklist for modern web development, for humans and AI agents
-  🌐 45,794 KeygraphHQ/shannon                                   TypeScript Shannon is an autonomous, white-box AI pentester for web applications and APIs. 
+  🌐 45,795 KeygraphHQ/shannon                                   TypeScript Shannon is an autonomous, white-box AI pentester for web applications and APIs. 
   🌐 45,714 9001/copyparty                                       Python Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FT
   🌐 37,716 umami-software/umami                                 TypeScript Umami is a modern, privacy-focused analytics platform. An open-source alternativ
   🌐 35,320 refinedev/refine                                     TypeScript A React Framework for building  internal tools, admin panels, dashboards & B2B a
-  🌐 34,176 lissy93/web-check                                    TypeScript 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+  🌐 34,177 lissy93/web-check                                    TypeScript 🕵️‍♂️ All-in-one OSINT tool for analysing any website
   🌐 30,142 lbjlaq/Antigravity-Manager                           Rust   Professional Antigravity Account Manager & Switcher. One-click seamless account 
   🌐 26,218 onlook-dev/onlook                                    TypeScript The Cursor for Designers • An Open-Source AI-First Design tool • Visually build,
   🌐 23,490 qeeqbox/social-analyzer                              JavaScript API, CLI, and Web App for analyzing and finding a person's profile in 1000 socia
   🌐 19,459 resend/react-email                                   TypeScript 💌 Build and send emails using React
-  🌐 17,254 UberGuidoZ/Flipper                                   C      Playground (and dump) of stuff I make or modify for the Flipper Zero
+  🌐 17,255 UberGuidoZ/Flipper                                   C      Playground (and dump) of stuff I make or modify for the Flipper Zero
   🌐 12,707 mealie-recipes/mealie                                Python Mealie is a self hosted recipe manager and meal planner with a RestAPI backend a
-  🌐 11,660 elie222/inbox-zero                                   TypeScript The world's best AI personal assistant for email. Open source app to help you re
+  🌐 11,661 elie222/inbox-zero                                   TypeScript The world's best AI personal assistant for email. Open source app to help you re
   🌐 11,030 nitrojs/nitro                                        TypeScript Next Generation Server Toolkit. Create web servers with everything you need and 
   🌐  7,451 gtsteffaniak/filebrowser                             Go     📂 Web File Browser
   🌐  5,810 mui/mui-x                                            TypeScript MUI X: Build complex and data-rich applications using a growing list of advanced
@@ -764,7 +764,7 @@
   🌐      2 90sha/self-hosted-music-distro                       HTML   Self hosted HTML music distribution site with a fully functional web player, sea
 
 ## 💬 Chat & Messaging
-  💬 29,311 python-telegram-bot/python-telegram-bot              Python We have made you a wrapper you can't refuse
+  💬 29,312 python-telegram-bot/python-telegram-bot              Python We have made you a wrapper you can't refuse
   💬  5,664 ayn2op/discordo                                      Go     A lightweight, secure, and feature-rich Discord terminal (TUI) client.
   💬  1,931 kenn-io/msgvault                                     Go     Archive a lifetime of email and chat. Offline search, analytics, and AI query ov
   💬  1,142 Zen4-bit/Proxima                                     JavaScript Multi-AI MCP Server - Connect ChatGPT, Claude, Gemini & Perplexity to your codin
@@ -794,7 +794,7 @@
   📱 31,970 binwiederhier/ntfy                                   Go     Send push notifications to your phone or desktop using PUT/POST
   📱 28,600 ReVanced/revanced-manager                            Kotlin 💊 Application to use ReVanced on Android 
   📱 27,643 JunkFood02/Seal                                      Kotlin 🦭 Video/Audio Downloader for Android, based on yt-dlp
-  📱 27,502 karakeep-app/karakeep                                TypeScript A self-hostable bookmark-everything app (links, notes and images) with AI-based 
+  📱 27,503 karakeep-app/karakeep                                TypeScript A self-hostable bookmark-everything app (links, notes and images) with AI-based 
   📱 25,266 GopeedLab/gopeed                                     Go       A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-
   📱 20,969 dyad-sh/dyad                                         TypeScript Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt
   📱 17,297 tiann/KernelSU                                       Kotlin A Kernel based root solution for Android
@@ -862,15 +862,15 @@
   🪟      5 jiripolasek/ErrorsAndCodesExtension                  C#     Quickly access details about error codes and messages from PowerToys Command Pal
 
 ## 📦 Low Signal
-  📦 53,187 twentyhq/twenty                                      TypeScript The open alternative to Salesforce, designed for AI.
-  📦 42,243 usestrix/strix                                       Python Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti
+  📦 53,189 twentyhq/twenty                                      TypeScript The open alternative to Salesforce, designed for AI.
+  📦 42,245 usestrix/strix                                       Python Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti
   📦 31,001 iced-rs/iced                                         Rust   A cross-platform GUI library for Rust, inspired by Elm
   📦 30,025 feder-cr/Jobs_Applier_AI_Agent_AIHawk                Python AIHawk aims to easy job hunt process by automating the job application process. 
   📦 29,468 opentofu/opentofu                                    Go     OpenTofu lets you declaratively manage your cloud infrastructure.
   📦 26,771 cjpais/Handy                                         Rust   A free, open source, and extensible speech-to-text application that works comple
   📦 25,447 spotDL/spotify-downloader                            Python Download your Spotify playlists and songs along with album art and metadata (fro
   📦 23,884 yikart/AiToEarn                                      TypeScript Let's use AI to Earn!
-  📦 22,926 coleam00/Archon                                      TypeScript The first open-source harness builder for AI coding. Make AI coding deterministi
+  📦 22,927 coleam00/Archon                                      TypeScript The first open-source harness builder for AI coding. Make AI coding deterministi
   📦 22,484 Skyvern-AI/skyvern                                   Python Automate browser based workflows with AI
   📦 20,885 HKUDS/AI-Trader                                      Python "AI-Trader: 100% Fully-Automated Agent-Native Trading"  
   📦 19,940 dailydotdev/daily                                    -      daily.dev is the personalized developer news feed and community. Get the best te
@@ -889,7 +889,7 @@
   📦 10,879 Leantime/leantime                                    PHP    Leantime is a goals focused project management system for non-project managers. 
   📦 10,812 TooTallNate/Java-WebSocket                           Java   A barebones WebSocket client and server implementation written in 100% Java.
   📦 10,616 numman-ali/openskills                                TypeScript Universal skills loader for AI coding agents - npm i -g openskills
-  📦 10,093 lutris/lutris                                        Python Lutris desktop client
+  📦 10,094 lutris/lutris                                        Python Lutris desktop client
   📦  9,924 cloudflare/moltworker                                TypeScript Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
   📦  9,292 microsoft/UFO                                        Python UFO³: Weaving the Digital Agent Galaxy
   📦  9,232 marcelscruz/public-apis                              JavaScript A collaborative list of public APIs for developers
@@ -897,7 +897,7 @@
   📦  8,343 MiroMindAI/MiroThinker                               Python MiroThinker is a deep research agent optimized for complex research and predicti
   📦  7,771 pinokiocomputer/pinokio                              JavaScript AI Browser
   📦  7,482 MightyMoud/sidekick                                  Go     Bare metal to production ready in mins; your own fly server on your VPS.
-  📦  7,047 p1ngul1n0/blackbird                                  Python An OSINT tool to search for accounts by username and email in social networks.
+  📦  7,048 p1ngul1n0/blackbird                                  Python An OSINT tool to search for accounts by username and email in social networks.
   📦  7,009 alvinunreal/oh-my-opencode-slim                      TypeScript Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tas
   📦  6,625 strands-agents/harness-sdk                           Python Build an agent harness and control it end-to-end. Open-source SDK for production
   📦  6,546 midudev/autoskills                                   Ruby   One command. Your entire AI skill stack. Installed.
@@ -913,7 +913,7 @@
   📦  4,544 kevinrgu/autoagent                                   Python autonomous harness engineering
   📦  4,540 hotheadhacker/seedbox-lite                           JavaScript A light-weight torrent media center at one place.
   📦  4,428 Clooos/Bubble-Card                                   JavaScript Bubble Card is a minimalist card collection for Home Assistant with a nice pop-u
-  📦  4,401 kenn-io/agentsview                                   Go     Local-first session search, analytics, insights, and token use statistics for co
+  📦  4,402 kenn-io/agentsview                                   Go     Local-first session search, analytics, insights, and token use statistics for co
   📦  4,360 ruvnet/RuVector                                      Rust   RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory 
   📦  4,307 open-webui/mcpo                                      Python A simple, secure MCP-to-OpenAPI proxy server
   📦  4,306 mixedbread-ai/mgrep                                  TypeScript A calm, CLI-native way to semantically grep everything, like code, images, pdfs 
@@ -938,7 +938,7 @@
   📦  1,384 no-magic-ai/no-magic                                 Python Because `model.fit()` isn't an explanation
   📦  1,351 silverstein/minutes                                  Rust   Every meeting, every idea, every voice note — searchable by your AI. Open-source
   📦  1,288 crocofied/CoreObs                                    TypeScript Dashboard to manage your entire server infrastructure
-  📦  1,278 Pickle-Pixel/ApplyPilot                              Python AI agent that applies to jobs for you. Any site. Any form.
+  📦  1,279 Pickle-Pixel/ApplyPilot                              Python AI agent that applies to jobs for you. Any site. Any form.
   📦  1,154 playwora/wora                                        TypeScript 🎧 A beautiful player for audiophiles.
   📦  1,129 FoxxMD/multi-scrobbler                               TypeScript Scrobble plays from multiple sources to multiple clients
   📦  1,086 Chorus-AIDLC/Chorus                                  TypeScript The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC (AI-Driven 
@@ -1035,14 +1035,14 @@
   ❓ 40,549 remoteintech/remote-jobs                             JavaScript Source for remoteintech.company — a community-maintained directory of remote-fri
   ❓ 30,863 jdx/mise                                             Rust   dev tools, env vars, task runner
   ❓ 27,796 srbhr/Resume-Matcher                                 TypeScript The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with
-  ❓ 27,313 HKUDS/DeepTutor                                      Python DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+  ❓ 27,318 HKUDS/DeepTutor                                      Python DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
   ❓ 19,149 hummingbot/hummingbot                                Python Open source software that helps you create and deploy high-frequency crypto trad
   ❓ 17,364 leon-ai/leon                                         TypeScript 🧠 Leon is your open-source personal assistant.
   ❓ 14,077 grokability/snipe-it                                 PHP    A free open source IT asset/license management system
   ❓ 13,127 LawnchairLauncher/lawnchair                          Java   No clever tagline needed.
   ❓ 12,544 elkowar/eww                                          Rust   ElKowars wacky widgets
   ❓ 11,721 n0-computer/iroh                                     Rust   IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal 
-  ❓ 10,061 polarsource/polar                                    Python Polar — A billing platform for the intelligence era
+  ❓ 10,062 polarsource/polar                                    Python Polar — A billing platform for the intelligence era
   ❓  9,195 dessant/buster                                       JavaScript Captcha solver extension for humans, available for Chrome, Edge and Firefox
   ❓  8,971 ghostfolio/ghostfolio                                TypeScript Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScr
   ❓  8,273 antfu-collective/ni                                  TypeScript 💡 Use the right package manager

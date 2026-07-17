@@ -7,7 +7,7 @@
 📡|3946|AzuraCast/AzuraCast|PHP|A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
 📡|254|BleedingXiko/GhostHub|JavaScript|A self-hosted Raspberry Pi 4 media hub for local streaming, TV casting, profiles, chat, and private storage.
 📡|7890|ChristianLempa/boilerplates|Python|Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
-📡|35711|Dokploy/dokploy|TypeScript|Open Source Alternative to Vercel, Netlify and Heroku.
+📡|35712|Dokploy/dokploy|TypeScript|Open Source Alternative to Vercel, Netlify and Heroku.
 📡|3074|HeyWillow/willow|C|Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 📡|4965|IAmStoxe/wirehole|-|WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 📡|15310|Koenkk/zigbee2mqtt|TypeScript|Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
@@ -23,7 +23,7 @@
 📡|32044|dokku/dokku|Shell|A docker-powered PaaS that helps you build and manage the lifecycle of applications
 📡|3|fullzer4/EchoVault|Rust|🎧🪶 Ultra-light self-hosted music server - single-Pod deploy, fast, secure, listen together. 
 📡|31557|gethomepage/homepage|JavaScript|A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-📡|35790|glanceapp/glance|Go|A self-hosted dashboard that puts all your feeds in one place
+📡|35791|glanceapp/glance|Go|A self-hosted dashboard that puts all your feeds in one place
 📡|9852|iib0011/omni-tools|TypeScript|Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 📡|238|jkerdreux-imt/homepage-lite|CSS|Homepage dashboard for managing and monitoring your homelab services and bookmarks.
 📡|41789|juanfont/headscale|Go|An open source, self-hosted implementation of the Tailscale control server
@@ -36,10 +36,10 @@
 📡|858|neodb-social/neodb|Python|🧩 a self-hosted server tracking what you read/watch/listen/play, powering a global distributed community federating via ActivityPub and ATProto.
 📡|3930|octelium/octelium|Go|A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.
 📡|140|oldany/dropmind|HTML|Self-hosted capture layer to save anything from anywhere.
-📡|43160|paperless-ngx/paperless-ngx|Python|A community-supported supercharged document management system: scan, index and archive all your documents
+📡|43161|paperless-ngx/paperless-ngx|Python|A community-supported supercharged document management system: scan, index and archive all your documents
 📡|5357|psviderski/uncloud|Go|A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 📡|56|rkanapka/sound-vault|JavaScript|Your personal, self-hosted music library - stream, organize, and enjoy in full quality.
-📡|81016|ruvnet/RuView|Rust|π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+📡|81017|ruvnet/RuView|Rust|π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 📡|1206|surajverma/homehub|HTML|A private, lightweight, no-login, self-hosted family utility for your home and it comes with no config PWA.
 📡|2342|voidauth/voidauth|TypeScript|Single Sign-On for Your Self-Hosted Universe
 📡|3510|yusing/godoxy|Go|High-performance reverse proxy and container orchestrator for self-hosters
@@ -50,32 +50,32 @@
 🤖|47100|ChromeDevTools/chrome-devtools-mcp|TypeScript|Chrome DevTools for coding agents
 🤖|29267|ComposioHQ/composio|TypeScript|Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 🤖|36121|CopilotKit/CopilotKit|TypeScript|The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
-🤖|32412|DeusData/codebase-memory-mcp|C|High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-🤖|85189|DietrichGebert/ponytail|JavaScript|Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-🤖|11196|EverMind-AI/EverOS|Python|One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-🤖|61382|Fission-AI/OpenSpec|TypeScript|Spec-driven development (SDD) for AI coding assistants.
+🤖|32416|DeusData/codebase-memory-mcp|C|High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+🤖|85192|DietrichGebert/ponytail|JavaScript|Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+🤖|11197|EverMind-AI/EverOS|Python|One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
+🤖|61383|Fission-AI/OpenSpec|TypeScript|Spec-driven development (SDD) for AI coding assistants.
 🤖|261|FootprintAI/Containarium|Go|Open-source agent runtime — SSH-native isolation, eBPF egress policy, Kubernetes + LXC backends, GPU passthrough, MCP-native CLI
 🤖|26636|Fosowl/agenticSeek|Python|Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
 🤖|57481|FoundationAgents/OpenManus|Python|No fortress, purely open ground.  OpenManus is Coming.
-🤖|90176|Graphify-Labs/graphify|Python|AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+🤖|90184|Graphify-Labs/graphify|Python|AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 🤖|63|GuppyTheCat/obsidian-clipper-template-creator|-|Agent Skill that enables AI agents (Claude Code, Cursor, Gemini CLI, etc.) to help you create importable JSON templates for the Obsidian Web Clipper.
-🤖|45501|HKUDS/CLI-Anything|Python|"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+🤖|45502|HKUDS/CLI-Anything|Python|"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 🤖|12343|InsForge/InsForge|TypeScript|The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
 🤖|1510|K-Dense-AI/karpathy|Python|An agentic Machine Learning Engineer
 🤖|26333|Kilo-Org/kilocode|TypeScript|Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
-🤖|23513|MadsLorentzen/ai-job-search|TypeScript|The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+🤖|23515|MadsLorentzen/ai-job-search|TypeScript|The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 🤖|504|MeisnerDan/mission-control|TypeScript|Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents.
 🤖|57430|MemPalace/mempalace|Python|The best-benchmarked open-source AI memory system. And it's free.
 🤖|15600|MemoriLabs/Memori|Python|Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori works with the data infrastructure you already run, no rip-and-replace, and deploys across managed cloud, single-tenant cloud, VPC, and on-premises.
-🤖|11943|Nutlope/hallmark|CSS|Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+🤖|11950|Nutlope/hallmark|CSS|Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 🤖|3733|Opencode-DCP/opencode-dynamic-context-pruning|TypeScript|Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
-🤖|25456|OthmanAdi/planning-with-files|Python|Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.
+🤖|25457|OthmanAdi/planning-with-files|Python|Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.
 🤖|675|Railly/agentfiles|TypeScript|Browse, create, and edit AI agent files across Claude Code, Cursor, Codex, and 13+ tools — from Obsidian.
-🤖|3279|SeemSeam/claude_codex_bridge|Python|Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents
+🤖|3280|SeemSeam/claude_codex_bridge|Python|Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents
 🤖|185588|Significant-Gravitas/AutoGPT|Python|AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 🤖|1063|SimonSchubert/Kai|Kotlin|OpenClaw alternative in your pocket
 🤖|70|UltimateAI-org/aitoolsforobsidian|TypeScript|Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
-🤖|28295|VoltAgent/awesome-agent-skills|-|A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
+🤖|28296|VoltAgent/awesome-agent-skills|-|A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 🤖|102631|VoltAgent/awesome-design-md|-|A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 🤖|12181|XiaomiMiMo/MiMo-Code|TypeScript|MiMo Code: Where Models and Agents Co-Evolve
 🤖|32076|Yeachan-Heo/oh-my-codex|TypeScript|OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
@@ -84,11 +84,11 @@
 🤖|2833|agent-of-empires/agent-of-empires|Rust|Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 🤖|895|agent-sh/agentsys|JavaScript|AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
 🤖|18445|agent0ai/agent-zero|Python|Agent Zero AI framework
-🤖|41208|agno-agi/agno|Python|Build, run, and manage agent platforms.
+🤖|41209|agno-agi/agno|Python|Build, run, and manage agent platforms.
 🤖|4819|aipotheosis-labs/aci|Python|ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
-🤖|186919|anomalyco/opencode|TypeScript|The open source coding agent.
+🤖|186922|anomalyco/opencode|TypeScript|The open source coding agent.
 🤖|138112|anthropics/claude-code|Python|Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-🤖|162114|anthropics/skills|Python|Public repository for Agent Skills
+🤖|162118|anthropics/skills|Python|Public repository for Agent Skills
 🤖|8978|awesome-opencode/awesome-opencode|JavaScript|A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 🤖|107|ben-vargas/ai-sdk-provider-opencode-sdk|TypeScript|Vercel AI SDK community provider for OpenCode SDK - Use OpenCode configured providers via SDK
 🤖|2845|bethington/ghidra-mcp|Java|Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.
@@ -99,24 +99,24 @@
 🤖|77291|bytedance/deer-flow|Python|An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 🤖|832|chriswritescode-dev/opencode-manager|TypeScript|Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, and real-time chat in a responsive PWA. Deploy with Docker for instant setup.
 🤖|66027|code-yeongyu/oh-my-openagent|TypeScript|omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
-🤖|60622|colbymchenry/codegraph|TypeScript|Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+🤖|60625|colbymchenry/codegraph|TypeScript|Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 🤖|4|colinmollenhour/occtl|TypeScript|Empower your AI to more effectively launch and steer OpenCode from the CLI.
-🤖|40394|coreyhaines31/marketingskills|JavaScript|Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+🤖|40397|coreyhaines31/marketingskills|JavaScript|Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 🤖|362|cosmicstack-labs/mercury-agent-skills|JavaScript|A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.
 🤖|21185|coze-dev/coze-studio|TypeScript|An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 🤖|55700|crewAIInc/crewAI|Python|Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 🤖|40868|danny-avila/LibreChat|TypeScript|Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
-🤖|22475|decolua/9router|JavaScript|Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+🤖|22477|decolua/9router|JavaScript|Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 🤖|118|derekbar90/opencode-conductor|TypeScript|
 🤖|18|dmgrok/agent-plugins|Python|Intelligent skill discovery for AI agents. Find quality-validated skills that match your project with smart recommendations, maintenance tracking, and security scanning.
-🤖|72136|earendil-works/pi|TypeScript|AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+🤖|72140|earendil-works/pi|TypeScript|AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 🤖|454|galdawave/pickle-rick-extension|TypeScript|This extension transforms the Gemini CLI into "Pickle Rick," a hyper-intelligent, arrogant, yet extremely competent  engineering persona. It enforces a rigid, iterative software development lifecycle through continuous AI agent loops. Emphasizing "God Mode" coding practices and a disdain for
 🤖|?|galz10/pickle-rick-extension|-|
 🤖|25394|gastownhall/beads|Go|Beads - A memory upgrade for your coding agent
 🤖|20645|google/adk-python|Python|An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 🤖|86|googlicius/obsidian-steward|TypeScript|A vault-specific agent equipped with agentic capacity, fast search, flexible commands, vault management, and terminals to "jump" into other CLI agents, such as Claude, Gemini, etc.
 🤖|3573|gotalab/cc-sdd|TypeScript|Turn approved specs into long-running autonomous implementation. A minimal, adaptable SDD harness with Agent Skills for Claude Code, Codex, Cursor, Copilot, Windsurf, OpenCode, Gemini CLI, and Antigravity.
-🤖|50254|hesreallyhim/awesome-claude-code|Python|A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
+🤖|50256|hesreallyhim/awesome-claude-code|Python|A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
 🤖|28410|huggingface/smolagents|Python|🤗 smolagents: a barebones library for agents that think in code.
 🤖|30327|iOfficeAI/AionUi|TypeScript|Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI / Customize your assistants / Star if you like it!
 🤖|26834|jackwener/OpenCLI|JavaScript|Make Any Website into CLI & Use your logged-in browser by AI agent. 
@@ -133,11 +133,11 @@
 🤖|42394|kepano/obsidian-skills|-|Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 🤖|35836|khoj-ai/khoj|Python|Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 🤖|26381|langchain-ai/deepagents|Python|The batteries-included agent harness.
-🤖|142007|langchain-ai/langchain|Python|The agent engineering platform.
+🤖|142008|langchain-ai/langchain|Python|The agent engineering platform.
 🤖|149175|langgenius/dify|TypeScript|Production-ready platform for agentic workflow development.
 🤖|80426|lobehub/lobehub|TypeScript|🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 🤖|1964|lupantech/AgentFlow|Python|AgentFlow: In-the-Flow Agentic System Optimization
-🤖|61074|mem0ai/mem0|TypeScript|Universal memory layer for AI Agents
+🤖|61075|mem0ai/mem0|TypeScript|Universal memory layer for AI Agents
 🤖|15975|memvid/memvid|Rust|Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 🤖|35209|microsoft/playwright-mcp|TypeScript|Playwright MCP server
 🤖|19046|mksglu/context-mode|TypeScript|Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
@@ -145,18 +145,18 @@
 🤖|17315|muratcankoylan/Agent-Skills-for-Context-Engineering|Python|A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 🤖|52525|mvanhorn/last30days-skill|Python|AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 🤖|549|nicobailon/surf-cli|TypeScript|The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested.
-🤖|256615|obra/superpowers|Shell|An agentic skills framework & software development methodology that works.
+🤖|256621|obra/superpowers|Shell|An agentic skills framework & software development methodology that works.
 🤖|1072|octos-org/octos|Rust|Octos - Agentic Operating Systems
 🤖|7423|omnigent-ai/omnigent|Python|Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 🤖|608|open-gitagent/gitagent|TypeScript|A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files.
-🤖|23879|openai/skills|Python|Skills Catalog for Codex
+🤖|23880|openai/skills|Python|Skills Catalog for Codex
 🤖|26013|openai/symphony|Elixir|Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 🤖|6566|openchamber/openchamber|TypeScript|Desktop and web interface for OpenCode AI agent
 🤖|205|pheuter/claude-agent-desktop|TypeScript|Cross-platform desktop app for agentic chat powered by Claude Agent SDK.
 🤖|500|qodo-ai/open-aware|-|Aware - Deep Code Research Agent for Complex Codebase & Knowledge that “Act As Your Agentic Principal Engineer” 
 🤖|806|quoroom-ai/room|TypeScript|Open-source earning-focused swarm intelligence engine. Self-governing AI collectives (queen, workers, quorum voting) running locally via MCP. Works with Claude Code, Codex, or pay-per-use APIs.
 🤖|36280|reworkd/AgentGPT|TypeScript|🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-🤖|64863|ruvnet/ruflo|TypeScript|🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+🤖|64866|ruvnet/ruflo|TypeScript|🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 🤖|?|safishamsi/graphify|-|
 🤖|1977|saifyxpro/HeadlessX|TypeScript|The undetected self-hosted browser automation platform. Powered by Camoufox (Firefox) for 0% detection rates. Built for speed, privacy, and scalability.
 🤖|43494|sickn33/agentic-awesome-skills|Python|Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
@@ -167,9 +167,9 @@
 🤖|22703|slopus/happy|TypeScript|Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 🤖|2090|stepfun-ai/Step-3.5-Flash|C++|Fast, Sharp & Reliable Agentic Intelligence
 🤖|1647|the-open-engine/zeroshot|JavaScript|Your autonomous engineering team in a CLI. The agent loop produces senior-level code that you can actually trust in prod because of non-negotiable feedback from independent reviewers. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI with trivial setup.
-🤖|87633|thedotmack/claude-mem|JavaScript|Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+🤖|87634|thedotmack/claude-mem|JavaScript|Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 🤖|26431|vercel-labs/skills|TypeScript|The open agent skills tool - npx skills
-🤖|63300|warpdotdev/warp|Rust|Warp is an agentic development environment, born out of the terminal.
+🤖|63301|warpdotdev/warp|Rust|Warp is an agentic development environment, born out of the terminal.
 🤖|437|waybarrios/opencode-power-pack|JavaScript|Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.
 🤖|1354|yigitkonur/cli-continues|TypeScript|resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor
 🤖|65|yuki-20/CornMCP|TypeScript|CornMCP is an open-source mono repo that gives AI coding agents (Antigravity, Cursor, Claude Code, Codex), token-saving access to your codebase through the Model Context Protocol (MCP).
@@ -185,10 +185,10 @@
 🎵|344|Jaxx497/NoctaVox|Rust|Local TUI Music Player
 🎵|1745|Jellify-Music/App|TypeScript|A cross-platform, free and open source music player for Jellyfin, powered by React Native
 🎵|16|JulyWitch/Dururu|Dart|Dururu is a simple and modern music player for Subsonic servers. It lets you stream your music library effortlessly, with a clean design and all the features you need, like playlists, lyrics, and a queue manager. Built with Flutter, it’s fast and easy to use.
-🎵|47620|KRTirtho/spotube|Dart|🎧 Open source music streaming app! Available for both desktop & mobile!
+🎵|47621|KRTirtho/spotube|Dart|🎧 Open source music streaming app! Available for both desktop & mobile!
 🎵|156|Kha-kis/arr-dashboard|TypeScript|Unified dashboard for managing multiple Sonarr, Radarr, and Prowlarr instances
 🎵|284|Konsl/spicetify-visualizer|TypeScript|Audio Visualizer for Spicetify
-🎵|39319|LizardByte/Sunshine|C++|Self-hosted game stream host for Moonlight.
+🎵|39320|LizardByte/Sunshine|C++|Self-hosted game stream host for Moonlight.
 🎵|1057|Luctia/ezarr|Python|Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/Usenet/PleX/Jellyfin mediacenter stack using Docker
 🎵|1763|LumePart/Explo|Go|Spotify's "Discover Weekly" for self-hosted music systems
 🎵|205|Majorfi/immich-stack|Go|Immich tool that helps you group similar photos into stacks
@@ -198,9 +198,9 @@
 🎵|103|MoeMusic/Moe|Python|The ultimate tool for managing your music.
 🎵|28|MusicMoveArr/SeekDownloader|C#|A simple to use SoulSeek downloader
 🎵|2254|NeptuneHub/AudioMuse-AI|Python|AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex: no metadata or external services required.
-🎵|2059|Nezreka/SoulSync|Python|Intelligent Music & Video Automation Platform
+🎵|2060|Nezreka/SoulSync|Python|Intelligent Music & Video Automation Platform
 🎵|5249|OuterTune/OuterTune|Kotlin|A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
-🎵|5650|PixelPlayerHQ/PixelPlayer|Kotlin|privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
+🎵|5651|PixelPlayerHQ/PixelPlayer|Kotlin|privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
 🎵|226|PrathxmOp/dab-downloader|Go|A powerful, modular music downloader that delivers high-quality FLAC files with comprehensive metadata support through the DAB API.
 🎵|17|QuixThe2nd/Hydrabase|TypeScript|Hydrabase is web-of-trust inspired consensus-less distributed relational database. The networks primary purpose is to act as a unified source that propagates music metadata.
 🎵|557|RazgrizHsu/immich-deduper|Python|duplicate photo finder for Immich - find and remove similar images
@@ -219,7 +219,7 @@
 🎵|88|adiiverma40/tunelog|TypeScript|Self-hosted music recommendation that learns your taste from skips and replays no ratings needed.
 🎵|2084|alangrainger/immich-public-proxy|TypeScript|Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 🎵|47|allquiet-hub/Lidarr.Plugin.Slskd|C#|
-🎵|1288|anandprtp/Antra|Python|A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local library in FLAC, ALAC, AAC, or MP3.
+🎵|1289|anandprtp/Antra|Python|A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local library in FLAC, ALAC, AAC, or MP3.
 🎵|140|aquantumofdonuts/mixarr|TypeScript|Self-hosted music discovery companion for Lidarr. Connect Spotify, TIDAL, Last.fm, Deezer, Plex & more. Docker-ready.
 🎵|8593|awesome-jellyfin/awesome-jellyfin|Shell|A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 🎵|927|basharovV/musicat|Svelte|A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri
@@ -244,8 +244,8 @@
 🎵|8|gwenoleR/LidSeek|Python|A Lidarr alternative based on Soulseek.
 🎵|17|hanpq/PSImmich|PowerShell|PSImmich is a Powershell API wrapper for Immich
 🎵|1694|iam4x/bobarr|TypeScript|🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
-🎵|107975|immich-app/immich|TypeScript|High performance self-hosted photo and video management solution.
-🎵|133166|iptv-org/iptv|TypeScript|Collection of publicly available IPTV channels from all over the world
+🎵|107977|immich-app/immich|TypeScript|High performance self-hosted photo and video management solution.
+🎵|133168|iptv-org/iptv|TypeScript|Collection of publicly available IPTV channels from all over the world
 🎵|574|ironsmile/euterpe|Go|Self-hosted music streaming server 🎶 with RESTful API and Web interface. Think of it as your very own Spotify! ☁️🎧
 🎵|245|iuliandita/digarr|TypeScript|AI-powered music discovery for your *arr stack. Recommends artists and individual albums through a 7-stage AI pipeline, scores and ranks them, and learns from your feedback -- approve a single album without grabbing the whole discography. Supports Lidarr, Spotify, Navidrome, Jellyfin, Plex. Self-hosted, open source.
 🎵|22|jaenib/setseeker|Python|takes DJ sets (soundcloud links) and returns track IDs, then gets them from soulseek.
@@ -266,7 +266,7 @@
 🎵|5018|metabrainz/picard|Python|Picard is a cross-platform music tagger powered by the MusicBrainz database
 🎵|176|metabrainz/picard-plugins|Python|Picard plugins: use 1.0 branch for Picard < 2.0 (python 2/Qt4) and 2.0 branch for Picard >= 2.0 (python 3/Qt5)
 🎵|16|michel/soulseek-rs|Rust|rust 🦀 implementation of soulseek client
-🎵|42148|mifi/lossless-cut|TypeScript|The swiss army knife of lossless video/audio editing
+🎵|42147|mifi/lossless-cut|TypeScript|The swiss army knife of lossless video/audio editing
 🎵|2304|miraclx/freyr-js|JavaScript|A tool for downloading songs from music streaming services like Spotify and Apple Music.
 🎵|12|mjarlund/MBQuickPlayOverlay|C#|Quickly search and play music in your Now Playing list without having to open the MusicBee UI
 🎵|211|moayuisuda/two-moons|TypeScript|🌙 Powerful and Interactive Music Learning Platform.
@@ -306,7 +306,7 @@
 🎵|150|yoinkify/yoink|TypeScript|paste a spotify or apple music link. get the file.
 🎵|530|youegraillot/lidarr-on-steroids|Dockerfile|Lidarr with some muscles thanks to deemix
 🎵|269|ysharma3501/LinaCodec|Python|A highly compressive and high-quality neural audio codec for speech models.
-🎵|178525|yt-dlp/yt-dlp|Python|A feature-rich command-line audio/video downloader
+🎵|178527|yt-dlp/yt-dlp|Python|A feature-rich command-line audio/video downloader
 🐳|203|0xN1nja/homepagectl|Go|Generate gethomepage.dev configs from running Docker containers
 🐳|2280|ChrispyBacon-dev/DockFlare|Python|DockFlare: Automate Cloudflare Tunnels with Docker Labels
 🐳|246|DumbWareio/DumbTerm|JavaScript|A stupidly simple web-based terminal emulator, with common tools and Starship enabled (via Docker)! 🚀
@@ -340,15 +340,15 @@
 🧠|28|Emmimal/context-graph-benchmark|Python|A pure-Python structured memory benchmark for multi-agent LLM systems — context graph vs vector RAG vs raw history dump, five scenarios, 18 graded queries, zero API calls.
 🧠|561|FoundationAgents/ReCode|Python|Next paradigm for LLM Agent. Unify plan and action through recursive code generation for adaptive, human-like decision-making.
 🧠|9471|HKUDS/AutoAgent|Python|"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
-🧠|37768|HKUDS/LightRAG|Python|[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+🧠|37769|HKUDS/LightRAG|Python|[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 🧠|22255|HKUDS/RAG-Anything|Python|"RAG-Anything: All-in-One RAG Framework"
-🧠|35685|ItzCrazyKns/Vane|TypeScript|Vane is an AI-powered answering engine.
+🧠|35686|ItzCrazyKns/Vane|TypeScript|Vane is an AI-powered answering engine.
 🧠|?|Light-Heart-Labs/DreamServer|-|
 🧠|?|Light-Heart-Labs/ODS|-|
-🧠|2635|Mesh-LLM/mesh-llm|Rust|Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
+🧠|2637|Mesh-LLM/mesh-llm|Rust|Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
 🧠|8525|OpenBMB/XAgent|Python|An Autonomous LLM Agent for Complex Task Solving
 🧠|4613|OpenWhispr/openwhispr|JavaScript|Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
-🧠|3182|Osmantic/ODS|Shell|Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
+🧠|3184|Osmantic/ODS|Shell|Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
 🧠|85718|PaddlePaddle/PaddleOCR|Python|Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 🧠|6169|Sylinko/Everywhere|C#|On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.
 🧠|10988|The-Pocket/PocketFlow|Python|Pocket Flow: 100-line LLM framework. Let Agents build Agents!
@@ -357,7 +357,7 @@
 🧠|1|aditya452007/Ai-Agents|Jupyter Notebook|This repository showcases a variety of AI agent implementations, ranging from chat applications and RAG (Retrieval-Augmented Generation) pipelines to specialized MCP (Model Context Protocol) servers.
 🧠|30|ai-zerolab/mcp-toolbox|Python|Maintenance of a set of tools to enhance LLM through MCP protocols.
 🧠|37|alez007/modelship|Python|Self-hosted, OpenAI-compatible inference for the agentic era: reasoning LLMs, universal tool calling, and the Responses API alongside embeddings, speech, and image models — many models sharing your GPUs, one gateway. Powered by Ray Serve.
-🧠|56599|appwrite/appwrite|TypeScript|Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+🧠|56600|appwrite/appwrite|TypeScript|Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 🧠|28368|assafelovic/gpt-researcher|Python|An autonomous agent that conducts deep research on any data using any LLM providers
 🧠|3143|av/harbor|Python|Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 🧠|10721|blinkospace/blinko|TypeScript|An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
@@ -373,7 +373,7 @@
 🧠|1958|forloopcodes/contextplus|TypeScript|Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.
 🧠|2660|gamosoft/NoteDiscovery|JavaScript|Your Self-Hosted Knowledge Base
 🧠|120736|ggml-org/llama.cpp|C++|LLM inference in C/C++
-🧠|51814|ggml-org/whisper.cpp|C++|Port of OpenAI's Whisper model in C/C++
+🧠|51815|ggml-org/whisper.cpp|C++|Port of OpenAI's Whisper model in C/C++
 🧠|287|guoqingbao/xinfer|Rust|Blazing-fast LLM inference in pure Rust. No PyTorch and Python runtime.
 🧠|59675|headroomlabs-ai/headroom|Python|Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 🧠|73348|hiyouga/LlamaFactory|Python|Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
@@ -383,7 +383,7 @@
 🧠|4|itskiranbabu/bolt-diy-enhanced|TypeScript|🚀 Bolt.DIY Enhanced - AI-Powered Full-Stack Web App Builder / Prompt, Run, Edit & Deploy with Any LLM / Enhanced by itskiranbabu / Powered by KeyRun AI
 🧠|56362|karpathy/nanochat|Python|The best ChatGPT that $100 can buy.
 🧠|1606|kenforthewin/atomic|Rust|Self-hosted, semantically-connected personal knowledge base
-🧠|39746|microsoft/BitNet|C++|Official inference framework for 1-bit LLMs
+🧠|39747|microsoft/BitNet|C++|Official inference framework for 1-bit LLMs
 🧠|50130|microsoft/VibeVoice|Python|Open-Source Frontier Voice AI
 🧠|47602|mudler/LocalAI|Go|LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 🧠|15082|n8n-io/self-hosted-ai-starter-kit|-|The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
@@ -400,19 +400,19 @@
 🧠|197|qualixar/superlocalmemory|Python|World's first local-only AI memory to break 74% retrieval and 60% zero-LLM on LoCoMo. No cloud, no APIs, no data leaves your machine. Additionally, mode C (LLM/Cloud) - 87.7% LoCoMo. Research-backed. arXiv: 2603.14588
 🧠|48078|roboflow/supervision|Python|We write your reusable computer vision tools. 💜
 🧠|1075|savbell/whisper-writer|Python|💬📝 A small dictation app using OpenAI's Whisper speech recognition model.
-🧠|16296|tashfeenahmed/freellmapi|TypeScript|OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+🧠|16297|tashfeenahmed/freellmapi|TypeScript|OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 🧠|34981|tinyhumansai/openhuman|Rust|Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 🧠|1046|turboderp-org/exllamav3|Python|An optimized quantization and inference library for running LLMs locally on modern consumer-class GPUs 
-🧠|59283|upstash/context7|TypeScript|Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+🧠|59284|upstash/context7|TypeScript|Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 🧠|2169|vava-nessa/free-coding-models|HTML|Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
 🧠|1533|xxnuo/open-coreui|Svelte|Open CoreUI - A rewritten Open WebUI in Rust, significantly reducing memory and resource usage, requiring no dependency services, no Docker, with both a server version and a Tauri-based desktop client. (formerly Open WebUI Lite)
 🧠|27194|yamadashy/repomix|TypeScript|📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 🧠|192|yoloshii/ClawMem|TypeScript|On-device memory layer for AI agents. Claude Code, Hermes and OpenClaw. Hooks + MCP server + hybrid RAG search.
 🧠|57|yzfly/Mind-Cloning-Engineering|-|MCE: Clone Human Souls with LLM Native Agent Skills / 基于 LLM Agent Skills 的心智克隆工程 / Agent Skills / Mind Skills / Mind Clone
-🧠|57340|zylon-ai/private-gpt|Python|Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
+🧠|57339|zylon-ai/private-gpt|Python|Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 🗄️|499|Cranot/roam-code|Python|Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 238 commands, 224 MCP tools, change-safety gates, audit evidence, zero API keys.
 🗄️|5642|HelixDB/helix-db|Rust|HelixDB is an OLTP graph-vector database built in Rust on Object Storage.
-🗄️|56599|appwrite/appwrite|TypeScript|Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+🗄️|56600|appwrite/appwrite|TypeScript|Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 🗄️|113|bgarciamoura/obsidian-notion-bases-plugin|TypeScript|Turn any folder into a Notion-style database — 7 views, 17 column types, formulas, relations, rollups, and subtasks. All stored in plain Markdown frontmatter.
 🗄️|142|campfirium/obsidian-tile-line-base|TypeScript|The Native Plain-Text Database for Obsidian. Build Tables, Kanban, and Slides with Zero Frontmatter.
 🗄️|51044|dbeaver/dbeaver|Java|Free universal database tool and SQL client
@@ -429,14 +429,14 @@
 🗄️|59813|pocketbase/pocketbase|Go|Open Source realtime backend in 1 file
 🗄️|33356|qdrant/qdrant|Rust|Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 🗄️|23955|simdjson/simdjson|C++|Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
-🗄️|106485|supabase/supabase|TypeScript|The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+🗄️|106484|supabase/supabase|TypeScript|The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 🗄️|1173|tickernelz/opencode-mem|TypeScript|OpenCode plugin that gives coding agents persistent memory using local vector database
 🗄️|23118|timescale/timescaledb|C|A time-series database for high-performance real-time analytics packaged as a Postgres extension
 🗄️|1831|tranxuanthang/lrclib|Rust|LRCLIB server written in Rust with Axum and SQLite3 database
 🗄️|7362|warp-tech/warpgate|Rust|Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 🔒|9525|LaurieWired/GhidraMCP|Java|MCP Server for Ghidra
 🔒|614|NOXCIS/Wiregate|Vue|🥷🏼  AmneziaWG + WireGuard VPN Server with Web UI + TOR + DnsCrypt + Pihole +AdGuard
-🔒|71018|NationalSecurityAgency/ghidra|Java|Ghidra is a software reverse engineering (SRE) framework
+🔒|71017|NationalSecurityAgency/ghidra|Java|Ghidra is a software reverse engineering (SRE) framework
 🔒|40|Organisation-404/VulnHeist|Python|VulnHeist  is an Automated Penetration Testing Suite 🔖 that streamlines vulnerability scanning 🔍 and exploitation 💥 using Nmap 🌐 and Metasploit 💣. It delivers detailed reports , helping security pros quickly find and exploit vulnerabilities with speed and precision.🪝
 🔒|115|aira-security/mcp-armor|Python|MCP Armor continuously secures and monitors Model Context Protocol operations through static and dynamic scans, revealing hidden risks in agent-to-tool communications.
 🔒|?|dmgrok/agent_skills_directory|-|
@@ -456,7 +456,7 @@
 🔒|2342|voidauth/voidauth|TypeScript|Single Sign-On for Your Self-Hosted Universe
 ⚡|3732|DaKheera47/job-ops|TypeScript|job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 ⚡|287|DoliCloud/SellYourSaas|PHP|Sell-Your-Saas is an Open Source solution to automate and sell any Web application as a SaaS service. Solution supports the deployment/undeployment of any application, customer dashboard, automatic invoicing and payment (credit card or sepa direct debit), management of a reseller network, security, backup, supervision and more...
-⚡|28583|Fincept-Corporation/FinceptTerminal|C++|FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+⚡|28584|Fincept-Corporation/FinceptTerminal|C++|FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 ⚡|203|Joonghyun-Lee-Frieren/oh-my-antigravity|JavaScript|Context-engineering-powered multi-agent team workflow pack for Antigravity CLI.
 ⚡|70703|OpenBB-finance/OpenBB|Python|Open Data Platform for analysts, quants and AI agents.
 ⚡|55726|Zie619/n8n-workflows|Python|all of the workflows of n8n i could find (also from the site itself)
@@ -464,14 +464,14 @@
 ⚡|75|athal7/opencode-pilot|JavaScript|Automation layer for OpenCode - notifications, mobile UI, and workflow orchestration
 ⚡|12775|darktable-org/darktable|C|darktable is an open source photography workflow application and raw developer
 ⚡|1104|dp-archive/archive|Python|Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.
-⚡|4930|dtyq/magic|TypeScript|Magicrew. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
+⚡|4929|dtyq/magic|TypeScript|Magicrew. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
 ⚡|2524|firecrawl/open-agent-builder|TypeScript|🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution
 ⚡|963|lahfir/agent-desktop|Rust|Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs.
 ⚡|8430|lastmile-ai/mcp-agent|Python|Build effective agents using Model Context Protocol and simple workflow patterns
 ⚡|?|loppety/Clavix|-|
 ⚡|54343|maybe-finance/maybe|Ruby|The personal finance app for everyone
 ⚡|16967|microsoft/IoT-For-Beginners|Jupyter Notebook|12 Weeks, 24 Lessons, IoT for All!
-⚡|196843|n8n-io/n8n|TypeScript|Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+⚡|196845|n8n-io/n8n|TypeScript|Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 ⚡|15082|n8n-io/self-hosted-ai-starter-kit|-|The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 ⚡|183|openbroadcaster/observer|-| :radio: OBServer Automation, Scheduler, Media Library and Player Manager
 ⚡|1277|openworkflowdev/openworkflow|TypeScript|Open-source TypeScript framework for building durable, resumable workflows. Supports Node.js and Bun.
@@ -480,11 +480,11 @@
 ⚡|445|tu2-atmanand/Task-Board|TypeScript|An Obsidian plugin to view and manage your tasks from whole vault using much efficient boards using various methodologies.
 💻|747|BYTEDz/PCLink|Python|Cross-platform desktop app for secure remote PC control and management, featuring a lightweight built-in WebUI and API for local or remote access.
 💻|20|BrunkenClaas/lx|Rust|AI-native equivalents of the Unix tools you know — 72 small, composable, local-first LLM CLIs. One static Rust binary each, no API key required.
-💻|28531|CloakHQ/CloakBrowser|Python|Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-💻|392336|EbookFoundation/free-programming-books|Python|:books: Freely available programming books
-💻|216433|NousResearch/hermes-agent|Python|The agent that grows with you
-💻|74784|OpenCut-app/OpenCut|TypeScript|The open-source CapCut alternative
-💻|57472|Panniantong/Agent-Reach|Python|Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+💻|28532|CloakHQ/CloakBrowser|Python|Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+💻|392337|EbookFoundation/free-programming-books|Python|:books: Freely available programming books
+💻|216437|NousResearch/hermes-agent|Python|The agent that grows with you
+💻|74789|OpenCut-app/OpenCut|TypeScript|The open-source CapCut alternative
+💻|57476|Panniantong/Agent-Reach|Python|Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 💻|201|Rooyca/obsidian-api-request|TypeScript|Obsidian plugin that allows you to integrate API data into your notes with request caching, variable support, and precise JSON extraction.
 💻|1900|Runnin4ik/dpi-detector|Python|DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP, DNS blocking and 16-20KB connection drops
 💻|4582|TencentCloudADP/youtu-agent|Python|A simple yet powerful agent framework that delivers with open-source models
@@ -493,11 +493,11 @@
 💻|730|alchemy-run/alchemy|TypeScript|Infrastructure as Effects
 💻|46|aunjaffery/restmate|JavaScript|REST api client. [Go / Wails / ReactJs]
 💻|?|coasty-ai/open-computer-use|-|
-💻|527249|codecrafters-io/build-your-own-x|Markdown|Master programming by recreating your favorite technologies from scratch.
+💻|527254|codecrafters-io/build-your-own-x|Markdown|Master programming by recreating your favorite technologies from scratch.
 💻|15165|coderamp-labs/gitingest|Python|Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase 
-💻|4589|darrenhinde/OpenAgentsControl|TypeScript|AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode
-💻|152393|firecrawl/firecrawl|TypeScript|The API to search, scrape, and interact with the web at scale. 🔥
-💻|451968|freeCodeCamp/freeCodeCamp|TypeScript|freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+💻|4590|darrenhinde/OpenAgentsControl|TypeScript|AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode
+💻|152397|firecrawl/firecrawl|TypeScript|The API to search, scrape, and interact with the web at scale. 🔥
+💻|451969|freeCodeCamp/freeCodeCamp|TypeScript|freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 💻|2|fyaic/Understory-Obsidian-Plugin|JavaScript|A connection-sustain plugin: find connections and conflicts, update them over time
 💻|8|gVguy/balance-timer|Vue|A timer app to balance Productivity & Rest
 💻|6252|genkit-ai/genkit|TypeScript|Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
@@ -510,7 +510,7 @@
 💻|66493|leonardomso/33-js-concepts|JavaScript|📜 33 JavaScript concepts every developer should know.
 💻|1347|mattsse/chromiumoxide|Rust|Chrome Devtools Protocol rust API
 💻|96033|microsoft/Web-Dev-For-Beginners|JavaScript|24 Lessons, 12 Weeks, Get Started as a Web Developer
-💻|93034|microsoft/playwright|TypeScript|Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
+💻|93035|microsoft/playwright|TypeScript|Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 💻|19308|modelscope/FunASR|Python|Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.
 💻|8761|mps-youtube/yewtube|Python|yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 💻|100111|mtdvio/every-programmer-should-know|-|A collection of (mostly) technical things every software developer should know about
@@ -521,20 +521,20 @@
 💻|74732|openai/openai-cookbook|Jupyter Notebook|Examples and guides for using the OpenAI API
 💻|94791|oven-sh/bun|Rust|Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 💻|41725|psf/black|Python|The uncompromising Python code formatter
-💻|450983|public-apis/public-apis|Python|A collective list of free APIs
+💻|450987|public-apis/public-apis|Python|A collective list of free APIs
 💻|3695|remorses/playwriter|HTML|Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
-💻|129629|ripienaar/free-for-dev|HTML|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+💻|129630|ripienaar/free-for-dev|HTML|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 💻|76287|sdmg15/Best-websites-a-programmer-should-visit|-|:link: Some useful websites for programmers.
 💻|28445|supermemoryai/supermemory|TypeScript|Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
-💻|95959|tailwindlabs/tailwindcss|TypeScript|A utility-first CSS framework for rapid UI development.
+💻|95960|tailwindlabs/tailwindcss|TypeScript|A utility-first CSS framework for rapid UI development.
 💻|?|vitejs/vite|-|
-💻|61101|withastro/astro|TypeScript|The web framework for content-driven websites. ⭐️ Star to support our work!
-💻|87149|zed-industries/zed|Rust|Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+💻|61102|withastro/astro|TypeScript|The web framework for content-driven websites. ⭐️ Star to support our work!
+💻|87150|zed-industries/zed|Rust|Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 ⌨️|304|Amansingh-afk/milli.nvim|Lua| Animated ASCII splash screens for Neovim. 29 bundled splashes + bring your own via the   milli CLI / web playground.
 ⌨️|133|AsyncFuncAI/ralph-wiggum-extension|Shell|Ralph Wiggum Gemini CLI Extension
 ⌨️|183|ChrisTitusTech/neovim|Lua|My Neovim configuration
 ⌨️|10|Christian-Prather/zellij-load|Rust|A system resource monitor for Zellij terminal multiplexer
-⌨️|7755|CodebuffAI/codebuff|TypeScript|Generate code from the terminal!
+⌨️|7756|CodebuffAI/codebuff|TypeScript|Generate code from the terminal!
 ⌨️|51|Feng6611/Obsidian-open-in-Teminal|TypeScript|Open your vault in a new terminal window or launch Claude Code, Codex CLI, or Gemini CLI from Obsidian
 ⌨️|2426|Helvesec/rmux|Rust|Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 ⌨️|26942|LazyVim/LazyVim|Lua|Neovim config for the lazy
@@ -573,7 +573,7 @@
 ⌨️|700|matthart1983/syswatch|Rust|Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux.
 ⌨️|281|mdgrs-mei/PowerShellRun|C#|Terminal Based Launcher and Fuzzy Finder for PowerShell.
 ⌨️|3104|mierak/rmpc|Rust|A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols
-⌨️|4696|mistralai/mistral-vibe|Python|Minimal CLI coding agent by Mistral
+⌨️|4697|mistralai/mistral-vibe|Python|Minimal CLI coding agent by Mistral
 ⌨️|222|msmps/opentui-skill|Shell|OpenTUI skill for use with OpenCode
 ⌨️|3679|nickjvandyke/opencode.nvim|Lua|Neovim 🤝 OpenCode for familiar flow.
 ⌨️|370|nth5693/gemini-kit|Shell|🚀 19 AI Agents + 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review & security
@@ -600,7 +600,7 @@
 ⌨️|7838|zsh-users/zsh-completions|Shell|Additional completion definitions for Zsh.
 📝|74|AndrewKochulab/jarvis-dashboard|JavaScript|A modular, fully configurable DataviewJS dashboard for Obsidian — monitor Claude Code sessions in   real-time, manage AI agent fleets, track 30-day analytics, and boost productivity with focus timer,   quick capture, and more.
 📝|9763|BigBodyCobain/Shadowbroker|Python|Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
-📝|34326|Crosstalk-Solutions/project-nomad|TypeScript|Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+📝|34327|Crosstalk-Solutions/project-nomad|TypeScript|Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 📝|1439|Developer-Mike/obsidian-advanced-canvas|TypeScript|⚡ Supercharge your canvas experience! Graph view integration and unlimited styling options empower flowcharts, dynamic presentations, and interconnected knowledge. 
 📝|15|DontBlameMe99/Tick-Tones|TypeScript|A plugin for Obsidian which makes checkboxes satisfying
 📝|826|Ellpeck/ObsidianCustomFrames|TypeScript|An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
@@ -687,7 +687,7 @@
 🌐|38|Deaftone/Orpheus|Vue|A music player. Frontend for Deaftone
 🌐|7|ElMoorish/AI-DJ-Software|TypeScript|An open-source, AI-native desktop DJ application for automated mixing, local subgenre classification, and semantic audio search. Built with Electron, React, and ONNX Runtime. 100% Offline-First.
 🌐|2017|Gururagavendra/gmail-cleaner|Python|web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
-🌐|45794|KeygraphHQ/shannon|TypeScript|Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
+🌐|45795|KeygraphHQ/shannon|TypeScript|Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 🌐|149|N-Zik-Group/N-Zik|Kotlin|A multilingual YouTube Music frontend for Android, focused on performance, UI/UX refinements, feature expansion, and long-term support.
 🌐|4805|NeoApplications/Neo-Store|Kotlin|An F-Droid client with modern UI and an arsenal of extra features.
 🌐|2021|Notifuse/notifuse|Go|Notifuse is an open-source & modern emailing platform
@@ -696,7 +696,7 @@
 🌐|276|ThioJoe/Browser-Based-Tools|HTML|Thio's Browser-Based Tools: Various utilities and tools that run locally right in your browser
 🌐|6|ThioJoe/Philips-Hue-Tools|HTML|Various tools for working with Philips Hue setups
 🌐|581|TimeCopilot/timecopilot|Python|TimeCopilot: the GenAI Forecasting Agent. Built on LLMs and Time Series Foundation Models, it lets you forecast, cross-validate, and detect anomalies using multiple foundation models through a single API. From finance and energy to web analytics, TimeCopilot turns natural-language queries into production-ready forecasts.
-🌐|17254|UberGuidoZ/Flipper|C|Playground (and dump) of stuff I make or modify for the Flipper Zero
+🌐|17255|UberGuidoZ/Flipper|C|Playground (and dump) of stuff I make or modify for the Flipper Zero
 🌐|49|Vansmak/beetiful|JavaScript|A Beetiful web interface powered by Beets
 🌐|4098|Volmarg/personal-management-system|PHP|Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 🌐|102631|VoltAgent/awesome-design-md|-|A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
@@ -712,7 +712,7 @@
 🌐|2137|dembrandt/dembrandt|TypeScript|Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 🌐|962|dimartarmizi/map-to-poster|JavaScript|MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.
 🌐|2315|elevenlabs/ui|TypeScript|ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster.
-🌐|11660|elie222/inbox-zero|TypeScript|The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+🌐|11661|elie222/inbox-zero|TypeScript|The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 🌐|7451|gtsteffaniak/filebrowser|Go|📂 Web File Browser
 🌐|4245|h2oai/wave|Python|Realtime Web Apps and Dashboards for Python and R
 🌐|36|infinition/obsidian-obsidget|TypeScript|Obsidian plugin to create, manage, and reuse interactive widgets using HTML, CSS, and JavaScript.
@@ -723,13 +723,13 @@
 🌐|387|kylan02/face_looker|Python|Generate AI-powered gaze-tracking face images and create interactive React components that follow the cursor.
 🌐|1270|lardbit/nefarious|Python|Web application for automatically downloading TV & Movies (w/ VPN)
 🌐|30142|lbjlaq/Antigravity-Manager|Rust|Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-🌐|34176|lissy93/web-check|TypeScript|🕵️‍♂️ All-in-one OSINT tool for analysing any website
+🌐|34177|lissy93/web-check|TypeScript|🕵️‍♂️ All-in-one OSINT tool for analysing any website
 🌐|12707|mealie-recipes/mealie|Python|Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
 🌐|5810|mui/mui-x|TypeScript|MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
 🌐|149|mxfng/drumhaus|TypeScript|A drum machine for the browser built with React + Tone.js
 🌐|255|needle-tools/md-browse|TypeScript|Markdown Browser – See the web like an AI does
-🌐|107004|nextlevelbuilder/ui-ux-pro-max-skill|Python|An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-🌐|79307|nexu-io/open-design|TypeScript|🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.
+🌐|107006|nextlevelbuilder/ui-ux-pro-max-skill|Python|An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+🌐|79310|nexu-io/open-design|TypeScript|🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.
 🌐|16|nielsjsc/MusicBeeWrapped|C#|A MusicBee plugin that tracks and stores data locally, and generates Spotify Wrapped-style yearly listening reports with a responsive web interface.
 🌐|11030|nitrojs/nitro|TypeScript|Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 🌐|26218|onlook-dev/onlook|TypeScript|The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
@@ -763,7 +763,7 @@
 💬|556|emilycodestar/cmd-chat|Python|My ISP tried to block this repo. 🤐  A truly peer-to-peer, end-to-end encrypted CLI chat that leaves NO logs. Perfect for... sensitive discussions. 🔥 Get it before it gets taken down
 💬|65|kellyclaudeai/openclaw-deck|TypeScript|Multi-column chat interface for OpenClaw agents
 💬|1931|kenn-io/msgvault|Go|Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB
-💬|29311|python-telegram-bot/python-telegram-bot|Python|We have made you a wrapper you can't refuse
+💬|29312|python-telegram-bot/python-telegram-bot|Python|We have made you a wrapper you can't refuse
 💬|3|shmlkv/obsidian-prompt-assistant|TypeScript|AI chat assistant with customizable prompts for journaling, coaching, writing, and more using OpenRouter (ChatGPT, DeepSeek, Gemini, etc.)
 💬|244|vikasprogrammer/walkie|JavaScript|P2P communication for AI agents. No server. No setup. Just talk.
 📄|51|TfTHacker/obsidian42-HelpMate|TypeScript|HelpMate for Obsidian - providing help and documentation from within Obsidian
@@ -798,7 +798,7 @@
 📱|20969|dyad-sh/dyad|TypeScript|Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 📱|544|giselles-ai/giselle|TypeScript|Giselle: AI App Builder. Open Source.
 📱|13624|k2-fsa/sherpa-onnx|C++|Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages
-📱|27502|karakeep-app/karakeep|TypeScript|A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+📱|27503|karakeep-app/karakeep|TypeScript|A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 📱|2308|koush/UniversalAdbDriver|C#|One size fits all Windows Drivers for Android Debug Bridge.
 📱|640|legendsayantan/Extendroid|Kotlin|Android Multi-Tasking Manager with desktop-like multi window and remote access support.
 📱|2367|legendsayantan/ShizuTools|Kotlin|Contains many tools to control android system via shizuku.
@@ -875,7 +875,7 @@
 📦|10|Njuelle/Codaholiq|TypeScript|AI automations governance platform for GitHub. Define triggers, choose your AI provider, write prompt templates, and track executions with real-time logs and cost analytics.
 📦|188|OpenRouterTeam/skills|TypeScript|
 📦|11|Pachii/topaz-pan|C++|Simple VST3/AU vocal widening plugin designed for efficient, natural-sounding vocal stacks without manual track duplication.
-📦|1278|Pickle-Pixel/ApplyPilot|Python|AI agent that applies to jobs for you. Any site. Any form.
+📦|1279|Pickle-Pixel/ApplyPilot|Python|AI agent that applies to jobs for you. Any site. Any form.
 📦|1524|Prat011/free-cluely|TypeScript|Cluely - The invisible desktop assistant that provides real-time insights, answers, and support during meetings, interviews, presentations, and professional conversations.
 📦|20|Prog-Jacob/spicetify-apps|TypeScript|A collection of custom apps for Spicetify.
 📦|7|ShamalLakshan/AlbumInsertsViewer|C#|Album Inserts Viewer for MusicBee using C#.NET
@@ -908,7 +908,7 @@
 📦|56|cfal/zellij-vertical-tabs|Rust|A zellij plugin that displays tabs vertically on the left or right side of the screen
 📦|26771|cjpais/Handy|Rust|A free, open source, and extensible speech-to-text application that works completely offline.
 📦|9924|cloudflare/moltworker|TypeScript|Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
-📦|22926|coleam00/Archon|TypeScript|The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+📦|22927|coleam00/Archon|TypeScript|The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 📦|1288|crocofied/CoreObs|TypeScript|Dashboard to manage your entire server infrastructure
 📦|19940|dailydotdev/daily|-|daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
 📦|11560|datalab-to/chandra|Python|OCR model that handles complex tables, forms, handwriting with full layout.
@@ -940,14 +940,14 @@
 📦|855|johannesjo/parallel-code|TypeScript|Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree
 📦|248|karimould/zellij-forgot|Rust|A Zellij plugin to remember your keybinds and all the other things you want to remember
 📦|673|kavinsood/yaos|TypeScript|A zero-terminal, real-time sync engine powered by your own Cloudflare Worker.
-📦|4401|kenn-io/agentsview|Go|Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. 
+📦|4402|kenn-io/agentsview|Go|Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. 
 📦|4544|kevinrgu/autoagent|Python|autonomous harness engineering
 📦|5155|kieraneglin/pinchflat|Elixir|Your next YouTube media manager
 📦|762|komal-SkyNET/claude-skill-homeassistant|-|Claude Code skill to supercharge and manage all Home Assistant workflows
 📦|4|kralion/exaya|TypeScript|An AI‑driven operations dashboard tailored for transportation services, unifying dispatch, scheduling, and performance analytics into one cohesive platform that optimizes workflows and cuts down overhead.
 📦|630|krvstek/uni-apks|Python|📦 Pre-built APKs from various patch sources
 📦|588|lumpinif/deepcrawl|TypeScript|100% free and full open-source edge Firecrawl alternative with better links extraction for agents - that you can deploy to cloudflare or vercel by yourself.
-📦|10093|lutris/lutris|Python|Lutris desktop client
+📦|10094|lutris/lutris|Python|Lutris desktop client
 📦|635|lynchjames/note-refactor-obsidian|TypeScript|Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
 📦|190|magicianjarden/audiio-official|TypeScript|
 📦|9232|marcelscruz/public-apis|JavaScript|A collaborative list of public APIs for developers
@@ -969,7 +969,7 @@
 📦|4307|open-webui/mcpo|Python|A simple, secure MCP-to-OpenAPI proxy server
 📦|29468|opentofu/opentofu|Go|OpenTofu lets you declaratively manage your cloud infrastructure.
 📦|6248|orval-labs/orval|TypeScript|orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
-📦|7047|p1ngul1n0/blackbird|Python|An OSINT tool to search for accounts by username and email in social networks.
+📦|7048|p1ngul1n0/blackbird|Python|An OSINT tool to search for accounts by username and email in social networks.
 📦|5076|piitaya/lovelace-mushroom|TypeScript|Build a beautiful Home Assistant dashboard easily
 📦|7771|pinokiocomputer/pinokio|JavaScript|AI Browser
 📦|15532|plandex-ai/plandex|Go|Open source AI coding agent. Designed for large projects and real world tasks.
@@ -1001,8 +1001,8 @@
 📦|11947|tadata-org/fastapi_mcp|Python|Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 📦|4744|thunderbird/thunderbolt|TypeScript|AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 📦|70|tumuyan/MusicBeePlug_AlbumCover|C#|A Artwork Provider Plug-in for MusicBee.
-📦|53187|twentyhq/twenty|TypeScript|The open alternative to Salesforce, designed for AI.
-📦|42243|usestrix/strix|Python|Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+📦|53189|twentyhq/twenty|TypeScript|The open alternative to Salesforce, designed for AI.
+📦|42245|usestrix/strix|Python|Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 📦|899|vercel-labs/visual-json|TypeScript|The Visual JSON Editor. Schema-aware, embeddable, extensible.
 📦|38|vnghia/nghe|Rust|An OpenSubsonic implementation in Rust
 📦|843|wailsapp/awesome-wails|-|⭐ A carefully selected list of Wails applications
@@ -1016,7 +1016,7 @@
 ❓|256|CodMughees/envradar|Python|Catch undocumented, unused, and drifting environment variables in your repo
 ❓|263|DinobaseHQ/dinobase|Python|The agent-first database
 ❓|3709|Dispatcharr/Dispatcharr|JavaScript|
-❓|27313|HKUDS/DeepTutor|Python|DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+❓|27318|HKUDS/DeepTutor|Python|DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 ❓|2257|HKUDS/FastCode|Python|"FastCode: Accelerating and Streamlining Your Code Understanding"
 ❓|61|IkeC/Milkwave|C++|Feature-Enhanced MilkDrop Visualizer with Remote Control
 ❓|137|ItzCrazyKns/Epoch|TypeScript|Where conversations become interfaces.
@@ -1062,7 +1062,7 @@
 ❓|6936|mixxxdj/mixxx|C++|Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 ❓|11721|n0-computer/iroh|Rust|IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 ❓|4|odedd/ReaScripts|Lua|Odedd's Reaper scripts
-❓|10061|polarsource/polar|Python|Polar — A billing platform for the intelligence era
+❓|10062|polarsource/polar|Python|Polar — A billing platform for the intelligence era
 ❓|40549|remoteintech/remote-jobs|JavaScript|Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 ❓|4548|spipm/Depixelization_poc|Python|Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
 ❓|27796|srbhr/Resume-Matcher|TypeScript|The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
