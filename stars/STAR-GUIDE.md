@@ -89,6 +89,7 @@
 | [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) | 4,959 | — | WireGuard + Pi-hole + Unbound in docker-compose | ⭐ [Pick](#-homelab-top-10) 🔧 [Reverse Proxy](#-reverse-proxy) |
 | [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) | 3,680 | Dockerfile | Nginx reverse proxy + Certbot + fail2ban | 🔧 [Reverse Proxy](#-reverse-proxy) |
 
+| [Pouzor/homelable](https://github.com/Pouzor/homelable) | 2,628 | TypeScript | Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring | 🆕 |
 | [Tal0na/Awesome-SelfHosted-Music-Awesome](https://github.com/Tal0na/Awesome-SelfHosted-Music-Awesome) | 142 | SCSS | Everything you need for self-hosted music - servers, clients, local players, plugins, themes, scrobblers, tools, integra | 🆕 |
 | [Dokploy/dokploy](https://github.com/Dokploy/dokploy) | 34,953 | TypeScript | Open Source Alternative to Vercel, Netlify and Heroku. | 🆕 |
 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 42,217 | Python | A community-supported supercharged document management system: scan, index and archive all your documents | 🆕 |
@@ -130,6 +131,11 @@
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 46,427 | Python | AI pair programming in your terminal | |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 49,755 | Rust | Open source extensible AI agent — install, execute, edit, test | ⭐ [Pick](#-agentic-dev-top-10) |
 
+| [Archive228/loopkit](https://github.com/Archive228/loopkit) | 726 | Shell | 33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI). | 🆕 |
+| [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) | 1,208 | - | A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI age | 🆕 |
+| [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) | 3,605 | Python | Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, Gemini, Ope | 🆕 |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 38,277 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | 🆕 |
+| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 44,906 | Go | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowi | 🆕 |
 | [jsgrrchg/NeverWrite](https://github.com/jsgrrchg/NeverWrite) | 729 | TypeScript | Your ultimate agentic markdown workspace | 🆕 |
 | [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) | 4,294 | Python | Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to  | 🆕 |
 | [derekbar90/opencode-conductor](https://github.com/derekbar90/opencode-conductor) | 118 | TypeScript | OpenCode conductor — agent orchestration for coding workflows | 🆕 |
@@ -302,6 +308,8 @@
 | [clangen/musikcube](https://github.com/clangen/musikcube) | 4,784 | C++ | Cross-platform terminal-based music player & server | ⭐ [Pick](#-media-top-10) |
 | [dweymouth/supersonic](https://github.com/dweymouth/supersonic) | 2,210 | Go | Lightweight cross-platform desktop client for music servers | |
 
+| [Dodelidoo-Labs/sonobarr](https://github.com/Dodelidoo-Labs/sonobarr) | 382 | Python | Music discovery tool that integrates with Lidarr and provides recommendations using Last.fm | 🆕 |
+| [ravachol/kew](https://github.com/ravachol/kew) | 2,924 | C | Music for the Shell. kew is an immersive and fast music player that allows you to listen to music with privacy. | 🆕 |
 | [miraclx/freyr-js](https://github.com/miraclx/freyr-js) | 2,302 | JavaScript | A tool for downloading songs from music streaming services like Spotify and Apple Music. | 🆕 |
 | [tsirysndr/rockboxd](https://github.com/tsirysndr/rockboxd) | 279 | C | A modern, network-enabled music player platform built on Rockbox technology https://www.rockbox.org | 🆕 |
 | [anandprtp/Antra](https://github.com/anandprtp/Antra) | 1,275 | Python | A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer li | 🆕 |
@@ -472,6 +480,7 @@
 | [adavesik/compoviz](https://github.com/adavesik/compoviz) | 75 | JavaScript | Docker infrastructure from static YAML to dynamic architecture | |
 | [0xN1nja/homepagectl](https://github.com/0xN1nja/homepagectl) | 198 | Go | Generate gethomepage.dev configs from running Docker containers | |
 
+| [mhackermsft/wslcontainerdesktop](https://github.com/mhackermsft/wslcontainerdesktop) | 24 | C# | A WinUI 3 desktop app for managing WSL containers, Kubernetes (k3s), and container registries — community project, not a | 🆕 |
 | [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) | 1,432 | Shell | Extended Container Scripts - Automation scripts to make life easier! | 🆕 |
 ### Docker Images & Configs
 | Repo | ⭐ | Lang | Description |
@@ -611,6 +620,8 @@
 | [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | ~44k | Go | Open source realtime backend in 1 file (SQLite) | |
 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | 56,343 | TypeScript | Complete cloud infrastructure — DB, auth, storage, messaging | |
 
+| [rclone/rclone](https://github.com/rclone/rclone) | 58,702 | Go | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Stora | 🆕 |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | 65,311 | Go | The Prometheus monitoring system and time series database. | 🆕 |
 | [nocodb/nocodb](https://github.com/nocodb/nocodb) | 63,485 | TypeScript | 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative | 🆕 |
 | [piratuks/invoice-builder](https://github.com/piratuks/invoice-builder) | 446 | TypeScript | Invoice and quotation builder desktop app with PDF export, designed for small businesses and freelancers. Create, manage | 🆕 |
 | [campfirium/obsidian-tile-line-base](https://github.com/campfirium/obsidian-tile-line-base) | 141 | TypeScript | The Native Plain-Text Database for Obsidian. Build Tables, Kanban, and Slides with Zero Frontmatter. | 🆕 |
@@ -702,6 +713,7 @@
 | [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) | 55,186 | Python | Collection of n8n workflows and templates |
 | [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) | 14,988 | — | Self-hosted local AI environment template curated by n8n |
 
+| [pixlcore/xyops](https://github.com/pixlcore/xyops) | 4,674 | JavaScript | A complete workflow automation and server monitoring system. | 🆕 |
 | [dp-archive/archive](https://github.com/dp-archive/archive) | 1,104 | Python | Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI. | 🆕 |
 | [Joonghyun-Lee-Frieren/oh-my-antigravity](https://github.com/Joonghyun-Lee-Frieren/oh-my-antigravity) | 197 | JavaScript | Context-engineering-powered multi-agent team workflow pack for Antigravity CLI. | 🆕 |
 | [loppety/Clavix](https://github.com/loppety/Clavix) | 660 | TypeScript | Transform vague ideas into production-ready prompts. Analyze gaps, generate PRDs, and supercharge your AI coding workflo | 🆕 |
@@ -755,6 +767,10 @@
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | ~95k | — | SaaS, PaaS, IaaS free tiers for devs/devops |
 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | ~85k | JavaScript | 24-lesson web development curriculum |
 
+| [Dhravya/burrow](https://github.com/Dhravya/burrow) | 125 | TypeScript | a whole dev machine in a browser tab - bun.wasm, shell, git, and local AI. phones home to nobody. | 🆕 |
+| [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | 3,163 | Rust | A batteries-included framework for building web apps | 🆕 |
+| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 14,299 | Python | A vector index built on TurboQuant, written in Rust with Python bindings | 🆕 |
+| [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | 36,380 | Python | DSPy: The framework for programming—not prompting—language models | 🆕 |
 | [fyaic/Understory-Obsidian-Plugin](https://github.com/fyaic/Understory-Obsidian-Plugin) | 2 | JavaScript | A connection-sustain plugin: find connections and conflicts, update them over time | 🆕 |
 | [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) | 721 | TypeScript | Infrastructure as Effects | 🆕 |
 | [vitejs/vite](https://github.com/vitejs/vite) | 75,400 | TypeScript | Next generation frontend tooling. Instant server start, lightning fast HMR. | 🆕 |
@@ -820,6 +836,10 @@
 |------|-----|------|-------------|
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ~58k | Rust | GPU-accelerated cross-platform terminal emulator |
 
+| [nickprotop/ServerHub](https://github.com/nickprotop/ServerHub) | 33 | C# | A TUI server monitoring and management dashboard for Linux. Real-time metrics, logs, and remote control from your termin | 🆕 |
+| [ajr-khll/ghostty-config-cli](https://github.com/ajr-khll/ghostty-config-cli) | 36 | TypeScript | Fullscreen terminal UI for editing your Ghostty config, with a live preview of themes, fonts, colors, and cursor.  | 🆕 |
+| [jasonwitty/socktop](https://github.com/jasonwitty/socktop) | 186 | Rust | socktop is a remote system monitor with a rich TUI interface, inspired by `top` and `btop`, that communicates with a lig | 🆕 |
+| [Gheat1/tuistore](https://github.com/Gheat1/tuistore) | 308 | Python | 🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal apps. Built on ricekit, seeded from awesome | 🆕 |
 | [ljtn/epiq](https://github.com/ljtn/epiq) | 312 | TypeScript | Local-first CLI issue tracker — distributed and backed by Git | 🆕 |
 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 18,243 | Go | Why is this running? — CLI troubleshooting tool for devops and sysadmins | 🆕 |
 | [vgreg/faceoff](https://github.com/vgreg/faceoff) | 71 | Python | Terminal tool to watch hockey games | 🆕 |
@@ -1018,6 +1038,8 @@
 | [mui/mui-x](https://github.com/mui/mui-x) | 5,740 | TypeScript | Build complex data-rich apps with advanced React components |
 | [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) | 1,942 | TypeScript | Extract any website's design system into tokens in seconds |
 
+| [Gheat1/ricekit](https://github.com/Gheat1/ricekit) | 22 | Python | 🍚 A developer's TUI suite for Textual — themes, widgets, modals, icons, and the design system behind ltui | 🆕 |
+| [hunvreus/basecoat](https://github.com/hunvreus/basecoat) | 4,174 | MDX | A components library built with Tailwind CSS that works with any web stack. | 🆕 |
 | [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 73,219 | MDX | 🗂 The essential checklist for modern web development, for humans and AI agents | 🆕 |
 | [N-Zik-Group/N-Zik](https://github.com/N-Zik-Group/N-Zik) | 129 | Kotlin | A multilingual YouTube Music frontend for Android, focused on performance, UI/UX refinements, feature expansion, and lon | 🆕 |
 | [umami-software/umami](https://github.com/umami-software/umami) | 37,219 | TypeScript | Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Ampl | 🆕 |
@@ -1203,6 +1225,7 @@
 | [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) | 2,747 | C# | Organize the Windows taskbar through groups |
 | [lukeyou05/tacky-borders](https://github.com/lukeyou05/tacky-borders) | 504 | Rust | Customizable borders for Windows 11/10 |
 
+| [LunarWerxs/SageThumbs-2k](https://github.com/LunarWerxs/SageThumbs-2k) | 52 | Rust | Windows 11 shell extension (Rust) — Explorer thumbnails for 316 file types Windows can't show: camera RAW, PSD, HEIC/AVI | 🆕 |
 | [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) | 19,779 | C++ | A lightweight utility that makes the Windows taskbar translucent/transparent. | 🆕 |
 | [jiripolasek/ErrorsAndCodesExtension](https://github.com/jiripolasek/ErrorsAndCodesExtension) | 5 | C# | Quickly access details about error codes and messages from PowerToys Command Palette. Supports NTSTATUS and HRESULT erro | 🆕 |
 | [ThioJoe/Resources-From-Videos](https://github.com/ThioJoe/Resources-From-Videos) | 63 | PowerShell | Stuff I've shown or mentioned in videos, from scripts to random code snippets | 🆕 |
