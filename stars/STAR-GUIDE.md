@@ -518,6 +518,7 @@
 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 72,279 | Python | Unified efficient fine-tuning of 100+ LLMs & VLMs | ⭐ [Pick](#-aillm-top-10) |
 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 28,237 | Rust | Find what LLM runs on your hardware — hundreds of models & providers | |
 
+| [modelship-ai/modelship](https://github.com/modelship-ai/modelship) | 37 | Python | Self-hosted, OpenAI-compatible inference for the agentic era: reasoning LLMs, universal tool calling, and the Responses  | 🆕 |
 | [qualcomm/GenieX](https://github.com/qualcomm/GenieX) | 8,227 | Rust | Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code | 🆕 |
 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 10,657 | Python | Open-source ML engineer that reads papers, trains models, and ships ML models | 🆕 |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 59,386 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% | 🆕 |
@@ -767,6 +768,7 @@
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | ~95k | — | SaaS, PaaS, IaaS free tiers for devs/devops |
 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | ~85k | JavaScript | 24-lesson web development curriculum |
 
+| [MuscularCrab/nicoseeker](https://github.com/MuscularCrab/nicoseeker) | 2 | Python | Spotify playlist import plugin for Nicotine+ (Soulseek). Type /spotify <url> to search and download a playlist. Keyless, | 🆕 |
 | [Dhravya/burrow](https://github.com/Dhravya/burrow) | 125 | TypeScript | a whole dev machine in a browser tab - bun.wasm, shell, git, and local AI. phones home to nobody. | 🆕 |
 | [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | 3,163 | Rust | A batteries-included framework for building web apps | 🆕 |
 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 14,299 | Python | A vector index built on TurboQuant, written in Rust with Python bindings | 🆕 |

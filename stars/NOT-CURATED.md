@@ -57,3 +57,8 @@
 - [runpantheon/ltui](https://github.com/runpantheon/ltui) — ⭐88 (Python) ◐ A fast, beautiful TUI for Linear — status-grouped tickets, instant startup, full keyboard + mouse control
 - [Gheat1/NaviTui](https://github.com/Gheat1/NaviTui) — ⭐28 (Python) ♪ A fast, animated TUI player for Navidrome — cover art in the terminal, playback via mpv, themes via ricekit
 - [tcsenpai/nbus](https://github.com/tcsenpai/nbus) — ⭐15 (TypeScript) Local IPC bus — pub/sub + shared state, zero config. Any app, any language.
+
+## 🆕 New Stars — 2026-08-02 02:31 UTC
+
+- [community-archive/obsidian-kanban](https://github.com/community-archive/obsidian-kanban) — ⭐4,448 (TypeScript) Create markdown-backed Kanban boards in Obsidian.
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) — ⭐643 (Rust) A browser that runs directly inside your existing terminal
