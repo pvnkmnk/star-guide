@@ -62,3 +62,8 @@
 
 - [community-archive/obsidian-kanban](https://github.com/community-archive/obsidian-kanban) — ⭐4,448 (TypeScript) Create markdown-backed Kanban boards in Obsidian.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) — ⭐643 (Rust) A browser that runs directly inside your existing terminal
+
+## 🆕 New Stars — 2026-08-09 01:25 UTC
+
+- [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) — ⭐8,675 (TypeScript) The free coding agent
+- [supersonic-app/supersonic](https://github.com/supersonic-app/supersonic) — ⭐2,292 (Go) A lightweight and full-featured cross-platform desktop client for self-hosted music servers
