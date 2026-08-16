@@ -714,6 +714,7 @@
 | [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) | 55,186 | Python | Collection of n8n workflows and templates |
 | [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) | 14,988 | — | Self-hosted local AI environment template curated by n8n |
 
+| [imxade/nixship](https://github.com/imxade/nixship) | 2 | TypeScript | Self-hosted deployment control plane for trusted Nix flake apps, with GitHub and Harbur sources, Cloudflare routing, zer | 🆕 |
 | [pixlcore/xyops](https://github.com/pixlcore/xyops) | 4,674 | JavaScript | A complete workflow automation and server monitoring system. | 🆕 |
 | [dp-archive/archive](https://github.com/dp-archive/archive) | 1,104 | Python | Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI. | 🆕 |
 | [Joonghyun-Lee-Frieren/oh-my-antigravity](https://github.com/Joonghyun-Lee-Frieren/oh-my-antigravity) | 197 | JavaScript | Context-engineering-powered multi-agent team workflow pack for Antigravity CLI. | 🆕 |
@@ -1040,6 +1041,8 @@
 | [mui/mui-x](https://github.com/mui/mui-x) | 5,740 | TypeScript | Build complex data-rich apps with advanced React components |
 | [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) | 1,942 | TypeScript | Extract any website's design system into tokens in seconds |
 
+| [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) | 2,241 | TypeScript | 🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js, Astro, T | 🆕 |
+| [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 42,086 | JavaScript | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library | 🆕 |
 | [Gheat1/ricekit](https://github.com/Gheat1/ricekit) | 22 | Python | 🍚 A developer's TUI suite for Textual — themes, widgets, modals, icons, and the design system behind ltui | 🆕 |
 | [hunvreus/basecoat](https://github.com/hunvreus/basecoat) | 4,174 | MDX | A components library built with Tailwind CSS that works with any web stack. | 🆕 |
 | [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 73,219 | MDX | 🗂 The essential checklist for modern web development, for humans and AI agents | 🆕 |
@@ -1180,6 +1183,7 @@
 | [OminousIndustries/PhoneDriver](https://github.com/OminousIndustries/PhoneDriver) | 1,513 | Python | Android phone control with Qwen3-VL |
 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | 5,658 | JavaScript | Powerful text/code editor for Android |
 
+| [AOSSIE-Org/Ogh](https://github.com/AOSSIE-Org/Ogh) | 2 | Kotlin | Live streaming app for camera or screen capture to multiple RTMP/RTMPS destinations, with YouTube and Twitch integration | 🆕 |
 | [Shrey113/App-Scrcpy](https://github.com/Shrey113/App-Scrcpy) | 97 | HTML | A scrcpy-inspired Android screen, audio, and control streaming client for Windows — built without ADB, using pure WebSoc | 🆕 |
 | [Ellicode/mage](https://github.com/Ellicode/mage) | 152 | TypeScript | A lightweight and fast app launcher for Windows | 🆕 |
 | [Skardyy/Rhiza](https://github.com/Skardyy/Rhiza) | 26 | Rust | windows shortcut creator / app launcher | 🆕 |
@@ -1227,6 +1231,7 @@
 | [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) | 2,747 | C# | Organize the Windows taskbar through groups |
 | [lukeyou05/tacky-borders](https://github.com/lukeyou05/tacky-borders) | 504 | Rust | Customizable borders for Windows 11/10 |
 
+| [luke-you/tacky-borders](https://github.com/luke-you/tacky-borders) | 557 | Rust | Customizable borders for Windows 11 and 10 | 🆕 |
 | [LunarWerxs/SageThumbs-2k](https://github.com/LunarWerxs/SageThumbs-2k) | 52 | Rust | Windows 11 shell extension (Rust) — Explorer thumbnails for 316 file types Windows can't show: camera RAW, PSD, HEIC/AVI | 🆕 |
 | [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) | 19,779 | C++ | A lightweight utility that makes the Windows taskbar translucent/transparent. | 🆕 |
 | [jiripolasek/ErrorsAndCodesExtension](https://github.com/jiripolasek/ErrorsAndCodesExtension) | 5 | C# | Quickly access details about error codes and messages from PowerToys Command Palette. Supports NTSTATUS and HRESULT erro | 🆕 |

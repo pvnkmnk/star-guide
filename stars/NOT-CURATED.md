@@ -67,3 +67,9 @@
 
 - [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) — ⭐8,675 (TypeScript) The free coding agent
 - [supersonic-app/supersonic](https://github.com/supersonic-app/supersonic) — ⭐2,292 (Go) A lightweight and full-featured cross-platform desktop client for self-hosted music servers
+
+## 🆕 New Stars — 2026-08-16 01:07 UTC
+
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) — ⭐15,654 (Shell) Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [joestump/spotter](https://github.com/joestump/spotter) — ⭐28 (Go) Spotter is an AI playlist generator for Navidrome
+- [fogha/teML](https://github.com/fogha/teML) — ⭐16 (TypeScript) 
