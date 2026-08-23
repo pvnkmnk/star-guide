@@ -73,3 +73,54 @@
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) — ⭐15,654 (Shell) Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [joestump/spotter](https://github.com/joestump/spotter) — ⭐28 (Go) Spotter is an AI playlist generator for Navidrome
 - [fogha/teML](https://github.com/fogha/teML) — ⭐16 (TypeScript) 
+
+## 🆕 New Stars — 2026-08-23 01:08 UTC
+
+- [mattpocock/skills](https://github.com/mattpocock/skills) — ⭐232,062 (Shell) Skills for Real Engineers. Straight from my .agents directory.
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) — ⭐83,806 (TypeScript) Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracki
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) — ⭐54,330 (TypeScript) A full-featured download manager.
+- [stablyai/orca](https://github.com/stablyai/orca) — ⭐51,275 (TypeScript) Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) — ⭐37,561 (Go) Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) — ⭐32,171 (Jupyter Notebook) AirLLM 70B inference with single 4GB GPU
+- [block/buzz](https://github.com/block/buzz) — ⭐29,785 (Rust) A hive mind communication platform
+- [goharbor/harbor](https://github.com/goharbor/harbor) — ⭐29,208 (Go) An open source trusted cloud native registry project that stores, signs, and scans content.
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) — ⭐23,401 (Go) Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) — ⭐21,255 (C) build-once run-anywhere c library
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) — ⭐18,251 (Rust) The most RAM efficient harness
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) — ⭐14,945 (TypeScript) The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and busine
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) — ⭐14,533 (Go) :file_folder: Universal File Storage Client
+- [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) — ⭐11,534 (Python) A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
+- [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) — ⭐10,319 (PHP) 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in th
+- [anchore/syft](https://github.com/anchore/syft) — ⭐9,447 (Go) CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+- [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) — ⭐9,312 (HTML)  DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
+- [ko-build/ko](https://github.com/ko-build/ko) — ⭐8,501 (Go) Build and deploy Go applications
+- [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) — ⭐8,102 (Shell) Dockerized GitLab
+- [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) — ⭐6,851 (-) Ultimate DevSecOps library
+- [containernetworking/cni](https://github.com/containernetworking/cni) — ⭐6,102 (Go) Container Network Interface - networking for Linux containers
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) — ⭐5,636 (Rust) Portable, lightweight, self-contained virtual machine.
+- [canonical/lxd](https://github.com/canonical/lxd) — ⭐4,816 (Go) Powerful system container and virtual machine manager
+- [thirdlayerinc/autoagent](https://github.com/thirdlayerinc/autoagent) — ⭐4,566 (Python) autonomous harness engineering
+- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) — ⭐4,089 (Rust) Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+- [macro-inc/macro](https://github.com/macro-inc/macro) — ⭐3,971 (Rust) Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared
+- [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) — ⭐3,945 (Shell) Talk to one agent. Ship with a crew.
+- [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) — ⭐3,671 (JavaScript) local multi-agent harness
+- [habitat-sh/habitat](https://github.com/habitat-sh/habitat) — ⭐2,748 (Rust) Modern applications with built-in automation
+- [frappe/frappe_docker](https://github.com/frappe/frappe_docker) — ⭐2,528 (Python) Docker environment for developing, deploying, and running Frappe applications (ERPNext and custom apps) in production an
+- [adminsyspro/proxcenter-ui](https://github.com/adminsyspro/proxcenter-ui) — ⭐1,247 (TypeScript) ProxCenter is an alternative to VMware vCenter for Proxmox environments. It provides a modern, intuitive web interface t
+- [FaFre/WebLibre](https://github.com/FaFre/WebLibre) — ⭐905 (Dart) A libre Android browser built from scratch on Gecko. Privacy by default, powerful tab containers, and a local-first sear
+- [devnullvoid/pvetui](https://github.com/devnullvoid/pvetui) — ⭐711 (Go) Terminal UI for Proxmox VE
+- [AmazingAng/old-coder](https://github.com/AmazingAng/old-coder) — ⭐665 (Python) An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development sk
+- [BassT23/Proxmox](https://github.com/BassT23/Proxmox) — ⭐624 (Shell) Update your Proxmox VE
+- [stevius10/Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) — ⭐578 (Ruby) IaC Automation Framework for Linux Containers (LXC) on Proxmox VE.
+- [badele/nix-homelab](https://github.com/badele/nix-homelab) — ⭐519 (Nix) Homelab and dotfiles made with NixOS
+- [aloneguid/bt](https://github.com/aloneguid/bt) — ⭐469 (C++) Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no re
+- [starling-build/starling](https://github.com/starling-build/starling) — ⭐327 (Swift) Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and firs
+- [SimplyMinimal/tailscale-network-topology-mapper](https://github.com/SimplyMinimal/tailscale-network-topology-mapper) — ⭐304 (Python) A visual way to view your ACL rules for Tailscale
+- [lucid-fabrics/osx-proxmox-next](https://github.com/lucid-fabrics/osx-proxmox-next) — ⭐257 (Python) One-command macOS VM on Proxmox 9: TUI wizard, auto-download, AMD + Intel, Sonoma/Sequoia/Tahoe
+- [Higangssh/homebutler](https://github.com/Higangssh/homebutler) — ⭐230 (Go) 🏠 Manage your homelab from chat. Single binary, zero dependencies.
+- [April-Gras/obsidian-auto-timelines](https://github.com/April-Gras/obsidian-auto-timelines) — ⭐213 (TypeScript) Simple timeline generator plugin for story tellers using obsidian
+- [Corsinvest/cv4pve-api-powershell](https://github.com/Corsinvest/cv4pve-api-powershell) — ⭐90 (PowerShell) Proxmox VE PowerShell module for accessing API like VMware PowerCLI
+- [AndInTheClouds/chordreader2](https://github.com/AndInTheClouds/chordreader2) — ⭐56 (Java) Search for, display, transpose and save chords on your phone, that you get from the interwebs. :notes:
+- [john-broadway/proximo](https://github.com/john-broadway/proximo) — ⭐38 (Python) The Proxmox MCP you can hand the keys. All four products: PVE, PBS, PMG, PDM.
+- [tailscale-dev/examples-infrastructure-as-code](https://github.com/tailscale-dev/examples-infrastructure-as-code) — ⭐36 (HCL) Examples for deploying Tailscale using Infrastructure as Code tools such as Terraform and Pulumi
+- [tailscale/tailscale-skill](https://github.com/tailscale/tailscale-skill) — ⭐18 (-) Skills for teaching agents how to use and build on the Tailscale platform.
