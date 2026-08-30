@@ -124,3 +124,14 @@
 - [john-broadway/proximo](https://github.com/john-broadway/proximo) — ⭐38 (Python) The Proxmox MCP you can hand the keys. All four products: PVE, PBS, PMG, PDM.
 - [tailscale-dev/examples-infrastructure-as-code](https://github.com/tailscale-dev/examples-infrastructure-as-code) — ⭐36 (HCL) Examples for deploying Tailscale using Infrastructure as Code tools such as Terraform and Pulumi
 - [tailscale/tailscale-skill](https://github.com/tailscale/tailscale-skill) — ⭐18 (-) Skills for teaching agents how to use and build on the Tailscale platform.
+
+## 🆕 New Stars — 2026-08-30 03:32 UTC
+
+- [omacom/omarchy](https://github.com/omacom/omarchy) — ⭐34,896 (Shell) Beautiful, Modern & Opinionated Linux
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) — ⭐15,622 (Python) AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+- [cloudflare/computer](https://github.com/cloudflare/computer) — ⭐8,826 (TypeScript) Give your agent a computer 👾
+- [aome510/spotify-player](https://github.com/aome510/spotify-player) — ⭐7,151 (Rust) A Spotify player in the terminal with full feature parity
+- [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) — ⭐3,449 (TypeScript) Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided be
+- [AidanPark/openclaw-android](https://github.com/AidanPark/openclaw-android) — ⭐1,740 (Java) Run OpenClaw on Android with a single command — no proot, no Linux
+- [kunchenguid/backpass](https://github.com/kunchenguid/backpass) — ⭐574 (JavaScript) You don't write AGENTS.md. You train it with gradient descent.
+- [MuscularCrab/Visiblazer](https://github.com/MuscularCrab/Visiblazer) — ⭐2 (JavaScript) Offline, GPU-accelerated audio visualizer for DJ sets.

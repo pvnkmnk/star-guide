@@ -135,6 +135,9 @@
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 46,427 | Python | AI pair programming in your terminal | |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 49,755 | Rust | Open source extensible AI agent — install, execute, edit, test | ⭐ [Pick](#-agentic-dev-top-10) |
 
+| [grpcer/ownmem](https://github.com/grpcer/ownmem) | 181 | JavaScript | Local, deterministic, git-native memory for coding agents — one set of Markdown files serves Claude Code, Codex, Gemini  | 🆕 |
+| [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) | 432 | HTML | Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and  | 🆕 |
+| [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy) | 2,783 | JavaScript | Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf t | 🆕 |
 | [RekklesNA/ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) | 496 | Python | Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents. | 🆕 |
 | [zzet/gortex](https://github.com/zzet/gortex) | 1,458 | Go | High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on gr | 🆕 |
 | [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) | 3,905 | TypeScript | ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel | 🆕 |
@@ -321,6 +324,7 @@
 | [clangen/musikcube](https://github.com/clangen/musikcube) | 4,784 | C++ | Cross-platform terminal-based music player & server | ⭐ [Pick](#-media-top-10) |
 | [dweymouth/supersonic](https://github.com/dweymouth/supersonic) | 2,210 | Go | Lightweight cross-platform desktop client for music servers | |
 
+| [statichum/brainzmash-hearring-aid](https://github.com/statichum/brainzmash-hearring-aid) | 15 | Python | MusicBrainz Mirror with Lidarr Metadata Server | 🆕 |
 | [GeiserX/telegram-slskd-local-bot](https://github.com/GeiserX/telegram-slskd-local-bot) | 15 | Python | Automated music discovery and download via Telegram bot. Resolves metadata from Spotify, searches and downloads FLAC fro | 🆕 |
 | [winters27/octo](https://github.com/winters27/octo) | 31 | C# | Self-hosted music discovery for Navidrome. Search beyond your library with Last.fm radio, preview unowned songs via YouT | 🆕 |
 | [TheOutdoorProgrammer/crate](https://github.com/TheOutdoorProgrammer/crate) | 39 | Go | Self-hosted music manager. Search, watch, and download your music library via Deezer/MusicBrainz + slskd. | 🆕 |
