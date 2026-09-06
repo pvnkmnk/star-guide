@@ -135,3 +135,12 @@
 - [AidanPark/openclaw-android](https://github.com/AidanPark/openclaw-android) — ⭐1,740 (Java) Run OpenClaw on Android with a single command — no proot, no Linux
 - [kunchenguid/backpass](https://github.com/kunchenguid/backpass) — ⭐574 (JavaScript) You don't write AGENTS.md. You train it with gradient descent.
 - [MuscularCrab/Visiblazer](https://github.com/MuscularCrab/Visiblazer) — ⭐2 (JavaScript) Offline, GPU-accelerated audio visualizer for DJ sets.
+
+## 🆕 New Stars — 2026-09-06 02:52 UTC
+
+- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) — ⭐6,580 (TypeScript) The agent-native LLM router for autonomous agents. Every frontier model behind one wallet, <1ms local routing, USDC paym
+- [pablostanley/yoinks](https://github.com/pablostanley/yoinks) — ⭐1,681 (TypeScript) yoink any video from your terminal. no shady ads.
+- [perminder-klair/subwave](https://github.com/perminder-klair/subwave) — ⭐1,303 (TypeScript) Personal internet radio: Agentic AI DJ
+- [acmagn/ratune](https://github.com/acmagn/ratune) — ⭐69 (Rust) A modern highly-customizable Subsonic TUI client built in Rust.
+- [nesquena/steward-os](https://github.com/nesquena/steward-os) — ⭐67 (Ruby) StewardOS - agentic autonomous OSS system
+- [thafaker/TerminalDrome](https://github.com/thafaker/TerminalDrome) — ⭐31 (Rust) TerminalDrome - Building a Terminal Navidrome Client - v.0.7.4 (Created with <3 in Mitteldeutschland)

@@ -135,6 +135,7 @@
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 46,427 | Python | AI pair programming in your terminal | |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 49,755 | Rust | Open source extensible AI agent — install, execute, edit, test | ⭐ [Pick](#-agentic-dev-top-10) |
 
+| [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30,315 | Python | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M | 🆕 |
 | [grpcer/ownmem](https://github.com/grpcer/ownmem) | 181 | JavaScript | Local, deterministic, git-native memory for coding agents — one set of Markdown files serves Claude Code, Codex, Gemini  | 🆕 |
 | [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) | 432 | HTML | Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and  | 🆕 |
 | [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy) | 2,783 | JavaScript | Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf t | 🆕 |
@@ -324,6 +325,11 @@
 | [clangen/musikcube](https://github.com/clangen/musikcube) | 4,784 | C++ | Cross-platform terminal-based music player & server | ⭐ [Pick](#-media-top-10) |
 | [dweymouth/supersonic](https://github.com/dweymouth/supersonic) | 2,210 | Go | Lightweight cross-platform desktop client for music servers | |
 
+| [pdfrg/must](https://github.com/pdfrg/must) | 6 | Go | MUSic TUI - local music player and subsonic/navidrome client, with albumart in the terminal | 🆕 |
+| [samyyy2311/CassetteCat](https://github.com/samyyy2311/CassetteCat) | 10 | Kotlin | CassetteCat is a simple, polished Android music player for your local library, Subsonic/Jellyfin servers, and internet r | 🆕 |
+| [leandro754/Navidrome-tui](https://github.com/leandro754/Navidrome-tui) | 15 | Rust | 💿 Modern music streaming client for the terminal | 🆕 |
+| [Jamie098/ferrosonic-ng](https://github.com/Jamie098/ferrosonic-ng) | 25 | Rust | A terminal-based Subsonic music client written in Rust, featuring bit-perfect audio playback, gapless transitions, and f | 🆕 |
+| [fossisawesome/firmium](https://github.com/fossisawesome/firmium) | 49 | Kotlin | firmium; a awesome music player! supports: android tv, wearOS, android auto, mac, windows, freebsd, linux, and android.  | 🆕 |
 | [statichum/brainzmash-hearring-aid](https://github.com/statichum/brainzmash-hearring-aid) | 15 | Python | MusicBrainz Mirror with Lidarr Metadata Server | 🆕 |
 | [GeiserX/telegram-slskd-local-bot](https://github.com/GeiserX/telegram-slskd-local-bot) | 15 | Python | Automated music discovery and download via Telegram bot. Resolves metadata from Spotify, searches and downloads FLAC fro | 🆕 |
 | [winters27/octo](https://github.com/winters27/octo) | 31 | C# | Self-hosted music discovery for Navidrome. Search beyond your library with Last.fm radio, preview unowned songs via YouT | 🆕 |
@@ -871,6 +877,7 @@
 |------|-----|------|-------------|
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ~58k | Rust | GPU-accelerated cross-platform terminal emulator |
 
+| [achiurizo/lazypunk](https://github.com/achiurizo/lazypunk) | 1 | Lua | A Neovim & tmux colorscheme inspired by Cyberpunk: Edgerunners | 🆕 |
 | [yutat23/lsoff](https://github.com/yutat23/lsoff) | 214 | Go | CLI / TUI that lists listening TCP/UDP ports | 🆕 |
 | [Stan-breaks/ytsurf](https://github.com/Stan-breaks/ytsurf) | 591 | Shell | YouTube in your terminal. Clean and distraction-free. | 🆕 |
 | [nickprotop/ServerHub](https://github.com/nickprotop/ServerHub) | 33 | C# | A TUI server monitoring and management dashboard for Linux. Real-time metrics, logs, and remote control from your termin | 🆕 |
@@ -1076,6 +1083,7 @@
 | [mui/mui-x](https://github.com/mui/mui-x) | 5,740 | TypeScript | Build complex data-rich apps with advanced React components |
 | [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) | 1,942 | TypeScript | Extract any website's design system into tokens in seconds |
 
+| [Psysonic/psysonic](https://github.com/Psysonic/psysonic) | 404 | TypeScript | A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the future with Tauri & Rea | 🆕 |
 | [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) | 2,241 | TypeScript | 🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js, Astro, T | 🆕 |
 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 42,086 | JavaScript | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library | 🆕 |
 | [Gheat1/ricekit](https://github.com/Gheat1/ricekit) | 22 | Python | 🍚 A developer's TUI suite for Textual — themes, widgets, modals, icons, and the design system behind ltui | 🆕 |
