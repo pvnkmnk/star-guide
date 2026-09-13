@@ -135,6 +135,8 @@
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 46,427 | Python | AI pair programming in your terminal | |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 49,755 | Rust | Open source extensible AI agent — install, execute, edit, test | ⭐ [Pick](#-agentic-dev-top-10) |
 
+| [yeroo/agwinterm](https://github.com/yeroo/agwinterm) | 20 | C# | A native Windows terminal built for AI coding agents — a homage/port of umputun's agterm. | 🆕 |
+| [pivoshenko/kasetto](https://github.com/pivoshenko/kasetto) | 161 | Rust | 📼 A declarative AI agent environment manager, written in Rust | 🆕 |
 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30,315 | Python | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M | 🆕 |
 | [grpcer/ownmem](https://github.com/grpcer/ownmem) | 181 | JavaScript | Local, deterministic, git-native memory for coding agents — one set of Markdown files serves Claude Code, Codex, Gemini  | 🆕 |
 | [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) | 432 | HTML | Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and  | 🆕 |
@@ -325,6 +327,10 @@
 | [clangen/musikcube](https://github.com/clangen/musikcube) | 4,784 | C++ | Cross-platform terminal-based music player & server | ⭐ [Pick](#-media-top-10) |
 | [dweymouth/supersonic](https://github.com/dweymouth/supersonic) | 2,210 | Go | Lightweight cross-platform desktop client for music servers | |
 
+| [samyyy2311/CassetteCat-Desktop](https://github.com/samyyy2311/CassetteCat-Desktop) | 3 | QML | A local-first desktop music player built with Qt6, QML, and CMake. | 🆕 |
+| [7eventy7/discodrome](https://github.com/7eventy7/discodrome) | 79 | Python | A powerful Discord bot that streams music from your personal SubSonic server. | 🆕 |
+| [yuzicapp/yuzic](https://github.com/yuzicapp/yuzic) | 511 | TypeScript | A cross-platform, free and open source music player for Navidrome & Jellyfin | 🆕 |
+| [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) | 1,337 | Rust | A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtub | 🆕 |
 | [pdfrg/must](https://github.com/pdfrg/must) | 6 | Go | MUSic TUI - local music player and subsonic/navidrome client, with albumart in the terminal | 🆕 |
 | [samyyy2311/CassetteCat](https://github.com/samyyy2311/CassetteCat) | 10 | Kotlin | CassetteCat is a simple, polished Android music player for your local library, Subsonic/Jellyfin servers, and internet r | 🆕 |
 | [leandro754/Navidrome-tui](https://github.com/leandro754/Navidrome-tui) | 15 | Rust | 💿 Modern music streaming client for the terminal | 🆕 |
@@ -804,6 +810,7 @@
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | ~95k | — | SaaS, PaaS, IaaS free tiers for devs/devops |
 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | ~85k | JavaScript | 24-lesson web development curriculum |
 
+| [tareqimbasher/cargo-seek](https://github.com/tareqimbasher/cargo-seek) | 200 | Rust | A terminal user interface for searching, adding and installing cargo crates. | 🆕 |
 | [laitco/tailscale-healthcheck](https://github.com/laitco/tailscale-healthcheck) | 172 | Python | A Tailscale monitoring and administration application with a React dashboard, health APIs, background polling, audit his | 🆕 |
 | [CodesWhat/drydock](https://github.com/CodesWhat/drydock) | 241 | TypeScript | Open source container update monitoring — 23 registries, 20 notification triggers, audit log, OIDC auth, Prometheus metr | 🆕 |
 | [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 7,869 | Rust | 🧱 easy fast local-first microVM runtime and library | 🆕 |
@@ -877,6 +884,17 @@
 |------|-----|------|-------------|
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ~58k | Rust | GPU-accelerated cross-platform terminal emulator |
 
+| [shiweis/ghostty-windows](https://github.com/shiweis/ghostty-windows) | 52 | Zig | 👻 Native Windows port of the Ghostty terminal emulator. Win32 API, OpenGL rendering, ConPTY, no WSL required. | 🆕 |
+| [B33pBeeps/redthread](https://github.com/B33pBeeps/redthread) | 68 | Go | A sticky-note pegboard TUI for your terminal — drag notes around an ASCII corkboard, dangle red strings between them, sw | 🆕 |
+| [tjblackheart/andcli](https://github.com/tjblackheart/andcli) | 157 | Go | A 2FA TUI for your shell | 🆕 |
+| [AS-FOSS/mandible](https://github.com/AS-FOSS/mandible) | 194 | Rust | A Universal TUI Manual Viewer for CLI Tools in Rust | 🆕 |
+| [rcieri/glab-tui](https://github.com/rcieri/glab-tui) | 230 | Rust | A terminal user interface (TUI) for GitLab/GitHub, built on top of glab/gh. Browse issues, merge requests, pipelines, ru | 🆕 |
+| [mikeleppane/envx](https://github.com/mikeleppane/envx) | 230 | Rust | A powerful and secure environment variable manager for developers, featuring an intuitive Terminal User Interface (TUI)  | 🆕 |
+| [mexirica/aptui](https://github.com/mexirica/aptui) | 421 | Go | TUI package manager for APT-based Linux distributions | 🆕 |
+| [paulilaaso/bit](https://github.com/paulilaaso/bit) | 426 | Go | CLI / TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export | 🆕 |
+| [fioncat/otree](https://github.com/fioncat/otree) | 516 | Rust | A command line tool to view objects (JSON/YAML/TOML/XML) in TUI tree widget. | 🆕 |
+| [sedwards2009/extraterm](https://github.com/sedwards2009/extraterm) | 2,828 | TypeScript | The swiss army chainsaw of terminal emulators | 🆕 |
+| [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) | 3,627 | Go | Terminal UI OS (Terminal Multiplexer) | 🆕 |
 | [achiurizo/lazypunk](https://github.com/achiurizo/lazypunk) | 1 | Lua | A Neovim & tmux colorscheme inspired by Cyberpunk: Edgerunners | 🆕 |
 | [yutat23/lsoff](https://github.com/yutat23/lsoff) | 214 | Go | CLI / TUI that lists listening TCP/UDP ports | 🆕 |
 | [Stan-breaks/ytsurf](https://github.com/Stan-breaks/ytsurf) | 591 | Shell | YouTube in your terminal. Clean and distraction-free. | 🆕 |
@@ -981,6 +999,7 @@
 | [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) | 26,960 | Python | Documentation that simply works |
 | [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) | 2,553 | JavaScript | Self-hosted knowledge base |
 
+| [iamrohithrnair/emeraldian](https://github.com/iamrohithrnair/emeraldian) | 465 | Rust | A terminal UI for your Obsidian vault: live-preview notes, backlinks, images, a force-directed graph and an assistant | 🆕 |
 | [s2b-dev/smart-second-brain](https://github.com/s2b-dev/smart-second-brain) | 1,213 | TypeScript | An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter! | 🆕 |
 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 18,686 | TypeScript | Desktop app to manage markdown knowledge bases | 🆕 |
 | [czottmann/obsidian-actions-uri](https://github.com/czottmann/obsidian-actions-uri) | 194 | TypeScript | A plugin for Obsidian (https://obsidian.md) that adds additional `x-callback-url` endpoints to the app for common action | 🆕 |
@@ -1083,6 +1102,7 @@
 | [mui/mui-x](https://github.com/mui/mui-x) | 5,740 | TypeScript | Build complex data-rich apps with advanced React components |
 | [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) | 1,942 | TypeScript | Extract any website's design system into tokens in seconds |
 
+| [iewnfod/lumina-terminal](https://github.com/iewnfod/lumina-terminal) | 11 | TypeScript | A modern, cross-platform terminal emulator built with Tauri, React, and Xterm.js — featuring a sleek UI, command palette | 🆕 |
 | [Psysonic/psysonic](https://github.com/Psysonic/psysonic) | 404 | TypeScript | A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the future with Tauri & Rea | 🆕 |
 | [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) | 2,241 | TypeScript | 🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js, Astro, T | 🆕 |
 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 42,086 | JavaScript | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library | 🆕 |
@@ -1226,6 +1246,8 @@
 | [OminousIndustries/PhoneDriver](https://github.com/OminousIndustries/PhoneDriver) | 1,513 | Python | Android phone control with Qwen3-VL |
 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | 5,658 | JavaScript | Powerful text/code editor for Android |
 
+| [imjyotiraditya/dmt](https://github.com/imjyotiraditya/dmt) | 146 | Kotlin | a tui-inspired local music player for android. dear music, thanks. | 🆕 |
+| [dungngminh/simutil](https://github.com/dungngminh/simutil) | 1,131 | Dart | It's not just a cross-platform TUI app that quickly opens Android & iOS emulators/simulators  | 🆕 |
 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 19,156 | Dart | Get Android app updates straight from the source. | 🆕 |
 | [AOSSIE-Org/Ogh](https://github.com/AOSSIE-Org/Ogh) | 2 | Kotlin | Live streaming app for camera or screen capture to multiple RTMP/RTMPS destinations, with YouTube and Twitch integration | 🆕 |
 | [Shrey113/App-Scrcpy](https://github.com/Shrey113/App-Scrcpy) | 97 | HTML | A scrcpy-inspired Android screen, audio, and control streaming client for Windows — built without ADB, using pure WebSoc | 🆕 |
@@ -1275,6 +1297,9 @@
 | [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) | 2,747 | C# | Organize the Windows taskbar through groups |
 | [lukeyou05/tacky-borders](https://github.com/lukeyou05/tacky-borders) | 504 | Rust | Customizable borders for Windows 11/10 |
 
+| [raiyyan729-cloud/llmfit-gui](https://github.com/raiyyan729-cloud/llmfit-gui) | 6 | PowerShell | Windows GUI for llmfit — find, download, and benchmark local LLMs that fit your hardware | 🆕 |
+| [kts982/wintui](https://github.com/kts982/wintui) | 37 | Go | Go TUI frontend for winget (Windows Package Manager) — built with Bubble Tea, Bubbles, and Lip Gloss | 🆕 |
+| [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) | 3,997 | Dart | GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distro | 🆕 |
 | [microsoft/winget-cli](https://github.com/microsoft/winget-cli) | 26,334 | C++ | WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a C | 🆕 |
 | [luke-you/tacky-borders](https://github.com/luke-you/tacky-borders) | 557 | Rust | Customizable borders for Windows 11 and 10 | 🆕 |
 | [LunarWerxs/SageThumbs-2k](https://github.com/LunarWerxs/SageThumbs-2k) | 52 | Rust | Windows 11 shell extension (Rust) — Explorer thumbnails for 316 file types Windows can't show: camera RAW, PSD, HEIC/AVI | 🆕 |

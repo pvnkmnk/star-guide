@@ -144,3 +144,51 @@
 - [acmagn/ratune](https://github.com/acmagn/ratune) — ⭐69 (Rust) A modern highly-customizable Subsonic TUI client built in Rust.
 - [nesquena/steward-os](https://github.com/nesquena/steward-os) — ⭐67 (Ruby) StewardOS - agentic autonomous OSS system
 - [thafaker/TerminalDrome](https://github.com/thafaker/TerminalDrome) — ⭐31 (Rust) TerminalDrome - Building a Terminal Navidrome Client - v.0.7.4 (Created with <3 in Mitteldeutschland)
+
+## 🆕 New Stars — 2026-09-13 03:04 UTC
+
+- [antonmedv/fx](https://github.com/antonmedv/fx) — ⭐20,624 (Go) Terminal JSON viewer & processor
+- [antoniaci/blackbird](https://github.com/antoniaci/blackbird) — ⭐8,074 (Python) An OSINT tool to search for accounts by username and email in social networks.
+- [lesspass/lesspass](https://github.com/lesspass/lesspass) — ⭐6,060 (TypeScript) :key: stateless open source password manager
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) — ⭐4,513 (Rust) Upgrade all the things
+- [ebitengine/purego](https://github.com/ebitengine/purego) — ⭐3,937 (Assembly) A library for calling C functions from Go without Cgo
+- [edoardottt/cariddi](https://github.com/edoardottt/cariddi) — ⭐3,768 (Go) Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
+- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) — ⭐3,751 (Rust) Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) — ⭐3,519 (Go) Blazing fast TUI download manager built in Go for power users
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) — ⭐3,318 (Rust) Validate and Run GitHub Actions locally.
+- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) — ⭐3,284 (Python) A Markdown browser for your terminal
+- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) — ⭐2,773 (Go) Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
+- [jdx/fnox](https://github.com/jdx/fnox) — ⭐2,157 (Rust) encrypted/remote secret manager
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) — ⭐1,749 (Shell) apt-get for .debs published via GitHub or direct download 📦
+- [Lifeforge-app/lifeforge](https://github.com/Lifeforge-app/lifeforge) — ⭐1,695 (TypeScript) A self-hosted solution to streamline and organize all aspects of your life.
+- [Skardyy/mcat](https://github.com/Skardyy/mcat) — ⭐1,408 (Rust) Terminal image, video, PDF, and Markdown viewer
+- [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) — ⭐1,287 (Rust) Like IntelliSense, but for shells
+- [jdx/hk](https://github.com/jdx/hk) — ⭐1,163 (Rust) git hooks and project lints
+- [Microck/opencode-studio](https://github.com/Microck/opencode-studio) — ⭐790 (TypeScript) web GUI for securely managing local OpenCode configuration
+- [hzqtc/taproom](https://github.com/hzqtc/taproom) — ⭐724 (Go) An interactive TUI for Homebrew
+- [xdagiz/xytz](https://github.com/xdagiz/xytz) — ⭐640 (Go) A Beautiful YouTube Downloader/Player TUI
+- [alexmyczko/fnt](https://github.com/alexmyczko/fnt) — ⭐638 (Shell) apt for fonts, the missing font manager for macOS/linux
+- [hvianna/audioMotion.js](https://github.com/hvianna/audioMotion.js) — ⭐636 (JavaScript) Media player and real-time audio spectrum analyzer written in JavaScript.
+- [benjajaja/mdfried](https://github.com/benjajaja/mdfried) — ⭐511 (Rust) A markdown viewer for the terminal that renders images and Big Headers™
+- [ashuttl/linecast](https://github.com/ashuttl/linecast) — ⭐464 (Python) Weather, tides, the sun, the moon, and maps, in your terminal. The Old Farmer's Almanac meets Minitel.
+- [atiladefreitas/dooing](https://github.com/atiladefreitas/dooing) — ⭐452 (Lua) The minimalist to-do list for Neovim
+- [jdefrancesco/dskDitto](https://github.com/jdefrancesco/dskDitto) — ⭐382 (Go) Ultra fast and easy duplicate file finder. Awesome TUI/GUI to manage results.
+- [yetidevworks/drydock](https://github.com/yetidevworks/drydock) — ⭐298 (Rust) What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
+- [cfoust/cy](https://github.com/cfoust/cy) — ⭐223 (C) 🤖 time travel in the terminal
+- [unhappychoice/splashboard](https://github.com/unhappychoice/splashboard) — ⭐216 (Rust) A customizable terminal splash screen with plugin-based data sources.
+- [vncsmnl/rwx](https://github.com/vncsmnl/rwx) — ⭐201 (Rust) 🦀 An interactive Unix file permissions and ownership TUI manager built in Rust with Ratatui and crossterm.
+- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) — ⭐199 (Go) Keyboard-first Telegram client for the terminal, written in Go
+- [AfrozSaqlain/Papr](https://github.com/AfrozSaqlain/Papr) — ⭐198 (Rust) Papr is a fast terminal-based workspace written in Rust. Get daily new papers in your feed from your field of research, 
+- [mattiacerutti/supernova](https://github.com/mattiacerutti/supernova) — ⭐148 (TypeScript) A fast, opinionated development environment for Pi.
+- [renatoworks/oh-my-reddit](https://github.com/renatoworks/oh-my-reddit) — ⭐147 (Go) Beautiful Reddit threads, live in your terminal
+- [chip/pathos](https://github.com/chip/pathos) — ⭐145 (Go) pathos - CLI for editing a PATH env variable
+- [TX230/winproc-tui](https://github.com/TX230/winproc-tui) — ⭐117 (Rust) A keyboard-first process monitoring tool for Windows 11 with live system-wide and per-process resource metrics including
+- [sandroandric/clime](https://github.com/sandroandric/clime) — ⭐98 (TypeScript) One CLI to find every CLI
+- [psmux/omp-manager](https://github.com/psmux/omp-manager) — ⭐70 (Rust) Installation and manager for Oh My Posh! The one thing you need to browse themes, install fonts, and configure shells
+- [lazynop/lazyenv](https://github.com/lazynop/lazyenv) — ⭐63 (Go) TUI for managing .env files
+- [nickolaj-jepsen/fnug](https://github.com/nickolaj-jepsen/fnug) — ⭐60 (Rust) Fnug runs all your lints, tests and commands at once, in the terminal. With git integration and file watching
+- [CrazyFigure/MyTerminal](https://github.com/CrazyFigure/MyTerminal) — ⭐47 (TypeScript) 
+- [darkw3bb/aura](https://github.com/darkw3bb/aura) — ⭐18 (TypeScript) 
+- [tappunk/gsty](https://github.com/tappunk/gsty) — ⭐14 (Rust) Live-preview Ghostty theme browser and installer
+- [AS-FOSS/aegis-skills](https://github.com/AS-FOSS/aegis-skills) — ⭐13 (Shell) A Collection of Defensive Cyber Security skills designed to harden your Software, Infrastructure and even Game. 
+- [sushilkumarsahani41/SharkShell](https://github.com/sushilkumarsahani41/SharkShell) — ⭐6 (JavaScript) 
