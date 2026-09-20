@@ -192,3 +192,32 @@
 - [tappunk/gsty](https://github.com/tappunk/gsty) — ⭐14 (Rust) Live-preview Ghostty theme browser and installer
 - [AS-FOSS/aegis-skills](https://github.com/AS-FOSS/aegis-skills) — ⭐13 (Shell) A Collection of Defensive Cyber Security skills designed to harden your Software, Infrastructure and even Game. 
 - [sushilkumarsahani41/SharkShell](https://github.com/sushilkumarsahani41/SharkShell) — ⭐6 (JavaScript) 
+
+## 🆕 New Stars — 2026-09-20 03:20 UTC
+
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) — ⭐87,407 (Python) Self-hosted AI workspace. 
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) — ⭐36,072 (TypeScript) 📨 The ultimate agentic social media scheduling tool 🤖
+- [nicolargo/glances](https://github.com/nicolargo/glances) — ⭐33,620 (Python) Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) — ⭐17,720 (TypeScript) Orchestrate multiple coding agents from desktop and mobile
+- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) — ⭐15,412 (Python) Secure, Fast, and Extensible Sandbox runtime for AI agents.
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) — ⭐7,469 (Go) like netcat, but over Tailscale's data plane, without Tailscale's control plane
+- [NVlabs/SoL-Pi](https://github.com/NVlabs/SoL-Pi) — ⭐2,447 (TypeScript) SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses
+- [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) — ⭐1,875 (TypeScript) Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes 
+- [AltanS/collie](https://github.com/AltanS/collie) — ⭐1,039 (TypeScript) PWA to manage 🐑 herdr on the go. Tailnet accessible, push notifications, quick actions and more.
+- [ideaplexa/voicetypr](https://github.com/ideaplexa/voicetypr) — ⭐718 (Rust) Voicetypr - AI powered offline voice to text dictation tool for busy founders, vibe coders, AI power users on macos, win
+- [Bitpainter75/FerrumPix](https://github.com/Bitpainter75/FerrumPix) — ⭐652 (Visual Basic .NET) FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS.
+- [J0R6IT0/navidrome-lyrics-plugin](https://github.com/J0R6IT0/navidrome-lyrics-plugin) — ⭐379 (Rust) A Navidrome plugin for fetching lyrics from various sources.
+- [DefiLeoo/YOINK](https://github.com/DefiLeoo/YOINK) — ⭐379 (Python) 
+- [tpm28/LinuxGate](https://github.com/tpm28/LinuxGate) — ⭐366 (C#) A modern, user-friendly Windows application that simplifies the process of dual-booting Linux alongside Windows.
+- [cloudmanic/herdr-plus](https://github.com/cloudmanic/herdr-plus) — ⭐324 (Go) An extension for herdr, built as a first-class herdr plugin — a collection of tools that make it better: Projects and Qu
+- [eliasstravik/herdr-projects](https://github.com/eliasstravik/herdr-projects) — ⭐253 (Rust) A coordinator conversation, parallel worker threads, shared memory and an overview of what needs you. A Herdr plugin.
+- [anmolkapil/plexo](https://github.com/anmolkapil/plexo) — ⭐224 (TypeScript) Speed up downloads by combining multiple network connections in parallel
+- [yigitkonur/awesome-herdr](https://github.com/yigitkonur/awesome-herdr) — ⭐223 (-) A curated guide to the Herdr ecosystem: tools, workflows, configs, clients, skills, and integrations.
+- [thanhdat77/herdr-navigator](https://github.com/thanhdat77/herdr-navigator) — ⭐157 (Rust) Jump to any Herdr workspace, agent, project, session, remote, directory, or action from one fuzzy navigator.
+- [mikker/fut](https://github.com/mikker/fut) — ⭐146 (Rust) fear, uncertainty and ... terminals
+- [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename) — ⭐146 (Shell) Smart herdr tab names to switch between agents and shells faster
+- [untrustedmodders/plugify](https://github.com/untrustedmodders/plugify) — ⭐85 (C++) A Modern C++ Plugin Manager with Multi-Language Support
+- [aemrebarut/herdr-dagr](https://github.com/aemrebarut/herdr-dagr) — ⭐84 (Rust) Your agent swarm as a live DAG: an orchestration graph with attempts, review gates, and evidence, in a herdr split pane.
+- [rainmanjam/headwater](https://github.com/rainmanjam/headwater) — ⭐64 (Python) 
+- [modem-dev/pi-herdr-subagents](https://github.com/modem-dev/pi-herdr-subagents) — ⭐24 (TypeScript) 
+- [Parslee-ai/neo](https://github.com/Parslee-ai/neo) — ⭐17 (Python) A self-improving code reasoning engine with persistent semantic memory

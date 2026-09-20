@@ -135,6 +135,12 @@
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 46,427 | Python | AI pair programming in your terminal | |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 49,755 | Rust | Open source extensible AI agent — install, execute, edit, test | ⭐ [Pick](#-agentic-dev-top-10) |
 
+| [abnegate/magents](https://github.com/abnegate/magents) | 5 | Rust | Shared session bus for Claude Code, Codex, and Cursor | 🆕 |
+| [Atomburstofficial/geiger](https://github.com/Atomburstofficial/geiger) | 147 | JavaScript | A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extensio | 🆕 |
+| [proflead/codex-skills-library](https://github.com/proflead/codex-skills-library) | 147 | - | Codex Skills Library is a curated library of reusable Codex skills for developers, individuals, and teams. | 🆕 |
+| [pizza-bot-app/pizza-bot](https://github.com/pizza-bot-app/pizza-bot) | 326 | TypeScript | A local-first inbox for long-running AI agents, built with DeepAgents and LangGraph. | 🆕 |
+| [agentverse-os/AgentVerse-OS](https://github.com/agentverse-os/AgentVerse-OS) | 939 | Rust | Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything | 🆕 |
+| [trycompai/crm](https://github.com/trycompai/crm) | 10,652 | TypeScript | Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM. | 🆕 |
 | [yeroo/agwinterm](https://github.com/yeroo/agwinterm) | 20 | C# | A native Windows terminal built for AI coding agents — a homage/port of umputun's agterm. | 🆕 |
 | [pivoshenko/kasetto](https://github.com/pivoshenko/kasetto) | 161 | Rust | 📼 A declarative AI agent environment manager, written in Rust | 🆕 |
 | [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 30,315 | Python | Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser M | 🆕 |
@@ -327,6 +333,7 @@
 | [clangen/musikcube](https://github.com/clangen/musikcube) | 4,784 | C++ | Cross-platform terminal-based music player & server | ⭐ [Pick](#-media-top-10) |
 | [dweymouth/supersonic](https://github.com/dweymouth/supersonic) | 2,210 | Go | Lightweight cross-platform desktop client for music servers | |
 
+| [FabianZettl/Neiro](https://github.com/FabianZettl/Neiro) | 4 | Kotlin | Android music streaming app for OpenSubsonic/Navidrome — dynamic album-art theming, Last.fm integration, liquid-glass mi | 🆕 |
 | [samyyy2311/CassetteCat-Desktop](https://github.com/samyyy2311/CassetteCat-Desktop) | 3 | QML | A local-first desktop music player built with Qt6, QML, and CMake. | 🆕 |
 | [7eventy7/discodrome](https://github.com/7eventy7/discodrome) | 79 | Python | A powerful Discord bot that streams music from your personal SubSonic server. | 🆕 |
 | [yuzicapp/yuzic](https://github.com/yuzicapp/yuzic) | 511 | TypeScript | A cross-platform, free and open source music player for Navidrome & Jellyfin | 🆕 |
@@ -656,6 +663,7 @@
 | [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | ~44k | Go | Open source realtime backend in 1 file (SQLite) | |
 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | 56,343 | TypeScript | Complete cloud infrastructure — DB, auth, storage, messaging | |
 
+| [versity/versitygw](https://github.com/versity/versitygw) | 2,911 | Go | A simple to deploy but feature rich S3 object storage server for your filesystem | 🆕 |
 | [rclone/rclone](https://github.com/rclone/rclone) | 58,702 | Go | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Stora | 🆕 |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 65,311 | Go | The Prometheus monitoring system and time series database. | 🆕 |
 | [nocodb/nocodb](https://github.com/nocodb/nocodb) | 63,485 | TypeScript | 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative | 🆕 |
@@ -810,6 +818,8 @@
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | ~95k | — | SaaS, PaaS, IaaS free tiers for devs/devops |
 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | ~85k | JavaScript | 24-lesson web development curriculum |
 
+| [romancitodev/cargo-pretty](https://github.com/romancitodev/cargo-pretty) | 286 | Rust | A cargo build wrapper with a live, animated status view | 🆕 |
+| [coder/ghostty-web](https://github.com/coder/ghostty-web) | 2,881 | TypeScript | Ghostty for the web with xterm.js API compatibility | 🆕 |
 | [tareqimbasher/cargo-seek](https://github.com/tareqimbasher/cargo-seek) | 200 | Rust | A terminal user interface for searching, adding and installing cargo crates. | 🆕 |
 | [laitco/tailscale-healthcheck](https://github.com/laitco/tailscale-healthcheck) | 172 | Python | A Tailscale monitoring and administration application with a React dashboard, health APIs, background polling, audit his | 🆕 |
 | [CodesWhat/drydock](https://github.com/CodesWhat/drydock) | 241 | TypeScript | Open source container update monitoring — 23 registries, 20 notification triggers, audit log, OIDC auth, Prometheus metr | 🆕 |
@@ -884,6 +894,11 @@
 |------|-----|------|-------------|
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ~58k | Rust | GPU-accelerated cross-platform terminal emulator |
 
+| [Run1e/pi-agent.nvim](https://github.com/Run1e/pi-agent.nvim) | 22 | Lua | Pragmatic nvim + pi agent integration | 🆕 |
+| [psmux/Tmux-Plugin-Panel](https://github.com/psmux/Tmux-Plugin-Panel) | 84 | Rust | A full-fledged TUI plugin manager for tmux — the modern alternative to TPM. Browse, install, remove, update plugins and  | 🆕 |
+| [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 300 | Go | TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that  | 🆕 |
+| [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) | 1,547 | Shell | ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos | 🆕 |
+| [zsh-users/antigen](https://github.com/zsh-users/antigen) | 8,358 | Shell | The plugin manager for zsh. | 🆕 |
 | [shiweis/ghostty-windows](https://github.com/shiweis/ghostty-windows) | 52 | Zig | 👻 Native Windows port of the Ghostty terminal emulator. Win32 API, OpenGL rendering, ConPTY, no WSL required. | 🆕 |
 | [B33pBeeps/redthread](https://github.com/B33pBeeps/redthread) | 68 | Go | A sticky-note pegboard TUI for your terminal — drag notes around an ASCII corkboard, dangle red strings between them, sw | 🆕 |
 | [tjblackheart/andcli](https://github.com/tjblackheart/andcli) | 157 | Go | A 2FA TUI for your shell | 🆕 |
@@ -999,6 +1014,7 @@
 | [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) | 26,960 | Python | Documentation that simply works |
 | [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) | 2,553 | JavaScript | Self-hosted knowledge base |
 
+| [makeplane/plane](https://github.com/makeplane/plane) | 59,640 | TypeScript | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage t | 🆕 |
 | [iamrohithrnair/emeraldian](https://github.com/iamrohithrnair/emeraldian) | 465 | Rust | A terminal UI for your Obsidian vault: live-preview notes, backlinks, images, a force-directed graph and an assistant | 🆕 |
 | [s2b-dev/smart-second-brain](https://github.com/s2b-dev/smart-second-brain) | 1,213 | TypeScript | An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter! | 🆕 |
 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 18,686 | TypeScript | Desktop app to manage markdown knowledge bases | 🆕 |
@@ -1246,6 +1262,7 @@
 | [OminousIndustries/PhoneDriver](https://github.com/OminousIndustries/PhoneDriver) | 1,513 | Python | Android phone control with Qwen3-VL |
 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | 5,658 | JavaScript | Powerful text/code editor for Android |
 
+| [FabianZettl/NeiroDesktop](https://github.com/FabianZettl/NeiroDesktop) | 4 | Kotlin | Desktop music client for OpenSubsonic/Navidrome — Compose Multiplatform companion to the Neiro Android app. Dynamic them | 🆕 |
 | [imjyotiraditya/dmt](https://github.com/imjyotiraditya/dmt) | 146 | Kotlin | a tui-inspired local music player for android. dear music, thanks. | 🆕 |
 | [dungngminh/simutil](https://github.com/dungngminh/simutil) | 1,131 | Dart | It's not just a cross-platform TUI app that quickly opens Android & iOS emulators/simulators  | 🆕 |
 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 19,156 | Dart | Get Android app updates straight from the source. | 🆕 |

@@ -1,8 +1,8 @@
 # 🏷️ Categorization Suggestions
 
 > Auto-generated suggestions for where new repos might fit in STAR-GUIDE.md.
-> Generated: 2026-09-13
-> 45 repos analyzed
+> Generated: 2026-09-20
+> 26 repos analyzed
 
 ## How to use
 
@@ -17,101 +17,87 @@ the matching section of STAR-GUIDE.md and remove it from NOT-CURATED.md.
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 4,513 | [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) | Rust | Upgrade all the things | — |
-| 3,768 | [edoardottt/cariddi](https://github.com/edoardottt/cariddi) | Go | Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, token | 🔒 Security & Authentication (2), 📡 Homelab Infrastructure (1) |
-| 3,751 | [bgreenwell/doxx](https://github.com/bgreenwell/doxx) | Rust | Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office  | ⌨️ Terminal, CLI & Shell (4), 🌐 Web & Frontend (1) |
-| 3,318 | [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) | Rust | Validate and Run GitHub Actions locally. | — |
-| 3,284 | [Textualize/frogmouth](https://github.com/Textualize/frogmouth) | Python | A Markdown browser for your terminal | ⌨️ Terminal, CLI & Shell (4), 📄 Docs & Blog (1) |
-| 2,157 | [jdx/fnox](https://github.com/jdx/fnox) | Rust | encrypted/remote secret manager | 🔒 Security & Authentication (2) |
-| 1,408 | [Skardyy/mcat](https://github.com/Skardyy/mcat) | Rust | Terminal image, video, PDF, and Markdown viewer | ⌨️ Terminal, CLI & Shell (4), 🎵 Self-Hosted Media (1) |
-| 1,287 | [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) | Rust | Like IntelliSense, but for shells | ⌨️ Terminal, CLI & Shell (4) |
-| 1,163 | [jdx/hk](https://github.com/jdx/hk) | Rust | git hooks and project lints | — |
-| 511 | [benjajaja/mdfried](https://github.com/benjajaja/mdfried) | Rust | A markdown viewer for the terminal that renders images and Big Headers™ | ⌨️ Terminal, CLI & Shell (4), 📄 Docs & Blog (1) |
-| 464 | [ashuttl/linecast](https://github.com/ashuttl/linecast) | Python | Weather, tides, the sun, the moon, and maps, in your terminal. The Old Farmer's Almanac meets Minite | ⌨️ Terminal, CLI & Shell (4) |
-| 298 | [yetidevworks/drydock](https://github.com/yetidevworks/drydock) | Rust | What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a f | ⌨️ Terminal, CLI & Shell (4), 📡 Homelab Infrastructure (1) |
-| 216 | [unhappychoice/splashboard](https://github.com/unhappychoice/splashboard) | Rust | A customizable terminal splash screen with plugin-based data sources. | ⌨️ Terminal, CLI & Shell (4) |
-| 201 | [vncsmnl/rwx](https://github.com/vncsmnl/rwx) | Rust | 🦀 An interactive Unix file permissions and ownership TUI manager built in Rust with Ratatui and cros | ⌨️ Terminal, CLI & Shell (4), 🌐 Web & Frontend (1) |
-| 148 | [mattiacerutti/supernova](https://github.com/mattiacerutti/supernova) | TypeScript | A fast, opinionated development environment for Pi. | — |
-| 98 | [sandroandric/clime](https://github.com/sandroandric/clime) | TypeScript | One CLI to find every CLI | ⌨️ Terminal, CLI & Shell (4) |
-| 60 | [nickolaj-jepsen/fnug](https://github.com/nickolaj-jepsen/fnug) | Rust | Fnug runs all your lints, tests and commands at once, in the terminal. With git integration and file | ⌨️ Terminal, CLI & Shell (4), 🤖 Agentic Dev Tools (1) |
-| 47 | [CrazyFigure/MyTerminal](https://github.com/CrazyFigure/MyTerminal) | TypeScript |  | ⌨️ Terminal, CLI & Shell (1) |
-| 18 | [darkw3bb/aura](https://github.com/darkw3bb/aura) | TypeScript |  | — |
-| 14 | [tappunk/gsty](https://github.com/tappunk/gsty) | Rust | Live-preview Ghostty theme browser and installer | ⌨️ Terminal, CLI & Shell (4) |
+| 17,720 | [getpaseo/paseo](https://github.com/getpaseo/paseo) | TypeScript | Orchestrate multiple coding agents from desktop and mobile | 📱 Mobile (4), 🤖 Agentic Dev Tools (2) |
+| 2,447 | [NVlabs/SoL-Pi](https://github.com/NVlabs/SoL-Pi) | TypeScript | SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses | 🤖 Agentic Dev Tools (2), ⚡ Automation & Workflows (1) |
+| 1,039 | [AltanS/collie](https://github.com/AltanS/collie) | TypeScript | PWA to manage 🐑 herdr on the go. Tailnet accessible, push notifications, quick actions and more. | 🌐 Web & Frontend (2), 💬 Chat & Messaging (2) |
+| 718 | [ideaplexa/voicetypr](https://github.com/ideaplexa/voicetypr) | Rust | Voicetypr - AI powered offline voice to text dictation tool for busy founders, vibe coders, AI power | 🪟 Windows (4), 🧠 AI / LLM Tools (2) |
+| 379 | [DefiLeoo/YOINK](https://github.com/DefiLeoo/YOINK) | Python |  | — |
+| 253 | [eliasstravik/herdr-projects](https://github.com/eliasstravik/herdr-projects) | Rust | A coordinator conversation, parallel worker threads, shared memory and an overview of what needs you | 🤖 Agentic Dev Tools (2) |
+| 224 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | TypeScript | Speed up downloads by combining multiple network connections in parallel | 📡 Homelab Infrastructure (1), 🎵 Self-Hosted Media (1) |
+| 157 | [thanhdat77/herdr-navigator](https://github.com/thanhdat77/herdr-navigator) | Rust | Jump to any Herdr workspace, agent, project, session, remote, directory, or action from one fuzzy na | ⌨️ Terminal, CLI & Shell (2), 🤖 Agentic Dev Tools (1) |
+| 146 | [mikker/fut](https://github.com/mikker/fut) | Rust | fear, uncertainty and ... terminals | ⌨️ Terminal, CLI & Shell (4) |
+| 84 | [aemrebarut/herdr-dagr](https://github.com/aemrebarut/herdr-dagr) | Rust | Your agent swarm as a live DAG: an orchestration graph with attempts, review gates, and evidence, in | 🐳 Docker & Container Management (2), 🤖 Agentic Dev Tools (1) |
+| 64 | [rainmanjam/headwater](https://github.com/rainmanjam/headwater) | Python |  | — |
+| 24 | [modem-dev/pi-herdr-subagents](https://github.com/modem-dev/pi-herdr-subagents) | TypeScript |  | 🤖 Agentic Dev Tools (1) |
+| 17 | [Parslee-ai/neo](https://github.com/Parslee-ai/neo) | Python | A self-improving code reasoning engine with persistent semantic memory | 🤖 Agentic Dev Tools (2) |
 
-## ⌨️ Terminal, CLI & Shell
+## 🤖 Agentic Dev Tools
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 3,519 | [SurgeDM/Surge](https://github.com/SurgeDM/Surge) | Go | Blazing fast TUI download manager built in Go for power users | 🌐 Web & Frontend (1) |
-| 1,749 | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | Shell | apt-get for .debs published via GitHub or direct download 📦 | 📄 Docs & Blog (1) |
-| 724 | [hzqtc/taproom](https://github.com/hzqtc/taproom) | Go | An interactive TUI for Homebrew | 🌐 Web & Frontend (1) |
-| 640 | [xdagiz/xytz](https://github.com/xdagiz/xytz) | Go | A Beautiful YouTube Downloader/Player TUI | 🎵 Self-Hosted Media (1), 🌐 Web & Frontend (1) |
-| 382 | [jdefrancesco/dskDitto](https://github.com/jdefrancesco/dskDitto) | Go | Ultra fast and easy duplicate file finder. Awesome TUI/GUI to manage results. | 🌐 Web & Frontend (1) |
-| 223 | [cfoust/cy](https://github.com/cfoust/cy) | C | 🤖 time travel in the terminal | — |
-| 147 | [renatoworks/oh-my-reddit](https://github.com/renatoworks/oh-my-reddit) | Go | Beautiful Reddit threads, live in your terminal | — |
-| 145 | [chip/pathos](https://github.com/chip/pathos) | Go | pathos - CLI for editing a PATH env variable | — |
-| 63 | [lazynop/lazyenv](https://github.com/lazynop/lazyenv) | Go | TUI for managing .env files | 🌐 Web & Frontend (1) |
+| 15,412 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | Python | Secure, Fast, and Extensible Sandbox runtime for AI agents. | 💻 Dev Tools & Languages (8), 🧠 AI / LLM Tools (1) |
+| 1,875 | [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) | TypeScript | Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions | 💻 Dev Tools & Languages (8), ⌨️ Terminal, CLI & Shell (5) |
 
-## ⌨️ Terminal, CLI & Shell
+## 🤖 Agentic Dev Tools
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 20,624 | [antonmedv/fx](https://github.com/antonmedv/fx) | Go | Terminal JSON viewer & processor | 🔒 Security & Authentication (2), 📡 Homelab Infrastructure (1) |
-| 638 | [alexmyczko/fnt](https://github.com/alexmyczko/fnt) | Shell | apt for fonts, the missing font manager for macOS/linux | 🌐 Web & Frontend (1) |
-| 452 | [atiladefreitas/dooing](https://github.com/atiladefreitas/dooing) | Lua | The minimalist to-do list for Neovim | 📝 Knowledge Management & PKM (1) |
-| 199 | [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) | Go | Keyboard-first Telegram client for the terminal, written in Go | 💬 Chat & Messaging (4) |
-| 70 | [psmux/omp-manager](https://github.com/psmux/omp-manager) | Rust | Installation and manager for Oh My Posh! The one thing you need to browse themes, install fonts, and | 💻 Dev Tools & Languages (4) |
-
-## 💻 Dev Tools & Languages
-
-| Stars | Repo | Lang | Description | Also consider |
-|------:|------|------|-------------|---------------|
-| 8,074 | [antoniaci/blackbird](https://github.com/antoniaci/blackbird) | Python | An OSINT tool to search for accounts by username and email in social networks. | 📡 Homelab Infrastructure (1), ⚡ Automation & Workflows (1) |
-| 198 | [AfrozSaqlain/Papr](https://github.com/AfrozSaqlain/Papr) | Rust | Papr is a fast terminal-based workspace written in Rust. Get daily new papers in your feed from your | ⌨️ Terminal, CLI & Shell (4), 🤖 Agentic Dev Tools (1) |
-| 6 | [sushilkumarsahani41/SharkShell](https://github.com/sushilkumarsahani41/SharkShell) | JavaScript |  | ⌨️ Terminal, CLI & Shell (1) |
-
-## 🔒 Security & Authentication
-
-| Stars | Repo | Lang | Description | Also consider |
-|------:|------|------|-------------|---------------|
-| 6,060 | [lesspass/lesspass](https://github.com/lesspass/lesspass) | TypeScript | :key: stateless open source password manager | 💻 Dev Tools & Languages (4) |
-| 13 | [AS-FOSS/aegis-skills](https://github.com/AS-FOSS/aegis-skills) | Shell | A Collection of Defensive Cyber Security skills designed to harden your Software, Infrastructure and | ⌨️ Terminal, CLI & Shell (4), 📡 Homelab Infrastructure (1) |
-
-## 🎵 Self-Hosted Media
-
-| Stars | Repo | Lang | Description | Also consider |
-|------:|------|------|-------------|---------------|
-| 3,937 | [ebitengine/purego](https://github.com/ebitengine/purego) | Assembly | A library for calling C functions from Go without Cgo | 💻 Dev Tools & Languages (1) |
-
-## ⚡ Automation & Workflows
-
-| Stars | Repo | Lang | Description | Also consider |
-|------:|------|------|-------------|---------------|
-| 2,773 | [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) | Go | Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized appl | 🐳 Docker & Container Management (3), 🤖 Agentic Dev Tools (1) |
+| 324 | [cloudmanic/herdr-plus](https://github.com/cloudmanic/herdr-plus) | Go | An extension for herdr, built as a first-class herdr plugin — a collection of tools that make it bet | 🌐 Web & Frontend (1) |
+| 85 | [untrustedmodders/plugify](https://github.com/untrustedmodders/plugify) | C++ | A Modern C++ Plugin Manager with Multi-Language Support | — |
 
 ## 📡 Homelab Infrastructure
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 1,695 | [Lifeforge-app/lifeforge](https://github.com/Lifeforge-app/lifeforge) | TypeScript | A self-hosted solution to streamline and organize all aspects of your life. | 💻 Dev Tools & Languages (4) |
+| 87,407 | [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) | Python | Self-hosted AI workspace.  | 💻 Dev Tools & Languages (8), 🤖 Agentic Dev Tools (5) |
 
-## 🌐 Web & Frontend
+## 🤖 Agentic Dev Tools
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 790 | [Microck/opencode-studio](https://github.com/Microck/opencode-studio) | TypeScript | web GUI for securely managing local OpenCode configuration | 🤖 Agentic Dev Tools (4), 💻 Dev Tools & Languages (4) |
+| 36,072 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | TypeScript | 📨 The ultimate agentic social media scheduling tool 🤖 | 💻 Dev Tools & Languages (5), ⚡ Automation & Workflows (3) |
+
+## 💻 Dev Tools & Languages
+
+| Stars | Repo | Lang | Description | Also consider |
+|------:|------|------|-------------|---------------|
+| 33,620 | [nicolargo/glances](https://github.com/nicolargo/glances) | Python | Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operatin | 🪟 Windows (5), 🌐 Web & Frontend (2) |
+
+## 📡 Homelab Infrastructure
+
+| Stars | Repo | Lang | Description | Also consider |
+|------:|------|------|-------------|---------------|
+| 7,469 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | Go | like netcat, but over Tailscale's data plane, without Tailscale's control plane | — |
 
 ## 🎵 Self-Hosted Media
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 636 | [hvianna/audioMotion.js](https://github.com/hvianna/audioMotion.js) | JavaScript | Media player and real-time audio spectrum analyzer written in JavaScript. | 💻 Dev Tools & Languages (5) |
+| 652 | [Bitpainter75/FerrumPix](https://github.com/Bitpainter75/FerrumPix) | Visual Basic .NET | FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS. | 🪟 Windows (5), 🌐 Web & Frontend (1) |
+
+## 🎵 Self-Hosted Media
+
+| Stars | Repo | Lang | Description | Also consider |
+|------:|------|------|-------------|---------------|
+| 379 | [J0R6IT0/navidrome-lyrics-plugin](https://github.com/J0R6IT0/navidrome-lyrics-plugin) | Rust | A Navidrome plugin for fetching lyrics from various sources. | 💻 Dev Tools & Languages (4), 🤖 Agentic Dev Tools (1) |
 
 ## 🪟 Windows
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 117 | [TX230/winproc-tui](https://github.com/TX230/winproc-tui) | Rust | A keyboard-first process monitoring tool for Windows 11 with live system-wide and per-process resour | 💻 Dev Tools & Languages (8), ⌨️ Terminal, CLI & Shell (6) |
+| 366 | [tpm28/LinuxGate](https://github.com/tpm28/LinuxGate) | C# | A modern, user-friendly Windows application that simplifies the process of dual-booting Linux alongs | 🌐 Web & Frontend (1), 📱 Mobile (1) |
+
+## ⚡ Automation & Workflows
+
+| Stars | Repo | Lang | Description | Also consider |
+|------:|------|------|-------------|---------------|
+| 223 | [yigitkonur/awesome-herdr](https://github.com/yigitkonur/awesome-herdr) | - | A curated guide to the Herdr ecosystem: tools, workflows, configs, clients, skills, and integrations | 🤖 Agentic Dev Tools (2), ⌨️ Terminal, CLI & Shell (1) |
+
+## ⌨️ Terminal, CLI & Shell
+
+| Stars | Repo | Lang | Description | Also consider |
+|------:|------|------|-------------|---------------|
+| 146 | [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename) | Shell | Smart herdr tab names to switch between agents and shells faster | 🤖 Agentic Dev Tools (1) |
 
 ---
-*Generated by `scripts/update_stars.py` · 2026-09-13*
+*Generated by `scripts/update_stars.py` · 2026-09-20*
