@@ -221,3 +221,19 @@
 - [rainmanjam/headwater](https://github.com/rainmanjam/headwater) — ⭐64 (Python) 
 - [modem-dev/pi-herdr-subagents](https://github.com/modem-dev/pi-herdr-subagents) — ⭐24 (TypeScript) 
 - [Parslee-ai/neo](https://github.com/Parslee-ai/neo) — ⭐17 (Python) A self-improving code reasoning engine with persistent semantic memory
+
+## 🆕 New Stars — 2026-09-27 03:35 UTC
+
+- [typesense/typesense](https://github.com/typesense/typesense) — ⭐26,597 (C++) Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo toleran
+- [pallets/click](https://github.com/pallets/click) — ⭐17,770 (Python) Python composable command line interface toolkit
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) — ⭐16,051 (Rust) ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) — ⭐9,857 (Rust) rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) — ⭐8,904 (Visual Basic .NET) Reduce the space taken up by games and programs on disk by using native Windows APIs
+- [Tarquinen/opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning) — ⭐4,276 (TypeScript) Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
+- [dopbase/dopbase](https://github.com/dopbase/dopbase) — ⭐99 (Rust) DevOps secrets base: lightweight, self-hosted secrets manager in a single file
+- [robert-dean/deadair](https://github.com/robert-dean/deadair) — ⭐96 (TypeScript) 
+- [useindelible/indelible](https://github.com/useindelible/indelible) — ⭐63 (Rust) Open-source knowledge library for saving, reading, searching, and connecting articles, books, emails, videos, and more.
+- [rheeloaded/paperpull](https://github.com/rheeloaded/paperpull) — ⭐62 (Python) Read-only tools that log in alongside you to download your own receipts and statements (Amazon, Amex, banks, utilities) 
+- [Xia-Ataraxia/obsidian-metadata-auto-classifier](https://github.com/Xia-Ataraxia/obsidian-metadata-auto-classifier) — ⭐57 (TypeScript) Obsidian plugin that uses AI providers to generate tags and frontmatter metadata for your notes.
+- [TheRealChickenlegs/WhatsNewDock](https://github.com/TheRealChickenlegs/WhatsNewDock) — ⭐4 (Go) Self-hosted Docker update monitor that shows you the changelog before you update.
+- [igorinvest/mango](https://github.com/igorinvest/mango) — ⭐2 (-) Stream local videos to your Chromecast TV

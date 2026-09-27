@@ -89,6 +89,7 @@
 | [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) | 4,959 | — | WireGuard + Pi-hole + Unbound in docker-compose | ⭐ [Pick](#-homelab-top-10) 🔧 [Reverse Proxy](#-reverse-proxy) |
 | [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) | 3,680 | Dockerfile | Nginx reverse proxy + Certbot + fail2ban | 🔧 [Reverse Proxy](#-reverse-proxy) |
 
+| [BenHornerTech/logshed](https://github.com/BenHornerTech/logshed) | 3 | Python | A lightweight, self-hosted homelab log aggregator and syslog server featuring real-time streaming, fast SQLite FTS5 sear | 🆕 |
 | [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) | 315 | Nix | A reverse proxy that exposes services on your tailnet (as their own tailscale participants) | 🆕 |
 | [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) | 1,687 | Go | Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS. | 🆕 |
 | [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) | 2,195 | Go | Terraform / OpenTofu Provider for Proxmox VE | 🆕 |
@@ -135,6 +136,10 @@
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 46,427 | Python | AI pair programming in your terminal | |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 49,755 | Rust | Open source extensible AI agent — install, execute, edit, test | ⭐ [Pick](#-agentic-dev-top-10) |
 
+| [noamsto/dispatcher](https://github.com/noamsto/dispatcher) | 2 | Shell | Run a crew of coding agents like a team, not a thread — worktree and tmux orchestration across Claude, Codex, and Cursor | 🆕 |
+| [archcore-ai/archcore](https://github.com/archcore-ai/archcore) | 64 | Shell | Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project c | 🆕 |
+| [seoes/proval](https://github.com/seoes/proval) | 91 | TypeScript | Self-Hosted LLM Code Review Agent for GitLab, Forgejo and GitHub. Local LLM support | 🆕 |
+| [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) | 31,674 | Python | Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Pyt | 🆕 |
 | [abnegate/magents](https://github.com/abnegate/magents) | 5 | Rust | Shared session bus for Claude Code, Codex, and Cursor | 🆕 |
 | [Atomburstofficial/geiger](https://github.com/Atomburstofficial/geiger) | 147 | JavaScript | A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extensio | 🆕 |
 | [proflead/codex-skills-library](https://github.com/proflead/codex-skills-library) | 147 | - | Codex Skills Library is a curated library of reusable Codex skills for developers, individuals, and teams. | 🆕 |
@@ -333,6 +338,7 @@
 | [clangen/musikcube](https://github.com/clangen/musikcube) | 4,784 | C++ | Cross-platform terminal-based music player & server | ⭐ [Pick](#-media-top-10) |
 | [dweymouth/supersonic](https://github.com/dweymouth/supersonic) | 2,210 | Go | Lightweight cross-platform desktop client for music servers | |
 
+| [team-spotube/spotube](https://github.com/team-spotube/spotube) | 49,453 | Dart | 🎧 Open source music streaming app! Available for both desktop & mobile! | 🆕 |
 | [FabianZettl/Neiro](https://github.com/FabianZettl/Neiro) | 4 | Kotlin | Android music streaming app for OpenSubsonic/Navidrome — dynamic album-art theming, Last.fm integration, liquid-glass mi | 🆕 |
 | [samyyy2311/CassetteCat-Desktop](https://github.com/samyyy2311/CassetteCat-Desktop) | 3 | QML | A local-first desktop music player built with Qt6, QML, and CMake. | 🆕 |
 | [7eventy7/discodrome](https://github.com/7eventy7/discodrome) | 79 | Python | A powerful Discord bot that streams music from your personal SubSonic server. | 🆕 |
@@ -818,6 +824,8 @@
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | ~95k | — | SaaS, PaaS, IaaS free tiers for devs/devops |
 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | ~85k | JavaScript | 24-lesson web development curriculum |
 
+| [HouseofLoops/headwater](https://github.com/HouseofLoops/headwater) | 65 | Python | One self-hosted API for Google Maps, News, Trends and Autocomplete, plus YouTube transcripts. Normalised JSON, no per-ca | 🆕 |
+| [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | 44,981 | TypeScript | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1,  | 🆕 |
 | [romancitodev/cargo-pretty](https://github.com/romancitodev/cargo-pretty) | 286 | Rust | A cargo build wrapper with a live, animated status view | 🆕 |
 | [coder/ghostty-web](https://github.com/coder/ghostty-web) | 2,881 | TypeScript | Ghostty for the web with xterm.js API compatibility | 🆕 |
 | [tareqimbasher/cargo-seek](https://github.com/tareqimbasher/cargo-seek) | 200 | Rust | A terminal user interface for searching, adding and installing cargo crates. | 🆕 |
@@ -1314,6 +1322,7 @@
 | [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) | 2,747 | C# | Organize the Windows taskbar through groups |
 | [lukeyou05/tacky-borders](https://github.com/lukeyou05/tacky-borders) | 504 | Rust | Customizable borders for Windows 11/10 |
 
+| [bostrot/wslmanager](https://github.com/bostrot/wslmanager) | 4,007 | Dart | GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distro | 🆕 |
 | [raiyyan729-cloud/llmfit-gui](https://github.com/raiyyan729-cloud/llmfit-gui) | 6 | PowerShell | Windows GUI for llmfit — find, download, and benchmark local LLMs that fit your hardware | 🆕 |
 | [kts982/wintui](https://github.com/kts982/wintui) | 37 | Go | Go TUI frontend for winget (Windows Package Manager) — built with Bubble Tea, Bubbles, and Lip Gloss | 🆕 |
 | [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) | 3,997 | Dart | GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distro | 🆕 |
