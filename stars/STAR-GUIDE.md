@@ -89,6 +89,7 @@
 | [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) | 4,959 | — | WireGuard + Pi-hole + Unbound in docker-compose | ⭐ [Pick](#-homelab-top-10) 🔧 [Reverse Proxy](#-reverse-proxy) |
 | [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) | 3,680 | Dockerfile | Nginx reverse proxy + Certbot + fail2ban | 🔧 [Reverse Proxy](#-reverse-proxy) |
 
+| [logshed/logshed](https://github.com/logshed/logshed) | 4 | Python | A lightweight, self-hosted homelab log aggregator and syslog server featuring real-time streaming, fast SQLite FTS5 sear | 🆕 |
 | [BenHornerTech/logshed](https://github.com/BenHornerTech/logshed) | 3 | Python | A lightweight, self-hosted homelab log aggregator and syslog server featuring real-time streaming, fast SQLite FTS5 sear | 🆕 |
 | [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) | 315 | Nix | A reverse proxy that exposes services on your tailnet (as their own tailscale participants) | 🆕 |
 | [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) | 1,687 | Go | Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS. | 🆕 |
@@ -136,6 +137,11 @@
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 46,427 | Python | AI pair programming in your terminal | |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 49,755 | Rust | Open source extensible AI agent — install, execute, edit, test | ⭐ [Pick](#-agentic-dev-top-10) |
 
+| [Leonxlnx/tastecode](https://github.com/Leonxlnx/tastecode) | 307 | TypeScript | Personal Harness - a beautiful, adaptive control panel for AI coding agents. Windows-first, design-agent powered. | 🆕 |
+| [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | 2,150 | JavaScript | Orkas is an open-source, local-first AI desktop app: a commander LLM directs specialist sub-agents, and runs your instal | 🆕 |
+| [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) | 3,036 | - | List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, | 🆕 |
+| [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) | 8,362 | TypeScript | an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on y | 🆕 |
+| [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) | 73,819 | Python | Open Data Platform for analysts, quants and AI agents. | 🆕 |
 | [noamsto/dispatcher](https://github.com/noamsto/dispatcher) | 2 | Shell | Run a crew of coding agents like a team, not a thread — worktree and tmux orchestration across Claude, Codex, and Cursor | 🆕 |
 | [archcore-ai/archcore](https://github.com/archcore-ai/archcore) | 64 | Shell | Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project c | 🆕 |
 | [seoes/proval](https://github.com/seoes/proval) | 91 | TypeScript | Self-Hosted LLM Code Review Agent for GitLab, Forgejo and GitHub. Local LLM support | 🆕 |
@@ -902,6 +908,7 @@
 |------|-----|------|-------------|
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ~58k | Rust | GPU-accelerated cross-platform terminal emulator |
 
+| [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) | 877 | Go | Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync | 🆕 |
 | [Run1e/pi-agent.nvim](https://github.com/Run1e/pi-agent.nvim) | 22 | Lua | Pragmatic nvim + pi agent integration | 🆕 |
 | [psmux/Tmux-Plugin-Panel](https://github.com/psmux/Tmux-Plugin-Panel) | 84 | Rust | A full-fledged TUI plugin manager for tmux — the modern alternative to TPM. Browse, install, remove, update plugins and  | 🆕 |
 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | 300 | Go | TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that  | 🆕 |

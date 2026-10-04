@@ -237,3 +237,18 @@
 - [Xia-Ataraxia/obsidian-metadata-auto-classifier](https://github.com/Xia-Ataraxia/obsidian-metadata-auto-classifier) — ⭐57 (TypeScript) Obsidian plugin that uses AI providers to generate tags and frontmatter metadata for your notes.
 - [TheRealChickenlegs/WhatsNewDock](https://github.com/TheRealChickenlegs/WhatsNewDock) — ⭐4 (Go) Self-hosted Docker update monitor that shows you the changelog before you update.
 - [igorinvest/mango](https://github.com/igorinvest/mango) — ⭐2 (-) Stream local videos to your Chromecast TV
+
+## 🆕 New Stars — 2026-10-04 04:14 UTC
+
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) — ⭐31,917 (Go) Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-m
+- [oraios/serena](https://github.com/oraios/serena) — ⭐29,967 (Python) A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) — ⭐28,477 (Go) Glamourous agentic coding for all 💘
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) — ⭐6,062 (C#) Sudo for Windows
+- [get-bb/bb](https://github.com/get-bb/bb) — ⭐4,102 (TypeScript) The agent IDE that builds itself
+- [devdotfast/whiteboard](https://github.com/devdotfast/whiteboard) — ⭐2,659 (TypeScript) open-source canvas for thoughtful software design
+- [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) — ⭐1,344 (Go) Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your histories into reusable skil
+- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) — ⭐899 (JavaScript) Powerful note-taking without the hassle.
+- [tarwin/tinyjsapp](https://github.com/tarwin/tinyjsapp) — ⭐645 (C) Build native apps in JS. Backend, frontend. ~5Mb.
+- [kappa90/dinobase](https://github.com/kappa90/dinobase) — ⭐263 (Python) The agent-first database
+- [jm2/tributary](https://github.com/jm2/tributary) — ⭐147 (Rust) Tributary is a high-performance, Rhythmbox-style media manager written in pure Rust with GTK4 and libadwaita.
+- [ACoci86/terrahour](https://github.com/ACoci86/terrahour) — ⭐104 (Python) A world clock for the terminal, with a day and night map and a 24-hour timeline to find a time that works across time zo

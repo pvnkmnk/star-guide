@@ -1,8 +1,8 @@
 # 🏷️ Categorization Suggestions
 
 > Auto-generated suggestions for where new repos might fit in STAR-GUIDE.md.
-> Generated: 2026-09-27
-> 13 repos analyzed
+> Generated: 2026-10-04
+> 12 repos analyzed
 
 ## How to use
 
@@ -17,54 +17,58 @@ the matching section of STAR-GUIDE.md and remove it from NOT-CURATED.md.
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 16,051 | [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) | Rust | ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust | ⌨️ Terminal, CLI & Shell (4), 🤖 Agentic Dev Tools (1) |
-| 9,857 | [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) | Rust | rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. | ⌨️ Terminal, CLI & Shell (4), 📄 Docs & Blog (1) |
-| 8,904 | [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) | Visual Basic .NET | Reduce the space taken up by games and programs on disk by using native Windows APIs | 🪟 Windows (4), 🌐 Web & Frontend (1) |
-| 96 | [robert-dean/deadair](https://github.com/robert-dean/deadair) | TypeScript |  | — |
-| 62 | [rheeloaded/paperpull](https://github.com/rheeloaded/paperpull) | Python | Read-only tools that log in alongside you to download your own receipts and statements (Amazon, Amex | 🌐 Web & Frontend (1) |
+| 4,102 | [get-bb/bb](https://github.com/get-bb/bb) | TypeScript | The agent IDE that builds itself | 🤖 Agentic Dev Tools (1), 🌐 Web & Frontend (1) |
+| 2,659 | [devdotfast/whiteboard](https://github.com/devdotfast/whiteboard) | TypeScript | open-source canvas for thoughtful software design | 📝 Knowledge Management & PKM (1), 🌐 Web & Frontend (1) |
+| 147 | [jm2/tributary](https://github.com/jm2/tributary) | Rust | Tributary is a high-performance, Rhythmbox-style media manager written in pure Rust with GTK4 and li | 🎵 Self-Hosted Media (1) |
+| 104 | [ACoci86/terrahour](https://github.com/ACoci86/terrahour) | Python | A world clock for the terminal, with a day and night map and a 24-hour timeline to find a time that  | ⌨️ Terminal, CLI & Shell (4) |
 
-## 📡 Homelab Infrastructure
-
-| Stars | Repo | Lang | Description | Also consider |
-|------:|------|------|-------------|---------------|
-| 99 | [dopbase/dopbase](https://github.com/dopbase/dopbase) | Rust | DevOps secrets base: lightweight, self-hosted secrets manager in a single file | 💻 Dev Tools & Languages (4), 🔒 Security & Authentication (1) |
-| 4 | [TheRealChickenlegs/WhatsNewDock](https://github.com/TheRealChickenlegs/WhatsNewDock) | Go | Self-hosted Docker update monitor that shows you the changelog before you update. | 🐳 Docker & Container Management (4) |
-
-## ⌨️ Terminal, CLI & Shell
+## 🧠 AI / LLM Tools
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 26,597 | [typesense/typesense](https://github.com/typesense/typesense) | C++ | Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍  | 🌐 Web & Frontend (2), 📡 Homelab Infrastructure (1) |
-
-## ⌨️ Terminal, CLI & Shell
-
-| Stars | Repo | Lang | Description | Also consider |
-|------:|------|------|-------------|---------------|
-| 17,770 | [pallets/click](https://github.com/pallets/click) | Python | Python composable command line interface toolkit | 💻 Dev Tools & Languages (5), 🌐 Web & Frontend (1) |
-
-## 🤖 Agentic Dev Tools
-
-| Stars | Repo | Lang | Description | Also consider |
-|------:|------|------|-------------|---------------|
-| 4,276 | [Tarquinen/opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning) | TypeScript | Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize | 💻 Dev Tools & Languages (4) |
+| 31,917 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Go | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning | 📝 Knowledge Management & PKM (9), 🤖 Agentic Dev Tools (3) |
 
 ## 💻 Dev Tools & Languages
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 63 | [useindelible/indelible](https://github.com/useindelible/indelible) | Rust | Open-source knowledge library for saving, reading, searching, and connecting articles, books, emails | 📝 Knowledge Management & PKM (4), 🎵 Self-Hosted Media (2) |
+| 29,967 | [oraios/serena](https://github.com/oraios/serena) | Python | A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE  | 🤖 Agentic Dev Tools (4), 🌐 Web & Frontend (2) |
 
-## 📝 Knowledge Management & PKM
-
-| Stars | Repo | Lang | Description | Also consider |
-|------:|------|------|-------------|---------------|
-| 57 | [Xia-Ataraxia/obsidian-metadata-auto-classifier](https://github.com/Xia-Ataraxia/obsidian-metadata-auto-classifier) | TypeScript | Obsidian plugin that uses AI providers to generate tags and frontmatter metadata for your notes. | 💻 Dev Tools & Languages (4), 🤖 Agentic Dev Tools (2) |
-
-## 🎵 Self-Hosted Media
+## 🤖 Agentic Dev Tools
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 2 | [igorinvest/mango](https://github.com/igorinvest/mango) | - | Stream local videos to your Chromecast TV | — |
+| 28,477 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | Go | Glamourous agentic coding for all 💘 | 📡 Homelab Infrastructure (1), 🎵 Self-Hosted Media (1) |
+
+## 🪟 Windows
+
+| Stars | Repo | Lang | Description | Also consider |
+|------:|------|------|-------------|---------------|
+| 6,062 | [gerardog/gsudo](https://github.com/gerardog/gsudo) | C# | Sudo for Windows | — |
+
+## ⌨️ Terminal, CLI & Shell
+
+| Stars | Repo | Lang | Description | Also consider |
+|------:|------|------|-------------|---------------|
+| 1,344 | [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) | Go | Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your historie | 🤖 Agentic Dev Tools (3), 🧠 AI / LLM Tools (1) |
+
+## 💻 Dev Tools & Languages
+
+| Stars | Repo | Lang | Description | Also consider |
+|------:|------|------|-------------|---------------|
+| 899 | [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) | JavaScript | Powerful note-taking without the hassle. | 📝 Knowledge Management & PKM (4) |
+
+## 🌐 Web & Frontend
+
+| Stars | Repo | Lang | Description | Also consider |
+|------:|------|------|-------------|---------------|
+| 645 | [tarwin/tinyjsapp](https://github.com/tarwin/tinyjsapp) | C | Build native apps in JS. Backend, frontend. ~5Mb. | 📱 Mobile (4) |
+
+## 🗄️ Databases & Storage
+
+| Stars | Repo | Lang | Description | Also consider |
+|------:|------|------|-------------|---------------|
+| 263 | [kappa90/dinobase](https://github.com/kappa90/dinobase) | Python | The agent-first database | 💻 Dev Tools & Languages (4) |
 
 ---
-*Generated by `scripts/update_stars.py` · 2026-09-27*
+*Generated by `scripts/update_stars.py` · 2026-10-04*
