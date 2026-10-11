@@ -344,6 +344,7 @@
 | [clangen/musikcube](https://github.com/clangen/musikcube) | 4,784 | C++ | Cross-platform terminal-based music player & server | ⭐ [Pick](#-media-top-10) |
 | [dweymouth/supersonic](https://github.com/dweymouth/supersonic) | 2,210 | Go | Lightweight cross-platform desktop client for music servers | |
 
+| [norifm/alacarte](https://github.com/norifm/alacarte) | 118 | JavaScript | self-hosted Apple Music downloader with a polished web UI, Apple Music Library display, ALAC-to-FLAC conversion, live qu | 🆕 |
 | [team-spotube/spotube](https://github.com/team-spotube/spotube) | 49,453 | Dart | 🎧 Open source music streaming app! Available for both desktop & mobile! | 🆕 |
 | [FabianZettl/Neiro](https://github.com/FabianZettl/Neiro) | 4 | Kotlin | Android music streaming app for OpenSubsonic/Navidrome — dynamic album-art theming, Last.fm integration, liquid-glass mi | 🆕 |
 | [samyyy2311/CassetteCat-Desktop](https://github.com/samyyy2311/CassetteCat-Desktop) | 3 | QML | A local-first desktop music player built with Qt6, QML, and CMake. | 🆕 |
@@ -830,6 +831,7 @@
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | ~95k | — | SaaS, PaaS, IaaS free tiers for devs/devops |
 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | ~85k | JavaScript | 24-lesson web development curriculum |
 
+| [microsoft/apm](https://github.com/microsoft/apm) | 3,994 | Python | Agent Package Manager | 🆕 |
 | [HouseofLoops/headwater](https://github.com/HouseofLoops/headwater) | 65 | Python | One self-hosted API for Google Maps, News, Trends and Autocomplete, plus YouTube transcripts. Normalised JSON, no per-ca | 🆕 |
 | [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | 44,981 | TypeScript | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1,  | 🆕 |
 | [romancitodev/cargo-pretty](https://github.com/romancitodev/cargo-pretty) | 286 | Rust | A cargo build wrapper with a live, animated status view | 🆕 |
@@ -1277,6 +1279,7 @@
 | [OminousIndustries/PhoneDriver](https://github.com/OminousIndustries/PhoneDriver) | 1,513 | Python | Android phone control with Qwen3-VL |
 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | 5,658 | JavaScript | Powerful text/code editor for Android |
 
+| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 151,792 | C | Display and control your Android device | 🆕 |
 | [FabianZettl/NeiroDesktop](https://github.com/FabianZettl/NeiroDesktop) | 4 | Kotlin | Desktop music client for OpenSubsonic/Navidrome — Compose Multiplatform companion to the Neiro Android app. Dynamic them | 🆕 |
 | [imjyotiraditya/dmt](https://github.com/imjyotiraditya/dmt) | 146 | Kotlin | a tui-inspired local music player for android. dear music, thanks. | 🆕 |
 | [dungngminh/simutil](https://github.com/dungngminh/simutil) | 1,131 | Dart | It's not just a cross-platform TUI app that quickly opens Android & iOS emulators/simulators  | 🆕 |

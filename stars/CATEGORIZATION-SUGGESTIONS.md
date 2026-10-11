@@ -1,8 +1,8 @@
 # 🏷️ Categorization Suggestions
 
 > Auto-generated suggestions for where new repos might fit in STAR-GUIDE.md.
-> Generated: 2026-10-04
-> 12 repos analyzed
+> Generated: 2026-10-11
+> 11 repos analyzed
 
 ## How to use
 
@@ -17,58 +17,42 @@ the matching section of STAR-GUIDE.md and remove it from NOT-CURATED.md.
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 4,102 | [get-bb/bb](https://github.com/get-bb/bb) | TypeScript | The agent IDE that builds itself | 🤖 Agentic Dev Tools (1), 🌐 Web & Frontend (1) |
-| 2,659 | [devdotfast/whiteboard](https://github.com/devdotfast/whiteboard) | TypeScript | open-source canvas for thoughtful software design | 📝 Knowledge Management & PKM (1), 🌐 Web & Frontend (1) |
-| 147 | [jm2/tributary](https://github.com/jm2/tributary) | Rust | Tributary is a high-performance, Rhythmbox-style media manager written in pure Rust with GTK4 and li | 🎵 Self-Hosted Media (1) |
-| 104 | [ACoci86/terrahour](https://github.com/ACoci86/terrahour) | Python | A world clock for the terminal, with a day and night map and a 24-hour timeline to find a time that  | ⌨️ Terminal, CLI & Shell (4) |
+| 8,804 | [storytold/filmcraft](https://github.com/storytold/filmcraft) | Rust | An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust. | 📝 Knowledge Management & PKM (1), 🌐 Web & Frontend (1) |
+| 3,451 | [matthart1983/netwatch](https://github.com/matthart1983/netwatch) | Rust | Real-time network diagnostics in your terminal. One command, zero config, instant visibility. | ⌨️ Terminal, CLI & Shell (4), 📡 Homelab Infrastructure (1) |
+| 3,148 | [omnirush-ai/omnirush-gui](https://github.com/omnirush-ai/omnirush-gui) | TypeScript | A desktop coding agent with free access to frontier models. | 🤖 Agentic Dev Tools (2), 🧠 AI / LLM Tools (1) |
+| 554 | [segfltt/cmd-chat](https://github.com/segfltt/cmd-chat) | Python | My ISP tried to block this repo. 🤐  A truly peer-to-peer, end-to-end encrypted CLI chat that leaves  | ⌨️ Terminal, CLI & Shell (4), 💬 Chat & Messaging (4) |
+| 458 | [BillionsBobby/JevRouter](https://github.com/BillionsBobby/JevRouter) | TypeScript | A lightweight Jev-powered router for models, tools, and subagents | 📡 Homelab Infrastructure (1), 🤖 Agentic Dev Tools (1) |
 
-## 🧠 AI / LLM Tools
+## 📡 Homelab Infrastructure
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 31,917 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Go | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning | 📝 Knowledge Management & PKM (9), 🤖 Agentic Dev Tools (3) |
+| 5,381 | [denoland/celld](https://github.com/denoland/celld) | Rust | self-hosted, distributed Durable Objects | 💻 Dev Tools & Languages (4) |
+| 16 | [rafid-dev/taillaunch](https://github.com/rafid-dev/taillaunch) | Go | A lightweight browser wrapper for private Tailscale apps — no full VPN client, no system-wide networ | 📱 Mobile (4), 🔒 Security & Authentication (1) |
 
 ## 💻 Dev Tools & Languages
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 29,967 | [oraios/serena](https://github.com/oraios/serena) | Python | A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE  | 🤖 Agentic Dev Tools (4), 🌐 Web & Frontend (2) |
+| 76,092 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. | 📱 Mobile (7), 🤖 Agentic Dev Tools (4) |
 
-## 🤖 Agentic Dev Tools
-
-| Stars | Repo | Lang | Description | Also consider |
-|------:|------|------|-------------|---------------|
-| 28,477 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | Go | Glamourous agentic coding for all 💘 | 📡 Homelab Infrastructure (1), 🎵 Self-Hosted Media (1) |
-
-## 🪟 Windows
+## 📡 Homelab Infrastructure
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 6,062 | [gerardog/gsudo](https://github.com/gerardog/gsudo) | C# | Sudo for Windows | — |
+| 31,941 | [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) | TypeScript | Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot  | 💻 Dev Tools & Languages (5), 🌐 Web & Frontend (2) |
 
-## ⌨️ Terminal, CLI & Shell
-
-| Stars | Repo | Lang | Description | Also consider |
-|------:|------|------|-------------|---------------|
-| 1,344 | [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) | Go | Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your historie | 🤖 Agentic Dev Tools (3), 🧠 AI / LLM Tools (1) |
-
-## 💻 Dev Tools & Languages
+## 🎵 Self-Hosted Media
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 899 | [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) | JavaScript | Powerful note-taking without the hassle. | 📝 Knowledge Management & PKM (4) |
-
-## 🌐 Web & Frontend
-
-| Stars | Repo | Lang | Description | Also consider |
-|------:|------|------|-------------|---------------|
-| 645 | [tarwin/tinyjsapp](https://github.com/tarwin/tinyjsapp) | C | Build native apps in JS. Backend, frontend. ~5Mb. | 📱 Mobile (4) |
+| 2,266 | [andremichelle/openDAW](https://github.com/andremichelle/openDAW) | TypeScript | openDAW is a next-generation web-based Digital Audio Workstation (DAW) | 💻 Dev Tools & Languages (4), 🌐 Web & Frontend (1) |
 
 ## 🗄️ Databases & Storage
 
 | Stars | Repo | Lang | Description | Also consider |
 |------:|------|------|-------------|---------------|
-| 263 | [kappa90/dinobase](https://github.com/kappa90/dinobase) | Python | The agent-first database | 💻 Dev Tools & Languages (4) |
+| 96 | [GoogleCloudPlatform/postgres-plugin](https://github.com/GoogleCloudPlatform/postgres-plugin) | - |  | — |
 
 ---
-*Generated by `scripts/update_stars.py` · 2026-10-04*
+*Generated by `scripts/update_stars.py` · 2026-10-11*

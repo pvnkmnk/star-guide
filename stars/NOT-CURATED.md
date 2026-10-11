@@ -252,3 +252,17 @@
 - [kappa90/dinobase](https://github.com/kappa90/dinobase) — ⭐263 (Python) The agent-first database
 - [jm2/tributary](https://github.com/jm2/tributary) — ⭐147 (Rust) Tributary is a high-performance, Rhythmbox-style media manager written in pure Rust with GTK4 and libadwaita.
 - [ACoci86/terrahour](https://github.com/ACoci86/terrahour) — ⭐104 (Python) A world clock for the terminal, with a day and night map and a 24-hour timeline to find a time that works across time zo
+
+## 🆕 New Stars — 2026-10-11 03:54 UTC
+
+- [morluto/rea](https://github.com/morluto/rea) — ⭐76,092 (TypeScript) Reverse engineer anything with agents, from app behavior down to native binaries.
+- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) — ⭐31,941 (TypeScript) Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) — ⭐8,804 (Rust) An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.
+- [denoland/celld](https://github.com/denoland/celld) — ⭐5,381 (Rust) self-hosted, distributed Durable Objects
+- [matthart1983/netwatch](https://github.com/matthart1983/netwatch) — ⭐3,451 (Rust) Real-time network diagnostics in your terminal. One command, zero config, instant visibility.
+- [omnirush-ai/omnirush-gui](https://github.com/omnirush-ai/omnirush-gui) — ⭐3,148 (TypeScript) A desktop coding agent with free access to frontier models.
+- [andremichelle/openDAW](https://github.com/andremichelle/openDAW) — ⭐2,266 (TypeScript) openDAW is a next-generation web-based Digital Audio Workstation (DAW)
+- [segfltt/cmd-chat](https://github.com/segfltt/cmd-chat) — ⭐554 (Python) My ISP tried to block this repo. 🤐  A truly peer-to-peer, end-to-end encrypted CLI chat that leaves NO logs. Perfect for
+- [BillionsBobby/JevRouter](https://github.com/BillionsBobby/JevRouter) — ⭐458 (TypeScript) A lightweight Jev-powered router for models, tools, and subagents
+- [GoogleCloudPlatform/postgres-plugin](https://github.com/GoogleCloudPlatform/postgres-plugin) — ⭐96 (-) 
+- [rafid-dev/taillaunch](https://github.com/rafid-dev/taillaunch) — ⭐16 (Go) A lightweight browser wrapper for private Tailscale apps — no full VPN client, no system-wide networking.
