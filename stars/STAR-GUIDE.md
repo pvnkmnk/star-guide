@@ -89,6 +89,7 @@
 | [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) | 4,959 | — | WireGuard + Pi-hole + Unbound in docker-compose | ⭐ [Pick](#-homelab-top-10) 🔧 [Reverse Proxy](#-reverse-proxy) |
 | [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) | 3,680 | Dockerfile | Nginx reverse proxy + Certbot + fail2ban | 🔧 [Reverse Proxy](#-reverse-proxy) |
 
+| [rcourtman/Pulse](https://github.com/rcourtman/Pulse) | 6,872 | Go | Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart ale | 🆕 |
 | [logshed/logshed](https://github.com/logshed/logshed) | 4 | Python | A lightweight, self-hosted homelab log aggregator and syslog server featuring real-time streaming, fast SQLite FTS5 sear | 🆕 |
 | [BenHornerTech/logshed](https://github.com/BenHornerTech/logshed) | 3 | Python | A lightweight, self-hosted homelab log aggregator and syslog server featuring real-time streaming, fast SQLite FTS5 sear | 🆕 |
 | [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) | 315 | Nix | A reverse proxy that exposes services on your tailnet (as their own tailscale participants) | 🆕 |
@@ -137,6 +138,11 @@
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 46,427 | Python | AI pair programming in your terminal | |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 49,755 | Rust | Open source extensible AI agent — install, execute, edit, test | ⭐ [Pick](#-agentic-dev-top-10) |
 
+| [ethanhamilthon/jin](https://github.com/ethanhamilthon/jin) | 11 | Go | Stable, Simple and Fast AI Agent, Use it with any API | 🆕 |
+| [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) | 53 | Go | A GitHub CLI extension that seamlessly runs the github-mcp-server using your existing gh authentication. Eliminates manu | 🆕 |
+| [yotsuda/PowerShell.MCP](https://github.com/yotsuda/PowerShell.MCP) | 104 | C# | The universal MCP server for Claude Code and other MCP-compatible clients. One installation gives AI access to 10,000+ P | 🆕 |
+| [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | 261 | Rust | Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client. | 🆕 |
+| [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 47,446 | Python | Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and know | 🆕 |
 | [Leonxlnx/tastecode](https://github.com/Leonxlnx/tastecode) | 307 | TypeScript | Personal Harness - a beautiful, adaptive control panel for AI coding agents. Windows-first, design-agent powered. | 🆕 |
 | [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | 2,150 | JavaScript | Orkas is an open-source, local-first AI desktop app: a commander LLM directs specialist sub-agents, and runs your instal | 🆕 |
 | [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) | 3,036 | - | List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, | 🆕 |
@@ -344,6 +350,7 @@
 | [clangen/musikcube](https://github.com/clangen/musikcube) | 4,784 | C++ | Cross-platform terminal-based music player & server | ⭐ [Pick](#-media-top-10) |
 | [dweymouth/supersonic](https://github.com/dweymouth/supersonic) | 2,210 | Go | Lightweight cross-platform desktop client for music servers | |
 
+| [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) | 1,936 | Rust | Your next music player | 🆕 |
 | [norifm/alacarte](https://github.com/norifm/alacarte) | 118 | JavaScript | self-hosted Apple Music downloader with a polished web UI, Apple Music Library display, ALAC-to-FLAC conversion, live qu | 🆕 |
 | [team-spotube/spotube](https://github.com/team-spotube/spotube) | 49,453 | Dart | 🎧 Open source music streaming app! Available for both desktop & mobile! | 🆕 |
 | [FabianZettl/Neiro](https://github.com/FabianZettl/Neiro) | 4 | Kotlin | Android music streaming app for OpenSubsonic/Navidrome — dynamic album-art theming, Last.fm integration, liquid-glass mi | 🆕 |
@@ -533,6 +540,7 @@
 | [adavesik/compoviz](https://github.com/adavesik/compoviz) | 75 | JavaScript | Docker infrastructure from static YAML to dynamic architecture | |
 | [0xN1nja/homepagectl](https://github.com/0xN1nja/homepagectl) | 198 | Go | Generate gethomepage.dev configs from running Docker containers | |
 
+| [allisonhere/whatthedock](https://github.com/allisonhere/whatthedock) | 15 | Go | TUI Docker manager, most features of Portainer plus some... | 🆕 |
 | [nestybox/sysbox](https://github.com/nestybox/sysbox) | 3,833 | Shell | An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kuber | 🆕 |
 | [abiosoft/colima](https://github.com/abiosoft/colima) | 30,476 | Go | Container runtimes on macOS (and Linux) with minimal setup | 🆕 |
 | [mhackermsft/wslcontainerdesktop](https://github.com/mhackermsft/wslcontainerdesktop) | 24 | C# | A WinUI 3 desktop app for managing WSL containers, Kubernetes (k3s), and container registries — community project, not a | 🆕 |
@@ -831,6 +839,9 @@
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | ~95k | — | SaaS, PaaS, IaaS free tiers for devs/devops |
 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | ~85k | JavaScript | 24-lesson web development curriculum |
 
+| [breferrari/shardmind](https://github.com/breferrari/shardmind) | 39 | TypeScript | Package manager for Obsidian vault templates | 🆕 |
+| [Badgerati/Pode](https://github.com/Badgerati/Pode) | 1,067 | PowerShell | Pode is a Cross-Platform PowerShell web framework for creating REST APIs, Web Sites, and TCP/SMTP servers | 🆕 |
+| [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) | 2,443 | Go | High-performance, low-latency note synchronization, online management, and remote REST API service platform. | 🆕 |
 | [microsoft/apm](https://github.com/microsoft/apm) | 3,994 | Python | Agent Package Manager | 🆕 |
 | [HouseofLoops/headwater](https://github.com/HouseofLoops/headwater) | 65 | Python | One self-hosted API for Google Maps, News, Trends and Autocomplete, plus YouTube transcripts. Normalised JSON, no per-ca | 🆕 |
 | [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | 44,981 | TypeScript | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1,  | 🆕 |
@@ -910,6 +921,9 @@
 |------|-----|------|-------------|
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ~58k | Rust | GPU-accelerated cross-platform terminal emulator |
 
+| [yotsuda/ripple](https://github.com/yotsuda/ripple) | 22 | C# | Shared console MCP server for any shell (bash, pwsh, cmd) — AI and user work in the same terminal. Real-time command vis | 🆕 |
+| [TimInTech/proxmox-manager](https://github.com/TimInTech/proxmox-manager) | 87 | Shell | Proxmox VM/CT Management Tool – A robust Bash TUI for managing Proxmox virtual machines and containers. Features include | 🆕 |
+| [GitHubSecurityLab/gh-secure](https://github.com/GitHubSecurityLab/gh-secure) | 660 | Shell | A GitHub CLI extension to enable security features on repositories following best practices from GitHub Security Lab. | 🆕 |
 | [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) | 877 | Go | Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync | 🆕 |
 | [Run1e/pi-agent.nvim](https://github.com/Run1e/pi-agent.nvim) | 22 | Lua | Pragmatic nvim + pi agent integration | 🆕 |
 | [psmux/Tmux-Plugin-Panel](https://github.com/psmux/Tmux-Plugin-Panel) | 84 | Rust | A full-fledged TUI plugin manager for tmux — the modern alternative to TPM. Browse, install, remove, update plugins and  | 🆕 |
@@ -1135,6 +1149,7 @@
 | [mui/mui-x](https://github.com/mui/mui-x) | 5,740 | TypeScript | Build complex data-rich apps with advanced React components |
 | [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) | 1,942 | TypeScript | Extract any website's design system into tokens in seconds |
 
+| [EvotecIT/HtmlTinkerX](https://github.com/EvotecIT/HtmlTinkerX) | 140 | HTML | HtmlTinkerX is a powerful async C# library for HTML, CSS, and JS processing, parsing, formatting, and optimization. It p | 🆕 |
 | [iewnfod/lumina-terminal](https://github.com/iewnfod/lumina-terminal) | 11 | TypeScript | A modern, cross-platform terminal emulator built with Tauri, React, and Xterm.js — featuring a sleek UI, command palette | 🆕 |
 | [Psysonic/psysonic](https://github.com/Psysonic/psysonic) | 404 | TypeScript | A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the future with Tauri & Rea | 🆕 |
 | [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) | 2,241 | TypeScript | 🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js, Astro, T | 🆕 |
@@ -1279,6 +1294,8 @@
 | [OminousIndustries/PhoneDriver](https://github.com/OminousIndustries/PhoneDriver) | 1,513 | Python | Android phone control with Qwen3-VL |
 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | 5,658 | JavaScript | Powerful text/code editor for Android |
 
+| [jhaiian/ClintGecko](https://github.com/jhaiian/ClintGecko) | 116 | Kotlin | Android Firefox-based browser with ADM, media capture, and extensions | 🆕 |
+| [xtool-org/xtool](https://github.com/xtool-org/xtool) | 12,345 | Swift | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. | 🆕 |
 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 151,792 | C | Display and control your Android device | 🆕 |
 | [FabianZettl/NeiroDesktop](https://github.com/FabianZettl/NeiroDesktop) | 4 | Kotlin | Desktop music client for OpenSubsonic/Navidrome — Compose Multiplatform companion to the Neiro Android app. Dynamic them | 🆕 |
 | [imjyotiraditya/dmt](https://github.com/imjyotiraditya/dmt) | 146 | Kotlin | a tui-inspired local music player for android. dear music, thanks. | 🆕 |
@@ -1332,6 +1349,10 @@
 | [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) | 2,747 | C# | Organize the Windows taskbar through groups |
 | [lukeyou05/tacky-borders](https://github.com/lukeyou05/tacky-borders) | 504 | Rust | Customizable borders for Windows 11/10 |
 
+| [olmos-cmd/Media-Backup-Manager-for-immich](https://github.com/olmos-cmd/Media-Backup-Manager-for-immich) | 2 | Rust | Free and open-source Windows desktop app for downloading original Immich photos and videos by album or year, licensed un | 🆕 |
+| [MarkusMcNugen/PSWriteColorEX](https://github.com/MarkusMcNugen/PSWriteColorEX) | 2 | PowerShell | Advanced PowerShell module for enhanced colored console output with TrueColor (24-bit RGB) support, automatic terminal d | 🆕 |
+| [joshuaevan/powershell-dev-toolkit](https://github.com/joshuaevan/powershell-dev-toolkit) | 6 | PowerShell | A collection of PowerShell productivity scripts for Windows developers.  Streamline your workflow with SSH tunneling, pr | 🆕 |
+| [Sleepw4lker/PSCertificateEnrollment](https://github.com/Sleepw4lker/PSCertificateEnrollment) | 69 | PowerShell | PowerShell Module to ease requesting certificates on Windows | 🆕 |
 | [bostrot/wslmanager](https://github.com/bostrot/wslmanager) | 4,007 | Dart | GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distro | 🆕 |
 | [raiyyan729-cloud/llmfit-gui](https://github.com/raiyyan729-cloud/llmfit-gui) | 6 | PowerShell | Windows GUI for llmfit — find, download, and benchmark local LLMs that fit your hardware | 🆕 |
 | [kts982/wintui](https://github.com/kts982/wintui) | 37 | Go | Go TUI frontend for winget (Windows Package Manager) — built with Bubble Tea, Bubbles, and Lip Gloss | 🆕 |

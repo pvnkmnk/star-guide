@@ -266,3 +266,43 @@
 - [BillionsBobby/JevRouter](https://github.com/BillionsBobby/JevRouter) — ⭐458 (TypeScript) A lightweight Jev-powered router for models, tools, and subagents
 - [GoogleCloudPlatform/postgres-plugin](https://github.com/GoogleCloudPlatform/postgres-plugin) — ⭐96 (-) 
 - [rafid-dev/taillaunch](https://github.com/rafid-dev/taillaunch) — ⭐16 (Go) A lightweight browser wrapper for private Tailscale apps — no full VPN client, no system-wide networking.
+
+## 🆕 New Stars — 2026-10-18 02:58 UTC
+
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) — ⭐41,868 (C++) Tool for automatic PS5 executables porting to Linux and Windows
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) — ⭐29,844 (Shell) Proxmox VE Helper-Scripts (Community Edition) 
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) — ⭐15,578 (TypeScript) Self-hosted, plugin-based server management.
+- [theonedev/onedev](https://github.com/theonedev/onedev) — ⭐15,317 (Java) The Unified and Autonomous Development Platform
+- [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) — ⭐10,144 (C#) Technitium DNS Server
+- [TencentCloud/Octop](https://github.com/TencentCloud/Octop) — ⭐9,789 (Python) A smarter, self-hosted AI assistant — multi-user, multi-agent.
+- [webmin/webmin](https://github.com/webmin/webmin) — ⭐6,093 (HTML) Powerful and flexible web-based server management control panel
+- [github/gh-aw](https://github.com/github/gh-aw) — ⭐5,412 (Go) GitHub Agentic Workflows
+- [pester/Pester](https://github.com/pester/Pester) — ⭐3,362 (PowerShell) Pester is the ubiquitous test and mock framework for PowerShell.
+- [sergree/matchering](https://github.com/sergree/matchering) — ⭐2,662 (Python) 🎚️ Open Source Audio Matching and Mastering
+- [github/gh-stack](https://github.com/github/gh-stack) — ⭐1,690 (Go) GitHub Stacked PRs
+- [Mapika/decider](https://github.com/Mapika/decider) — ⭐1,157 (Python) A family of System One-style models fine-tuned from Qwen3.5, designed for one-pass typed decisions with calibrated proba
+- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) — ⭐1,022 (Go) ✨ Safely clean up your local branches
+- [dotnetfactory/fluid-calendar](https://github.com/dotnetfactory/fluid-calendar) — ⭐1,001 (TypeScript) 
+- [SimpleHomelab/Deployrr](https://github.com/SimpleHomelab/Deployrr) — ⭐851 (Shell) Deployrr automates Homelab setup using Docker and Docker Compose. Below you will find more information its features and 
+- [NB-Corp/gpt-with-taste](https://github.com/NB-Corp/gpt-with-taste) — ⭐352 (JavaScript) Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.
+- [YuukanOO/seelf](https://github.com/YuukanOO/seelf) — ⭐349 (Go) Lightweight self-hosted deployment platform written in Go
+- [context-dot-dev/sgrep](https://github.com/context-dot-dev/sgrep) — ⭐309 (Python) 
+- [Entelligence-AI/agentplay](https://github.com/Entelligence-AI/agentplay) — ⭐243 (Python) Replay your coding agent sessions as a map and a timeline
+- [EvotecIT/Mailozaurr](https://github.com/EvotecIT/Mailozaurr) — ⭐233 (C#) Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and probably some other ways to interact with Em
+- [fudan-generative-vision/Remory](https://github.com/fudan-generative-vision/Remory) — ⭐233 (Python) Remory: Learning Residual Memory for Context Compaction
+- [warreth/gPhotos2Immich](https://github.com/warreth/gPhotos2Immich) — ⭐198 (Go) Google photo albums (link) sync to Immich
+- [Remocn/remocn-studio](https://github.com/Remocn/remocn-studio) — ⭐195 (TypeScript) Agent-native video editor
+- [alex0ptr/once](https://github.com/alex0ptr/once) — ⭐179 (Go) Run a command once, reuse its output for a while.
+- [1105216375-alt/resimind](https://github.com/1105216375-alt/resimind) — ⭐177 (Python) Neuro-symbolic agents with verified memory. MCP math tools, an algebra repair Skill, and an open challenge. Verify solut
+- [stonith404/umpteenth](https://github.com/stonith404/umpteenth) — ⭐135 (Go) Self-hosted agent jobs that learn. Describe the task once, run it in a disposable sandbox and watch it turn into a scrip
+- [nektos/gh-act](https://github.com/nektos/gh-act) — ⭐114 (-) GitHub CLI Extension to run GitHub actions locally using nektos/act
+- [ironmansoftware/pscommander](https://github.com/ironmansoftware/pscommander) — ⭐82 (C#) Automate your desktop with PowerShell.
+- [man15h/holm](https://github.com/man15h/holm) — ⭐81 (JavaScript) A self-hosted dashboard for your team, family, or org — not just the admin.
+- [Nethera-io/nethera](https://github.com/Nethera-io/nethera) — ⭐47 (Go) Turn any computer into a cloud server in 5 minutes.
+- [austoonz/Convert](https://github.com/austoonz/Convert) — ⭐39 (PowerShell) Convert simplifies object conversions by exposing common requirements as PowerShell functions.
+- [ar3ac/lucius](https://github.com/ar3ac/lucius) — ⭐28 (HTML) Your personal gadget quartermaster. Create custom commands, trigger them with a tap from your phone, and watch your mach
+- [immerle/immerle](https://github.com/immerle/immerle) — ⭐26 (Go) Next-generation self-hosted music solution 🐦
+- [ctrl-alt-automate/PowerNetbox](https://github.com/ctrl-alt-automate/PowerNetbox) — ⭐22 (PowerShell) Powershell module for Netbox
+- [manu-p-1/PowerPlug](https://github.com/manu-p-1/PowerPlug) — ⭐6 (C#) 🔌 PowerPlug is a PowerShell Cmdlet library designed to streamline scripting and productivity
+- [eigenverft/Eigenverft.Manifested.Package](https://github.com/eigenverft/Eigenverft.Manifested.Package) — ⭐2 (PowerShell) Windows-focused PowerShell package-assignment engine for signed catalogs, verified multi-file artifacts, shared depots, 
+- [greenmtnsun/GitEasy](https://github.com/greenmtnsun/GitEasy) — ⭐1 (PowerShell) Git functions for DBAs
