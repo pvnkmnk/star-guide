@@ -138,6 +138,8 @@
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 46,427 | Python | AI pair programming in your terminal | |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 49,755 | Rust | Open source extensible AI agent — install, execute, edit, test | ⭐ [Pick](#-agentic-dev-top-10) |
 
+| [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | 64,909 | Python | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor C | 🆕 |
+| [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 80,802 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini | 🆕 |
 | [ethanhamilthon/jin](https://github.com/ethanhamilthon/jin) | 11 | Go | Stable, Simple and Fast AI Agent, Use it with any API | 🆕 |
 | [shuymn/gh-mcp](https://github.com/shuymn/gh-mcp) | 53 | Go | A GitHub CLI extension that seamlessly runs the github-mcp-server using your existing gh authentication. Eliminates manu | 🆕 |
 | [yotsuda/PowerShell.MCP](https://github.com/yotsuda/PowerShell.MCP) | 104 | C# | The universal MCP server for Claude Code and other MCP-compatible clients. One installation gives AI access to 10,000+ P | 🆕 |

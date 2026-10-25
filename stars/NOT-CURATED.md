@@ -306,3 +306,7 @@
 - [manu-p-1/PowerPlug](https://github.com/manu-p-1/PowerPlug) — ⭐6 (C#) 🔌 PowerPlug is a PowerShell Cmdlet library designed to streamline scripting and productivity
 - [eigenverft/Eigenverft.Manifested.Package](https://github.com/eigenverft/Eigenverft.Manifested.Package) — ⭐2 (PowerShell) Windows-focused PowerShell package-assignment engine for signed catalogs, verified multi-file artifacts, shared depots, 
 - [greenmtnsun/GitEasy](https://github.com/greenmtnsun/GitEasy) — ⭐1 (PowerShell) Git functions for DBAs
+
+## 🆕 New Stars — 2026-10-25 03:08 UTC
+
+- [mornyeapp/Mornye](https://github.com/mornyeapp/Mornye) — ⭐7,318 (Dart) Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. open source, 
