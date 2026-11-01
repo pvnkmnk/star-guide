@@ -138,6 +138,7 @@
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 46,427 | Python | AI pair programming in your terminal | |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 49,755 | Rust | Open source extensible AI agent — install, execute, edit, test | ⭐ [Pick](#-agentic-dev-top-10) |
 
+| [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) | 15,798 | TypeScript | Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own | 🆕 |
 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | 64,909 | Python | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor C | 🆕 |
 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 80,802 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini | 🆕 |
 | [ethanhamilthon/jin](https://github.com/ethanhamilthon/jin) | 11 | Go | Stable, Simple and Fast AI Agent, Use it with any API | 🆕 |
@@ -352,6 +353,8 @@
 | [clangen/musikcube](https://github.com/clangen/musikcube) | 4,784 | C++ | Cross-platform terminal-based music player & server | ⭐ [Pick](#-media-top-10) |
 | [dweymouth/supersonic](https://github.com/dweymouth/supersonic) | 2,210 | Go | Lightweight cross-platform desktop client for music servers | |
 
+| [lokal-music/lokal](https://github.com/lokal-music/lokal) | 167 | JavaScript | Local-first music player built w/ Electron and React. Designed for people with large local music libraries who'd like a  | 🆕 |
+| [rekkyrosso/ampcast](https://github.com/rekkyrosso/ampcast) | 391 | TypeScript | Ampcast music player | 🆕 |
 | [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) | 1,936 | Rust | Your next music player | 🆕 |
 | [norifm/alacarte](https://github.com/norifm/alacarte) | 118 | JavaScript | self-hosted Apple Music downloader with a polished web UI, Apple Music Library display, ALAC-to-FLAC conversion, live qu | 🆕 |
 | [team-spotube/spotube](https://github.com/team-spotube/spotube) | 49,453 | Dart | 🎧 Open source music streaming app! Available for both desktop & mobile! | 🆕 |
@@ -841,6 +844,8 @@
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | ~95k | — | SaaS, PaaS, IaaS free tiers for devs/devops |
 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | ~85k | JavaScript | 24-lesson web development curriculum |
 
+| [axxalab/axxa-agent](https://github.com/axxalab/axxa-agent) | 5 | TypeScript | AI chat, Vault Q&A and an agent that edits your notes, built mobile-first. OpenAI, Claude, Gemini, OpenRouter, NVIDIA NI | 🆕 |
+| [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) | 3,098 | TypeScript | A secure REST API and Model Context Protocol (MCP) server for your vault. | 🆕 |
 | [breferrari/shardmind](https://github.com/breferrari/shardmind) | 39 | TypeScript | Package manager for Obsidian vault templates | 🆕 |
 | [Badgerati/Pode](https://github.com/Badgerati/Pode) | 1,067 | PowerShell | Pode is a Cross-Platform PowerShell web framework for creating REST APIs, Web Sites, and TCP/SMTP servers | 🆕 |
 | [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) | 2,443 | Go | High-performance, low-latency note synchronization, online management, and remote REST API service platform. | 🆕 |
@@ -1296,6 +1301,8 @@
 | [OminousIndustries/PhoneDriver](https://github.com/OminousIndustries/PhoneDriver) | 1,513 | Python | Android phone control with Qwen3-VL |
 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | 5,658 | JavaScript | Powerful text/code editor for Android |
 
+| [HmnDev-Tech/shevery](https://github.com/HmnDev-Tech/shevery) | 1,552 | Kotlin | Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements. | 🆕 |
+| [AhmetCanArslan/ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) | 2,419 | Kotlin | Lightweight, no vpn firewall solution for Android 11+ | 🆕 |
 | [jhaiian/ClintGecko](https://github.com/jhaiian/ClintGecko) | 116 | Kotlin | Android Firefox-based browser with ADM, media capture, and extensions | 🆕 |
 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | 12,345 | Swift | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. | 🆕 |
 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 151,792 | C | Display and control your Android device | 🆕 |

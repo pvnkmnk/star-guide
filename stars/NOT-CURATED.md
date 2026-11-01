@@ -310,3 +310,17 @@
 ## 🆕 New Stars — 2026-10-25 03:08 UTC
 
 - [mornyeapp/Mornye](https://github.com/mornyeapp/Mornye) — ⭐7,318 (Dart) Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. open source, 
+
+## 🆕 New Stars — 2026-11-01 04:18 UTC
+
+- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) — ⭐4,555 (Rust) Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure
+- [eliasstravik/shepherdr](https://github.com/eliasstravik/shepherdr) — ⭐1,044 (TypeScript) Run many coding agents across machines from a phone, tablet or desktop. A herdr plugin.
+- [marcomorosi06/WiFiAudioStreaming-Desktop](https://github.com/marcomorosi06/WiFiAudioStreaming-Desktop) — ⭐591 (Kotlin) A desktop application for streaming audio over a local network. It allows you to stream your computer's internal audio t
+- [elhizazi1/ShizuCoreFetch](https://github.com/elhizazi1/ShizuCoreFetch) — ⭐519 (Kotlin) An advanced centralized platform for fetching and managing applications requiring core permissions.
+- [egoist/gorex](https://github.com/egoist/gorex) — ⭐205 (Go) Rex terminal clone in MyGo native UI
+- [Kryzern/Heimdall](https://github.com/Kryzern/Heimdall) — ⭐86 (Rust) A fast, lightweight, and pretty file searcher and launcher for Windows.
+- [goniszewski/grimoire-web-extension](https://github.com/goniszewski/grimoire-web-extension) — ⭐73 (TypeScript) Companion extension for Grimoire - the bookmark manager for the wizards 🧙
+- [progrium/glaze](https://github.com/progrium/glaze) — ⭐11 (Go) Glaze: a CGo-free desktop WebView toolkit for Go
+- [Leonezz/obsidian-mcp-server](https://github.com/Leonezz/obsidian-mcp-server) — ⭐5 (TypeScript) 
+- [Coherence-Wizard/Coherence-Wizard](https://github.com/Coherence-Wizard/Coherence-Wizard) — ⭐2 (TypeScript) Obsidian Plugin With Powerful Tools For Creating Order and Coherence
+- [jorritvanderheide/obsidian-in-the-open](https://github.com/jorritvanderheide/obsidian-in-the-open) — ⭐2 (TypeScript) Publish a note to your website over Micropub, with its links turned into real citations.
