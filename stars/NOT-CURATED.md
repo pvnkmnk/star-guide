@@ -324,3 +324,47 @@
 - [Leonezz/obsidian-mcp-server](https://github.com/Leonezz/obsidian-mcp-server) — ⭐5 (TypeScript) 
 - [Coherence-Wizard/Coherence-Wizard](https://github.com/Coherence-Wizard/Coherence-Wizard) — ⭐2 (TypeScript) Obsidian Plugin With Powerful Tools For Creating Order and Coherence
 - [jorritvanderheide/obsidian-in-the-open](https://github.com/jorritvanderheide/obsidian-in-the-open) — ⭐2 (TypeScript) Publish a note to your website over Micropub, with its links turned into real citations.
+
+## 🆕 New Stars — 2026-11-08 04:22 UTC
+
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — ⭐111,709 (JavaScript) Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pa
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) — ⭐93,744 (Go) RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure
+- [Niko1221/Strata](https://github.com/Niko1221/Strata) — ⭐41,567 (C++) Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anth
+- [novuhq/novu](https://github.com/novuhq/novu) — ⭐40,295 (TypeScript) The open-source communication infrastructure for agents and products
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) — ⭐38,168 (TypeScript) ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) — ⭐37,852 (Python) "Vibe-Trading: Your Personal Trading Agent"
+- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) — ⭐32,399 (Python) AI job application bot: automated job search and job hunting, auto-apply to resume-matching jobs while you sleep.
+- [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) — ⭐17,909 (C) Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) — ⭐15,356 (Rust) A tiling window manager for Windows 🍉
+- [moby/buildkit](https://github.com/moby/buildkit) — ⭐10,381 (Go) concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) — ⭐8,251 (Python) Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users
+- [HeyPuter/everything](https://github.com/HeyPuter/everything) — ⭐7,590 (JavaScript) We're rebuilding and open-sourcing the world’s software from scratch.
+- [unclebob/ub-mode](https://github.com/unclebob/ub-mode) — ⭐7,263 (-) 
+- [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) — ⭐6,040 (Java) A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
+- [amnweb/yasb](https://github.com/amnweb/yasb) — ⭐5,757 (Python) A highly configurable Windows status bar written in Python. 
+- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) — ⭐5,023 (Go) Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for autom
+- [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) — ⭐4,958 (Python) Experience-Driven Black-Box Cost Control for Coding Agents
+- [NVIDIA/nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) — ⭐4,616 (Go) Build and run containers leveraging NVIDIA GPUs
+- [getwud/wud](https://github.com/getwud/wud) — ⭐4,199 (TypeScript) Keep your containers up-to-date!
+- [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) — ⭐4,197 (Python) Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
+- [aicodeking/leanrea](https://github.com/aicodeking/leanrea) — ⭐4,084 (Python) One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% chea
+- [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline) — ⭐3,512 (TypeScript) Isometric line figures that answer the pointer. For React and for anything with a DOM.
+- [music-assistant/server](https://github.com/music-assistant/server) — ⭐3,294 (Python) Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of
+- [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) — ⭐2,212 (Rust) Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git 
+- [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) — ⭐1,969 (Kotlin) ⚠️ Alpha Software - Testers Only
+- [sftwrdotdev/Markpad](https://github.com/sftwrdotdev/Markpad) — ⭐1,380 (TypeScript) The Notepad equivalent for Markdown
+- [libracoder/kiri](https://github.com/libracoder/kiri) — ⭐923 (Rust) A small, fast container runtime for macOS, Windows and Linux
+- [Frontesque/scrcpy-plus](https://github.com/Frontesque/scrcpy-plus) — ⭐746 (Vue) The simplest and easiest GUI for SCRCPY.
+- [christian-byrne/audio-separation-nodes-comfyui](https://github.com/christian-byrne/audio-separation-nodes-comfyui) — ⭐675 (Python) Separate stems (vocals, bass, drums, other) from audio. Recombine, tempo match, slice/crop audio
+- [amanthanvi/noctty](https://github.com/amanthanvi/noctty) — ⭐526 (Zig) A fast, native terminal for Windows. Formerly winghostty. 🌙
+- [microsoft/xdp-for-windows](https://github.com/microsoft/xdp-for-windows) — ⭐497 (C) XDP speeds up networking on Windows
+- [0xCodez/DuoDesk](https://github.com/0xCodez/DuoDesk) — ⭐475 (JavaScript) All your computers and your phone, working as one desk. Aurora redesign of TwinDesk. GPL-3.0
+- [polyend/tracker-ce](https://github.com/polyend/tracker-ce) — ⭐323 (C) Official Polyend Tracker Community Editon for all Polyend Tracker devices.
+- [kunchenguid/runner-up](https://github.com/kunchenguid/runner-up) — ⭐288 (Go) GitHub Actions runners on your own machines, one fresh container or VM per job. Completely eliminate your cloud CI bill.
+- [dannybouwers/trala](https://github.com/dannybouwers/trala) — ⭐288 (Go) A simple, modern, and dynamic dashboard for your Traefik services.
+- [microsoft/clarity-agent](https://github.com/microsoft/clarity-agent) — ⭐278 (Python) Distill intent. Surface failure modes. Keep the plan current.
+- [docker/sandbox-kit-spec](https://github.com/docker/sandbox-kit-spec) — ⭐180 (Go) Docker Sandbox Kit Specification v3 - the kit descriptor grammar, the OCI artifact, the build frontend, and the conforma
+- [GoBeromsu/obsidian-metadata-auto-classifier](https://github.com/GoBeromsu/obsidian-metadata-auto-classifier) — ⭐59 (TypeScript) Obsidian plugin that uses AI providers to generate tags and frontmatter metadata for your notes.
+- [atifcodesalot/pyWolf3D](https://github.com/atifcodesalot/pyWolf3D) — ⭐40 (Python) a wolfenstein 3D clone in python, pygame
+- [PowerShell/ThreadJob](https://github.com/PowerShell/ThreadJob) — ⭐38 (PowerShell) 
+- [Yortw/winix](https://github.com/Yortw/winix) — ⭐14 (C#) Cross-platform CLI tools for the gaps between Windows and *nix — timeit, peep, squeeze, wargs, files, treex

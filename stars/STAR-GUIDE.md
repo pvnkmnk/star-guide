@@ -89,6 +89,7 @@
 | [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) | 4,959 | — | WireGuard + Pi-hole + Unbound in docker-compose | ⭐ [Pick](#-homelab-top-10) 🔧 [Reverse Proxy](#-reverse-proxy) |
 | [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) | 3,680 | Dockerfile | Nginx reverse proxy + Certbot + fail2ban | 🔧 [Reverse Proxy](#-reverse-proxy) |
 
+| [nodiscc/xsrv](https://github.com/nodiscc/xsrv) | 413 | Jinja | [mirror] Install and manage self-hosted services/applications, on your own server(s) - ansible collection and utilities | 🆕 |
 | [rcourtman/Pulse](https://github.com/rcourtman/Pulse) | 6,872 | Go | Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart ale | 🆕 |
 | [logshed/logshed](https://github.com/logshed/logshed) | 4 | Python | A lightweight, self-hosted homelab log aggregator and syslog server featuring real-time streaming, fast SQLite FTS5 sear | 🆕 |
 | [BenHornerTech/logshed](https://github.com/BenHornerTech/logshed) | 3 | Python | A lightweight, self-hosted homelab log aggregator and syslog server featuring real-time streaming, fast SQLite FTS5 sear | 🆕 |
@@ -138,6 +139,16 @@
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 46,427 | Python | AI pair programming in your terminal | |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 49,755 | Rust | Open source extensible AI agent — install, execute, edit, test | ⭐ [Pick](#-agentic-dev-top-10) |
 
+| [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | 441 | Shell | Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and pers | 🆕 |
+| [openwong2kim/wmux](https://github.com/openwong2kim/wmux) | 447 | TypeScript | The ADE for AI agents. Automate everything else. Do your true work. | 🆕 |
+| [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | 1,948 | Python | Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP | 🆕 |
+| [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | 3,381 | Go | The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu | 🆕 |
+| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 6,297 | Rust | A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50 | 🆕 |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 24,817 | Python | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data | 🆕 |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | 55,242 | Go | Make humans and AI agents work as one team — open-source and self-hostable. | 🆕 |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 67,205 | Python | Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from  | 🆕 |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 113,923 | JavaScript | Production-grade engineering skills for AI coding agents. | 🆕 |
+| [openai/codex](https://github.com/openai/codex) | 133,594 | Rust | Lightweight coding agent that runs in your terminal | 🆕 |
 | [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) | 15,798 | TypeScript | Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own | 🆕 |
 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | 64,909 | Python | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor C | 🆕 |
 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 80,802 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini | 🆕 |
@@ -353,6 +364,8 @@
 | [clangen/musikcube](https://github.com/clangen/musikcube) | 4,784 | C++ | Cross-platform terminal-based music player & server | ⭐ [Pick](#-media-top-10) |
 | [dweymouth/supersonic](https://github.com/dweymouth/supersonic) | 2,210 | Go | Lightweight cross-platform desktop client for music servers | |
 
+| [lokal-music/desktop](https://github.com/lokal-music/desktop) | 180 | JavaScript | Local-first music player built w/ Electron and React. Designed for people with large local music libraries who'd like a  | 🆕 |
+| [xlollx/Trackhop](https://github.com/xlollx/Trackhop) | 194 | Kotlin | Free, open-source playlist sync for Android, Windows, macOS, Linux and Docker. Keeps playlists identical across Spotify, | 🆕 |
 | [lokal-music/lokal](https://github.com/lokal-music/lokal) | 167 | JavaScript | Local-first music player built w/ Electron and React. Designed for people with large local music libraries who'd like a  | 🆕 |
 | [rekkyrosso/ampcast](https://github.com/rekkyrosso/ampcast) | 391 | TypeScript | Ampcast music player | 🆕 |
 | [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) | 1,936 | Rust | Your next music player | 🆕 |
@@ -738,6 +751,8 @@
 | [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 27,767 | Go | Find secrets before you commit them | 🔧 [Secrets](#-secrets-management) |
 | [gemini-cli-extensions/security](https://github.com/gemini-cli-extensions/security) | 787 | TypeScript | Vulnerability scanning extension for Gemini CLI | |
 
+| [greenpau/caddy-security](https://github.com/greenpau/caddy-security) | 2,278 | Go | 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local | 🆕 |
+| [casdoor/casdoor](https://github.com/casdoor/casdoor) | 14,780 | Go | An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI sup | 🆕 |
 | [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) | 8,440 | Go | The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications wit | 🆕 |
 | [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) | 14,663 | Go | A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. | 🆕 |
 | [hashgraph-online/hol-guard-plugin](https://github.com/hashgraph-online/hol-guard-plugin) | 2 | Shell | Codex plugin for HOL Guard AI security and ai-plugin-scanner workflows | 🆕 |
@@ -928,6 +943,9 @@
 |------|-----|------|-------------|
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ~58k | Rust | GPU-accelerated cross-platform terminal emulator |
 
+| [hdosys/herdr-ext](https://github.com/hdosys/herdr-ext) | 11 | Rust | Agent multiplexer that lives in your terminal. | 🆕 |
+| [lavs9/obsidian-ghostty-terminal](https://github.com/lavs9/obsidian-ghostty-terminal) | 44 | TypeScript | True Ghostty terminal (libghostty-vt WASM) embedded in Obsidian – pixel-perfect terminal with your real Ghostty config,  | 🆕 |
+| [yorukot/superfile](https://github.com/yorukot/superfile) | 24,032 | Go | Pretty fancy and modern terminal file manager | 🆕 |
 | [yotsuda/ripple](https://github.com/yotsuda/ripple) | 22 | C# | Shared console MCP server for any shell (bash, pwsh, cmd) — AI and user work in the same terminal. Real-time command vis | 🆕 |
 | [TimInTech/proxmox-manager](https://github.com/TimInTech/proxmox-manager) | 87 | Shell | Proxmox VM/CT Management Tool – A robust Bash TUI for managing Proxmox virtual machines and containers. Features include | 🆕 |
 | [GitHubSecurityLab/gh-secure](https://github.com/GitHubSecurityLab/gh-secure) | 660 | Shell | A GitHub CLI extension to enable security features on repositories following best practices from GitHub Security Lab. | 🆕 |
@@ -1052,6 +1070,7 @@
 | [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) | 26,960 | Python | Documentation that simply works |
 | [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) | 2,553 | JavaScript | Self-hosted knowledge base |
 
+| [microsoft/ShadowFrog](https://github.com/microsoft/ShadowFrog) | 33 | Python | A suite of AI coding agent skills that build and maintain a shadow knowledge base for any codebase.  | 🆕 |
 | [makeplane/plane](https://github.com/makeplane/plane) | 59,640 | TypeScript | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage t | 🆕 |
 | [iamrohithrnair/emeraldian](https://github.com/iamrohithrnair/emeraldian) | 465 | Rust | A terminal UI for your Obsidian vault: live-preview notes, backlinks, images, a force-directed graph and an assistant | 🆕 |
 | [s2b-dev/smart-second-brain](https://github.com/s2b-dev/smart-second-brain) | 1,213 | TypeScript | An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter! | 🆕 |
@@ -1156,6 +1175,8 @@
 | [mui/mui-x](https://github.com/mui/mui-x) | 5,740 | TypeScript | Build complex data-rich apps with advanced React components |
 | [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) | 1,942 | TypeScript | Extract any website's design system into tokens in seconds |
 
+| [enmerasoftware/ai-design-check](https://github.com/enmerasoftware/ai-design-check) | 237 | HTML | Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jet | 🆕 |
+| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | 16,279 | MDX | A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS),  | 🆕 |
 | [EvotecIT/HtmlTinkerX](https://github.com/EvotecIT/HtmlTinkerX) | 140 | HTML | HtmlTinkerX is a powerful async C# library for HTML, CSS, and JS processing, parsing, formatting, and optimization. It p | 🆕 |
 | [iewnfod/lumina-terminal](https://github.com/iewnfod/lumina-terminal) | 11 | TypeScript | A modern, cross-platform terminal emulator built with Tauri, React, and Xterm.js — featuring a sleek UI, command palette | 🆕 |
 | [Psysonic/psysonic](https://github.com/Psysonic/psysonic) | 404 | TypeScript | A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the future with Tauri & Rea | 🆕 |
@@ -1301,6 +1322,10 @@
 | [OminousIndustries/PhoneDriver](https://github.com/OminousIndustries/PhoneDriver) | 1,513 | Python | Android phone control with Qwen3-VL |
 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | 5,658 | JavaScript | Powerful text/code editor for Android |
 
+| [daryan044/tessera-linux](https://github.com/daryan044/tessera-linux) | 259 | Kotlin | Run Linux desktop apps on Android as native-looking apps: Debian and Flathub, GPU acceleration, a desktop mode, PRoot or | 🆕 |
+| [ComputerUseAgent/AutoCua](https://github.com/ComputerUseAgent/AutoCua) | 1,098 | Python | Automate with computer-use agent (ComputerUse / CUA) for macOS, Windows, Linux, Browser, iOS & Android. It sees the scre | 🆕 |
+| [thtbee/nectarlink](https://github.com/thtbee/nectarlink) | 2,958 | Rust | Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account. | 🆕 |
+| [InukaAsith/TwinDesk](https://github.com/InukaAsith/TwinDesk) | 3,716 | JavaScript |  All your computers and your phone, working as one desk. Screens, apps, files, clipboard, calls, texts, notifications, m | 🆕 |
 | [HmnDev-Tech/shevery](https://github.com/HmnDev-Tech/shevery) | 1,552 | Kotlin | Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements. | 🆕 |
 | [AhmetCanArslan/ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) | 2,419 | Kotlin | Lightweight, no vpn firewall solution for Android 11+ | 🆕 |
 | [jhaiian/ClintGecko](https://github.com/jhaiian/ClintGecko) | 116 | Kotlin | Android Firefox-based browser with ADM, media capture, and extensions | 🆕 |
@@ -1358,6 +1383,9 @@
 | [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) | 2,747 | C# | Organize the Windows taskbar through groups |
 | [lukeyou05/tacky-borders](https://github.com/lukeyou05/tacky-borders) | 504 | Rust | Customizable borders for Windows 11/10 |
 
+| [albertony/npiperelay](https://github.com/albertony/npiperelay) | 142 | Go | npiperelay allows you to access Windows named pipes from WSL | 🆕 |
+| [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop) | 1,602 | PowerShell | Install Linux next to Windows without a USB stick | 🆕 |
+| [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) | 9,871 | PowerShell | :zap: The most advanced PowerShell module on GitHub for fine-tuning Windows 11 & Windows 10 | 🆕 |
 | [olmos-cmd/Media-Backup-Manager-for-immich](https://github.com/olmos-cmd/Media-Backup-Manager-for-immich) | 2 | Rust | Free and open-source Windows desktop app for downloading original Immich photos and videos by album or year, licensed un | 🆕 |
 | [MarkusMcNugen/PSWriteColorEX](https://github.com/MarkusMcNugen/PSWriteColorEX) | 2 | PowerShell | Advanced PowerShell module for enhanced colored console output with TrueColor (24-bit RGB) support, automatic terminal d | 🆕 |
 | [joshuaevan/powershell-dev-toolkit](https://github.com/joshuaevan/powershell-dev-toolkit) | 6 | PowerShell | A collection of PowerShell productivity scripts for Windows developers.  Streamline your workflow with SSH tunneling, pr | 🆕 |
