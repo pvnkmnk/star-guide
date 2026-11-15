@@ -89,6 +89,8 @@
 | [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) | 4,959 | — | WireGuard + Pi-hole + Unbound in docker-compose | ⭐ [Pick](#-homelab-top-10) 🔧 [Reverse Proxy](#-reverse-proxy) |
 | [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) | 3,680 | Dockerfile | Nginx reverse proxy + Certbot + fail2ban | 🔧 [Reverse Proxy](#-reverse-proxy) |
 
+| [askvalet/valet](https://github.com/askvalet/valet) | 72 | TypeScript | Talk to your homelab. A self-hosted, open-source, AI-native homepage. | 🆕 |
+| [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) | 43,427 | C++ | Self-hosted game stream host for Moonlight. | 🆕 |
 | [nodiscc/xsrv](https://github.com/nodiscc/xsrv) | 413 | Jinja | [mirror] Install and manage self-hosted services/applications, on your own server(s) - ansible collection and utilities | 🆕 |
 | [rcourtman/Pulse](https://github.com/rcourtman/Pulse) | 6,872 | Go | Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart ale | 🆕 |
 | [logshed/logshed](https://github.com/logshed/logshed) | 4 | Python | A lightweight, self-hosted homelab log aggregator and syslog server featuring real-time streaming, fast SQLite FTS5 sear | 🆕 |
@@ -139,6 +141,7 @@
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | 46,427 | Python | AI pair programming in your terminal | |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 49,755 | Rust | Open source extensible AI agent — install, execute, edit, test | ⭐ [Pick](#-agentic-dev-top-10) |
 
+| [Maneek21/Deft](https://github.com/Maneek21/Deft) | 598 | TypeScript | Self-hostable AGPL workspace where humans and AI agents share chat, tasks, knowledge, approvals, and MCP context. | 🆕 |
 | [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | 441 | Shell | Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and pers | 🆕 |
 | [openwong2kim/wmux](https://github.com/openwong2kim/wmux) | 447 | TypeScript | The ADE for AI agents. Automate everything else. Do your true work. | 🆕 |
 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | 1,948 | Python | Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP | 🆕 |
@@ -859,6 +862,7 @@
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | ~95k | — | SaaS, PaaS, IaaS free tiers for devs/devops |
 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | ~85k | JavaScript | 24-lesson web development curriculum |
 
+| [TheDuffman85/crowdsec-web-ui](https://github.com/TheDuffman85/crowdsec-web-ui) | 1,100 | TypeScript | A self-hosted dashboard for CrowdSec: investigate alerts, manage decisions, monitor runtime metrics, and send notificati | 🆕 |
 | [axxalab/axxa-agent](https://github.com/axxalab/axxa-agent) | 5 | TypeScript | AI chat, Vault Q&A and an agent that edits your notes, built mobile-first. OpenAI, Claude, Gemini, OpenRouter, NVIDIA NI | 🆕 |
 | [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) | 3,098 | TypeScript | A secure REST API and Model Context Protocol (MCP) server for your vault. | 🆕 |
 | [breferrari/shardmind](https://github.com/breferrari/shardmind) | 39 | TypeScript | Package manager for Obsidian vault templates | 🆕 |
@@ -943,6 +947,8 @@
 |------|-----|------|-------------|
 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | ~58k | Rust | GPU-accelerated cross-platform terminal emulator |
 
+| [paulfxyz/mang](https://github.com/paulfxyz/mang) | 5 | Rust | 🥷 Mang 句芒 (3.1.0) — Natural language → terminal commands. Rust CLI, AI-powered. Just type: yo | 🆕 |
+| [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) | 52,641 | Shell | Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. | 🆕 |
 | [hdosys/herdr-ext](https://github.com/hdosys/herdr-ext) | 11 | Rust | Agent multiplexer that lives in your terminal. | 🆕 |
 | [lavs9/obsidian-ghostty-terminal](https://github.com/lavs9/obsidian-ghostty-terminal) | 44 | TypeScript | True Ghostty terminal (libghostty-vt WASM) embedded in Obsidian – pixel-perfect terminal with your real Ghostty config,  | 🆕 |
 | [yorukot/superfile](https://github.com/yorukot/superfile) | 24,032 | Go | Pretty fancy and modern terminal file manager | 🆕 |

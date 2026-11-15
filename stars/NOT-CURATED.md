@@ -368,3 +368,10 @@
 - [atifcodesalot/pyWolf3D](https://github.com/atifcodesalot/pyWolf3D) — ⭐40 (Python) a wolfenstein 3D clone in python, pygame
 - [PowerShell/ThreadJob](https://github.com/PowerShell/ThreadJob) — ⭐38 (PowerShell) 
 - [Yortw/winix](https://github.com/Yortw/winix) — ⭐14 (C#) Cross-platform CLI tools for the gaps between Windows and *nix — timeit, peep, squeeze, wargs, files, treex
+
+## 🆕 New Stars — 2026-11-15 04:45 UTC
+
+- [expo/exact](https://github.com/expo/exact) — ⭐4,209 (Rust) Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and
+- [sergi0g/cup](https://github.com/sergi0g/cup) — ⭐1,372 (Rust) 🥤Docker container updates made easy
+- [opensubsonic/opensubsonic.github.io](https://github.com/opensubsonic/opensubsonic.github.io) — ⭐256 (SCSS) Repository hosting the definition and discussions of the Open Subsonic API
+- [Sendspin/sendspin-cpp-cli](https://github.com/Sendspin/sendspin-cpp-cli) — ⭐25 (C++) Sendspin for Linux/Mac/Windows CLI Player
