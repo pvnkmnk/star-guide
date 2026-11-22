@@ -375,3 +375,8 @@
 - [sergi0g/cup](https://github.com/sergi0g/cup) — ⭐1,372 (Rust) 🥤Docker container updates made easy
 - [opensubsonic/opensubsonic.github.io](https://github.com/opensubsonic/opensubsonic.github.io) — ⭐256 (SCSS) Repository hosting the definition and discussions of the Open Subsonic API
 - [Sendspin/sendspin-cpp-cli](https://github.com/Sendspin/sendspin-cpp-cli) — ⭐25 (C++) Sendspin for Linux/Mac/Windows CLI Player
+
+## 🆕 New Stars — 2026-11-22 04:59 UTC
+
+- [asciimoo/nogon](https://github.com/asciimoo/nogon) — ⭐6,340 (Go) Your own search engine
+- [LiuYuWei/adk-agent-extension](https://github.com/LiuYuWei/adk-agent-extension) — ⭐51 (TypeScript) This is the Google ADK Agent Application - Gemini CLI Extension Project.
